@@ -13,7 +13,7 @@ const Footer: FC = () => {
         </Link>
 
         <a
-          href='https://github.com/staffordrose'
+          href='https://github.com/staffordrose/nba-replay'
           target='_blank'
           rel='noopener noreferrer'
           css={(theme) => css`

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101062",
+  "gameCode": "20220320/PORIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-20T15:30:00Z",
+  "gameDateTimeUTC": "2022-03-20T19:30:00Z",
+  "homeTeamTime": "2022-03-20T15:30:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 25,
+    "losses": 47,
+    "score": 129,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 26,
+    "losses": 44,
+    "score": 98,
+    "seed": 0
+  }
+}

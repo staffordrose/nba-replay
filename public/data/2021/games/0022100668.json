@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100668",
+  "gameCode": "20220119/ORLPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-19T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-20T00:00:00Z",
+  "homeTeamTime": "2022-01-19T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 26,
+    "losses": 18,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 8,
+    "losses": 38,
+    "score": 110,
+    "seed": 0
+  }
+}

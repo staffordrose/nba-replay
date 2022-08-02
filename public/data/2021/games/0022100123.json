@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100123",
+  "gameCode": "20211104/OKCLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-04T22:30:00Z",
+  "gameDateTimeUTC": "2021-11-05T02:30:00Z",
+  "homeTeamTime": "2021-11-04T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 5,
+    "losses": 4,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 2,
+    "losses": 6,
+    "score": 107,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100653",
+  "gameCode": "20220116/UTADEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-16T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-17T01:00:00Z",
+  "homeTeamTime": "2022-01-16T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 22,
+    "losses": 20,
+    "score": 102,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 29,
+    "losses": 14,
+    "score": 125,
+    "seed": 0
+  }
+}

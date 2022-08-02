@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100740",
+  "gameCode": "20220128/UTAMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-28T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-29T01:00:00Z",
+  "homeTeamTime": "2022-01-28T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 34,
+    "losses": 17,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 30,
+    "losses": 20,
+    "score": 109,
+    "seed": 0
+  }
+}

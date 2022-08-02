@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100107",
+  "gameCode": "20211102/HOULAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-02T22:30:00Z",
+  "gameDateTimeUTC": "2021-11-03T02:30:00Z",
+  "homeTeamTime": "2021-11-02T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 5,
+    "losses": 3,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 1,
+    "losses": 6,
+    "score": 117,
+    "seed": 0
+  }
+}

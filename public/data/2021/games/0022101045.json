@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101045",
+  "gameCode": "20220317/DETORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-17T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-17T23:00:00Z",
+  "homeTeamTime": "2022-03-17T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 18,
+    "losses": 53,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 19,
+    "losses": 51,
+    "score": 134,
+    "seed": 0
+  }
+}

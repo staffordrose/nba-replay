@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100805",
+  "gameCode": "20220206/INDCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-06T18:00:00Z",
+  "gameDateTimeUTC": "2022-02-06T23:00:00Z",
+  "homeTeamTime": "2022-02-06T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 33,
+    "losses": 21,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 19,
+    "losses": 36,
+    "score": 85,
+    "seed": 0
+  }
+}

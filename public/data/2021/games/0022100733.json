@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100733",
+  "gameCode": "20220127/LALPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-27T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-28T00:30:00Z",
+  "homeTeamTime": "2022-01-27T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 29,
+    "losses": 19,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 24,
+    "losses": 25,
+    "score": 87,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100031",
+  "gameCode": "20211023/NOPMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-23T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-24T00:00:00Z",
+  "homeTeamTime": "2021-10-23T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 2,
+    "losses": 0,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 0,
+    "losses": 3,
+    "score": 89,
+    "seed": 0
+  }
+}

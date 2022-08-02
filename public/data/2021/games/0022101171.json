@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101171",
+  "gameCode": "20220403/NYKORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-03T18:00:00Z",
+  "gameDateTimeUTC": "2022-04-03T22:00:00Z",
+  "homeTeamTime": "2022-04-03T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 4,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 20,
+    "losses": 59,
+    "score": 88,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 35,
+    "losses": 44,
+    "score": 118,
+    "seed": 0
+  }
+}

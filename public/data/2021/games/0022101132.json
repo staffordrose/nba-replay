@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101132",
+  "gameCode": "20220329/CHIWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-29T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-29T23:00:00Z",
+  "homeTeamTime": "2022-03-29T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 32,
+    "losses": 43,
+    "score": 94,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 44,
+    "losses": 32,
+    "score": 107,
+    "seed": 0
+  }
+}

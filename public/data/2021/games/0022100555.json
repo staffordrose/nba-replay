@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100555",
+  "gameCode": "20220103/ORLCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-03T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-04T01:00:00Z",
+  "homeTeamTime": "2022-01-03T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 25,
+    "losses": 10,
+    "score": 102,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 7,
+    "losses": 31,
+    "score": 98,
+    "seed": 0
+  }
+}

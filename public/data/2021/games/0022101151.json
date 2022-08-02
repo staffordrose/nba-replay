@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101151",
+  "gameCode": "20220401/TORORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-01T19:00:00Z",
+  "gameDateTimeUTC": "2022-04-01T23:00:00Z",
+  "homeTeamTime": "2022-04-01T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 4,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 20,
+    "losses": 58,
+    "score": 89,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 45,
+    "losses": 32,
+    "score": 102,
+    "seed": 0
+  }
+}

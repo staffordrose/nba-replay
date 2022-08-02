@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100373",
+  "gameCode": "20211208/DALMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-08T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-09T01:00:00Z",
+  "homeTeamTime": "2021-12-08T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 14,
+    "losses": 11,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 12,
+    "losses": 12,
+    "score": 104,
+    "seed": 0
+  }
+}

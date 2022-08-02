@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100427",
+  "gameCode": "20211215/WASSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-15T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-16T03:00:00Z",
+  "homeTeamTime": "2021-12-15T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 12,
+    "losses": 17,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 15,
+    "losses": 14,
+    "score": 105,
+    "seed": 0
+  }
+}

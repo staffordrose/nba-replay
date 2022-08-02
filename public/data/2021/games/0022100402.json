@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100402",
+  "gameCode": "20211212/MINPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-12T21:00:00Z",
+  "gameDateTimeUTC": "2021-12-13T02:00:00Z",
+  "homeTeamTime": "2021-12-12T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 11,
+    "losses": 16,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 12,
+    "losses": 15,
+    "score": 116,
+    "seed": 0
+  }
+}

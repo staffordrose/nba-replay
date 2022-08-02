@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100313",
+  "gameCode": "20220522/GSWDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-22T21:00:00Z",
+  "gameDateTimeUTC": "2022-05-23T01:00:00Z",
+  "homeTeamTime": "2022-05-22T20:00:00Z",
+  "day": "Sun",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 3",
+  "seriesText": "GSW leads series 3-0",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 0,
+    "losses": 3,
+    "score": 100,
+    "seed": 4
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 3,
+    "losses": 0,
+    "score": 109,
+    "seed": 3
+  }
+}

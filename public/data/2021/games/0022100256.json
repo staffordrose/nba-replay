@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100256",
+  "gameCode": "20211122/HOUBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-22T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-23T00:30:00Z",
+  "homeTeamTime": "2021-11-22T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 10,
+    "losses": 8,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 1,
+    "losses": 16,
+    "score": 90,
+    "seed": 0
+  }
+}

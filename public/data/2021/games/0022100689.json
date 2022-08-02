@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100689",
+  "gameCode": "20220121/TORWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-21T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-22T01:00:00Z",
+  "homeTeamTime": "2022-01-21T20:00:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 23,
+    "losses": 23,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 22,
+    "losses": 21,
+    "score": 109,
+    "seed": 0
+  }
+}

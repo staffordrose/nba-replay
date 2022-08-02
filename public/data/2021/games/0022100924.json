@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100924",
+  "gameCode": "20220228/CHAMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-28T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-01T01:00:00Z",
+  "homeTeamTime": "2022-02-28T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 37,
+    "losses": 25,
+    "score": 130,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 30,
+    "losses": 33,
+    "score": 106,
+    "seed": 0
+  }
+}

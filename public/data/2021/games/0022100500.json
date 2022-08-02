@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100500",
+  "gameCode": "20211226/DENLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-26T21:00:00Z",
+  "gameDateTimeUTC": "2021-12-27T02:00:00Z",
+  "homeTeamTime": "2021-12-26T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 17,
+    "losses": 16,
+    "score": 100,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 16,
+    "losses": 16,
+    "score": 103,
+    "seed": 0
+  }
+}

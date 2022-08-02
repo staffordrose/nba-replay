@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100494",
+  "gameCode": "20211226/TORCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-26T18:00:00Z",
+  "gameDateTimeUTC": "2021-12-26T23:00:00Z",
+  "homeTeamTime": "2021-12-26T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 20,
+    "losses": 13,
+    "score": 144,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 14,
+    "losses": 16,
+    "score": 99,
+    "seed": 0
+  }
+}

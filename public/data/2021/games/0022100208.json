@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100208",
+  "gameCode": "20211115/TORPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-15T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-16T03:00:00Z",
+  "homeTeamTime": "2021-11-15T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 7,
+    "losses": 8,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 7,
+    "losses": 8,
+    "score": 113,
+    "seed": 0
+  }
+}

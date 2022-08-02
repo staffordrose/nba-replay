@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100790",
+  "gameCode": "20220204/ATLTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-04T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-05T00:30:00Z",
+  "homeTeamTime": "2022-02-04T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 28,
+    "losses": 23,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 25,
+    "losses": 27,
+    "score": 114,
+    "seed": 0
+  }
+}

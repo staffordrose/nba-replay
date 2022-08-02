@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100857",
+  "gameCode": "20220213/MININD",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-13T15:00:00Z",
+  "gameDateTimeUTC": "2022-02-13T20:00:00Z",
+  "homeTeamTime": "2022-02-13T15:00:00Z",
+  "day": "Sun",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 19,
+    "losses": 39,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 30,
+    "losses": 27,
+    "score": 129,
+    "seed": 0
+  }
+}

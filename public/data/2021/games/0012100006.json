@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100006",
+  "gameCode": "20211004/CHAOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-04T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-05T00:00:00Z",
+  "homeTeamTime": "2021-10-04T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 0,
+    "losses": 1,
+    "score": 97,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 1,
+    "losses": 0,
+    "score": 113,
+    "seed": 0
+  }
+}

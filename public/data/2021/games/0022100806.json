@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100806",
+  "gameCode": "20220206/BOSORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-06T18:00:00Z",
+  "gameDateTimeUTC": "2022-02-06T23:00:00Z",
+  "homeTeamTime": "2022-02-06T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 12,
+    "losses": 43,
+    "score": 83,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 30,
+    "losses": 25,
+    "score": 116,
+    "seed": 0
+  }
+}

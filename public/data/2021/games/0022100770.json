@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100770",
+  "gameCode": "20220201/DENMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-01T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-02T01:00:00Z",
+  "homeTeamTime": "2022-02-01T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 26,
+    "losses": 25,
+    "score": 130,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 28,
+    "losses": 22,
+    "score": 115,
+    "seed": 0
+  }
+}

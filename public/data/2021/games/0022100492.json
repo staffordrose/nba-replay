@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100492",
+  "gameCode": "20211225/DALUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-25T22:30:00Z",
+  "gameDateTimeUTC": "2021-12-26T03:30:00Z",
+  "homeTeamTime": "2021-12-25T20:30:00Z",
+  "day": "Sat",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 23,
+    "losses": 9,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 15,
+    "losses": 17,
+    "score": 116,
+    "seed": 0
+  }
+}

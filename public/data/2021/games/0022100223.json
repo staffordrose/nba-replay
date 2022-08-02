@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100223",
+  "gameCode": "20211117/CHIPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-17T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-18T03:00:00Z",
+  "homeTeamTime": "2021-11-17T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 8,
+    "losses": 8,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 10,
+    "losses": 5,
+    "score": 107,
+    "seed": 0
+  }
+}

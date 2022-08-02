@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100910",
+  "gameCode": "20220226/BKNMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-26T20:30:00Z",
+  "gameDateTimeUTC": "2022-02-27T01:30:00Z",
+  "homeTeamTime": "2022-02-26T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 36,
+    "losses": 25,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 32,
+    "losses": 29,
+    "score": 126,
+    "seed": 0
+  }
+}

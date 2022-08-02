@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100397",
+  "gameCode": "20211211/DENSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-11T20:30:00Z",
+  "gameDateTimeUTC": "2021-12-12T01:30:00Z",
+  "homeTeamTime": "2021-12-11T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 9,
+    "losses": 16,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 13,
+    "losses": 13,
+    "score": 127,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100985",
+  "gameCode": "20220309/LALHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-03-09T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-10T01:00:00Z",
+  "homeTeamTime": "2022-03-09T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 17,
+    "losses": 49,
+    "score": 139,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 28,
+    "losses": 37,
+    "score": 130,
+    "seed": 0
+  }
+}

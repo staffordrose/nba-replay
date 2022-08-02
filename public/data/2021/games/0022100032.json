@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100032",
+  "gameCode": "20211023/MILSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-23T20:30:00Z",
+  "gameDateTimeUTC": "2021-10-24T00:30:00Z",
+  "homeTeamTime": "2021-10-23T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 1,
+    "losses": 2,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 2,
+    "losses": 1,
+    "score": 121,
+    "seed": 0
+  }
+}

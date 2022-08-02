@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101144",
+  "gameCode": "20220330/MEMSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-30T20:30:00Z",
+  "gameDateTimeUTC": "2022-03-31T00:30:00Z",
+  "homeTeamTime": "2022-03-30T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 31,
+    "losses": 45,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 54,
+    "losses": 23,
+    "score": 112,
+    "seed": 0
+  }
+}

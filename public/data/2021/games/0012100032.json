@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100032",
+  "gameCode": "20211009/TORBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-09T19:00:00Z",
+  "gameDateTimeUTC": "2021-10-09T23:00:00Z",
+  "homeTeamTime": "2021-10-09T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 2,
+    "losses": 0,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 1,
+    "losses": 2,
+    "score": 111,
+    "seed": 0
+  }
+}

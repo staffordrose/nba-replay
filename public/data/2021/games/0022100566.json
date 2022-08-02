@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100566",
+  "gameCode": "20220104/SACLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-04T22:30:00Z",
+  "gameDateTimeUTC": "2022-01-05T03:30:00Z",
+  "homeTeamTime": "2022-01-04T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 20,
+    "losses": 19,
+    "score": 122,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 16,
+    "losses": 23,
+    "score": 114,
+    "seed": 0
+  }
+}

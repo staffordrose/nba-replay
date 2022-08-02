@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100051",
+  "gameCode": "20211026/GSWOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-26T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-27T00:00:00Z",
+  "homeTeamTime": "2021-10-26T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 0,
+    "losses": 4,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 4,
+    "losses": 0,
+    "score": 106,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100725",
+  "gameCode": "20220126/SACATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-26T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-27T00:30:00Z",
+  "homeTeamTime": "2022-01-26T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 22,
+    "losses": 25,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 18,
+    "losses": 32,
+    "score": 104,
+    "seed": 0
+  }
+}

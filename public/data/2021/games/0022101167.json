@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101167",
+  "gameCode": "20220403/DALMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-03T13:00:00Z",
+  "gameDateTimeUTC": "2022-04-03T17:00:00Z",
+  "homeTeamTime": "2022-04-03T12:00:00Z",
+  "day": "Sun",
+  "monthNum": 4,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 48,
+    "losses": 30,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 49,
+    "losses": 30,
+    "score": 118,
+    "seed": 0
+  }
+}

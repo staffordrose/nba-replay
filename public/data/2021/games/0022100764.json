@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100764",
+  "gameCode": "20220131/GSWHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-31T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-01T01:00:00Z",
+  "homeTeamTime": "2022-01-31T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 14,
+    "losses": 36,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 38,
+    "losses": 13,
+    "score": 122,
+    "seed": 0
+  }
+}

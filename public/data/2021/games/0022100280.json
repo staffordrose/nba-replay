@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100280",
+  "gameCode": "20211126/DETLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-26T15:30:00Z",
+  "gameDateTimeUTC": "2021-11-26T20:30:00Z",
+  "homeTeamTime": "2021-11-26T12:30:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 11,
+    "losses": 8,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 4,
+    "losses": 15,
+    "score": 96,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100495",
+  "gameCode": "20211226/PHIWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-26T18:00:00Z",
+  "gameDateTimeUTC": "2021-12-26T23:00:00Z",
+  "homeTeamTime": "2021-12-26T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 17,
+    "losses": 16,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 17,
+    "losses": 16,
+    "score": 117,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100573",
+  "gameCode": "20220105/TORMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-05T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-06T01:00:00Z",
+  "homeTeamTime": "2022-01-05T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 25,
+    "losses": 15,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 18,
+    "losses": 17,
+    "score": 117,
+    "seed": 0
+  }
+}

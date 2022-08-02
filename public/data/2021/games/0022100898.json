@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100898",
+  "gameCode": "20220225/HOUORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-25T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-26T00:00:00Z",
+  "homeTeamTime": "2022-02-25T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 14,
+    "losses": 47,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 15,
+    "losses": 44,
+    "score": 111,
+    "seed": 0
+  }
+}

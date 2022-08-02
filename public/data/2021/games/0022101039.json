@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101039",
+  "gameCode": "20220316/LALMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-16T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-17T00:00:00Z",
+  "homeTeamTime": "2022-03-16T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 41,
+    "losses": 30,
+    "score": 124,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 29,
+    "losses": 40,
+    "score": 104,
+    "seed": 0
+  }
+}

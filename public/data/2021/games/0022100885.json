@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100885",
+  "gameCode": "20220217/MIACHA",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT2",
+  "gameDateTimeEst": "2022-02-17T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-18T00:00:00Z",
+  "homeTeamTime": "2022-02-17T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Spectrum Center",
+  "arenaState": "NC",
+  "arenaCity": "Charlotte",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 29,
+    "losses": 31,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 38,
+    "losses": 21,
+    "score": 111,
+    "seed": 0
+  }
+}

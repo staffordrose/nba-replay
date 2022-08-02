@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101193",
+  "gameCode": "20220406/BOSCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-06T20:00:00Z",
+  "gameDateTimeUTC": "2022-04-07T00:00:00Z",
+  "homeTeamTime": "2022-04-06T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 45,
+    "losses": 35,
+    "score": 94,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 50,
+    "losses": 30,
+    "score": 117,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101093",
+  "gameCode": "20220323/PHILAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-23T22:00:00Z",
+  "gameDateTimeUTC": "2022-03-24T02:00:00Z",
+  "homeTeamTime": "2022-03-23T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 31,
+    "losses": 42,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 45,
+    "losses": 27,
+    "score": 126,
+    "seed": 0
+  }
+}

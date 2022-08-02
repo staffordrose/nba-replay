@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100921",
+  "gameCode": "20220228/INDORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-28T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-01T00:00:00Z",
+  "homeTeamTime": "2022-02-28T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 15,
+    "losses": 47,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 21,
+    "losses": 42,
+    "score": 103,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100513",
+  "gameCode": "20211228/CLENOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-28T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-29T01:00:00Z",
+  "homeTeamTime": "2021-12-28T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 13,
+    "losses": 22,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 20,
+    "losses": 14,
+    "score": 104,
+    "seed": 0
+  }
+}

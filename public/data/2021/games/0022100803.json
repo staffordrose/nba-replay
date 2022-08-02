@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100803",
+  "gameCode": "20220206/DETMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-06T15:30:00Z",
+  "gameDateTimeUTC": "2022-02-06T20:30:00Z",
+  "homeTeamTime": "2022-02-06T14:30:00Z",
+  "day": "Sun",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 28,
+    "losses": 25,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 12,
+    "losses": 41,
+    "score": 105,
+    "seed": 0
+  }
+}

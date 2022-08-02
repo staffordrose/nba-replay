@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100156",
+  "gameCode": "20211109/ATLUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-09T21:00:00Z",
+  "gameDateTimeUTC": "2021-11-10T02:00:00Z",
+  "homeTeamTime": "2021-11-09T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 8,
+    "losses": 3,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 4,
+    "losses": 8,
+    "score": 98,
+    "seed": 0
+  }
+}

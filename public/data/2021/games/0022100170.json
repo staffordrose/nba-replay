@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100170",
+  "gameCode": "20211110/MIALAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2021-11-10T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-11T03:00:00Z",
+  "homeTeamTime": "2021-11-10T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 7,
+    "losses": 5,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 7,
+    "losses": 4,
+    "score": 117,
+    "seed": 0
+  }
+}

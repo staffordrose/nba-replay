@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100772",
+  "gameCode": "20220201/BKNPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-01T22:00:00Z",
+  "gameDateTimeUTC": "2022-02-02T03:00:00Z",
+  "homeTeamTime": "2022-02-01T20:00:00Z",
+  "day": "Tue",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 41,
+    "losses": 9,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 29,
+    "losses": 21,
+    "score": 111,
+    "seed": 0
+  }
+}

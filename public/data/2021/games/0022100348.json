@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100348",
+  "gameCode": "20211204/LACSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-04T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-05T03:00:00Z",
+  "homeTeamTime": "2021-12-04T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 10,
+    "losses": 14,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 12,
+    "losses": 12,
+    "score": 99,
+    "seed": 0
+  }
+}

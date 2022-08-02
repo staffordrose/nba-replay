@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100542",
+  "gameCode": "20220101/LACBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-01T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-02T00:30:00Z",
+  "homeTeamTime": "2022-01-01T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 23,
+    "losses": 11,
+    "score": 116,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 19,
+    "losses": 18,
+    "score": 120,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100487",
+  "gameCode": "20211223/SASLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-23T22:30:00Z",
+  "gameDateTimeUTC": "2021-12-24T03:30:00Z",
+  "homeTeamTime": "2021-12-23T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 16,
+    "losses": 17,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 13,
+    "losses": 18,
+    "score": 138,
+    "seed": 0
+  }
+}

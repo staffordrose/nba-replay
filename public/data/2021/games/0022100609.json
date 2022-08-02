@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100609",
+  "gameCode": "20220110/INDBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-01-10T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-11T00:30:00Z",
+  "homeTeamTime": "2022-01-10T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 20,
+    "losses": 21,
+    "score": 101,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 15,
+    "losses": 26,
+    "score": 98,
+    "seed": 0
+  }
+}

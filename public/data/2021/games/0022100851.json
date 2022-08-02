@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100851",
+  "gameCode": "20220212/BKNMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-12T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-13T01:00:00Z",
+  "homeTeamTime": "2022-02-12T20:00:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 37,
+    "losses": 20,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 29,
+    "losses": 27,
+    "score": 111,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100312",
+  "gameCode": "20211129/PORUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-29T21:00:00Z",
+  "gameDateTimeUTC": "2021-11-30T02:00:00Z",
+  "homeTeamTime": "2021-11-29T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 14,
+    "losses": 7,
+    "score": 129,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 10,
+    "losses": 11,
+    "score": 107,
+    "seed": 0
+  }
+}

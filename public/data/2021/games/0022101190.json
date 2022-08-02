@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101190",
+  "gameCode": "20220406/DALDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-06T19:00:00Z",
+  "gameDateTimeUTC": "2022-04-06T23:00:00Z",
+  "homeTeamTime": "2022-04-06T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 23,
+    "losses": 57,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 50,
+    "losses": 30,
+    "score": 131,
+    "seed": 0
+  }
+}

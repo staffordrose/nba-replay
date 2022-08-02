@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100310",
+  "gameCode": "20211129/CLEDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-29T20:30:00Z",
+  "gameDateTimeUTC": "2021-11-30T01:30:00Z",
+  "homeTeamTime": "2021-11-29T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 10,
+    "losses": 9,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 11,
+    "losses": 10,
+    "score": 114,
+    "seed": 0
+  }
+}

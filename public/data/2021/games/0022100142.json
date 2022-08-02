@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100142",
+  "gameCode": "20211107/MILWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-07T18:00:00Z",
+  "gameDateTimeUTC": "2021-11-07T23:00:00Z",
+  "homeTeamTime": "2021-11-07T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 7,
+    "losses": 3,
+    "score": 101,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 4,
+    "losses": 6,
+    "score": 94,
+    "seed": 0
+  }
+}

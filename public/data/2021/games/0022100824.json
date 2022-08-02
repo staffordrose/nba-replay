@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100824",
+  "gameCode": "20220208/MINSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-08T22:00:00Z",
+  "gameDateTimeUTC": "2022-02-09T03:00:00Z",
+  "homeTeamTime": "2022-02-08T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 20,
+    "losses": 36,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 29,
+    "losses": 25,
+    "score": 134,
+    "seed": 0
+  }
+}

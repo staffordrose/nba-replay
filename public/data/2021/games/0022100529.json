@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100529",
+  "gameCode": "20211231/PHXBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-31T13:00:00Z",
+  "gameDateTimeUTC": "2021-12-31T18:00:00Z",
+  "homeTeamTime": "2021-12-31T13:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 17,
+    "losses": 19,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 27,
+    "losses": 8,
+    "score": 108,
+    "seed": 0
+  }
+}

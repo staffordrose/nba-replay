@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100423",
+  "gameCode": "20211215/CHASAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-15T20:30:00Z",
+  "gameDateTimeUTC": "2021-12-16T01:30:00Z",
+  "homeTeamTime": "2021-12-15T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 10,
+    "losses": 17,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 16,
+    "losses": 14,
+    "score": 131,
+    "seed": 0
+  }
+}

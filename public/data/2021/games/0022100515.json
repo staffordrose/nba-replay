@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100515",
+  "gameCode": "20211228/OKCSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-28T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-29T03:00:00Z",
+  "homeTeamTime": "2021-12-28T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 14,
+    "losses": 21,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 12,
+    "losses": 21,
+    "score": 111,
+    "seed": 0
+  }
+}

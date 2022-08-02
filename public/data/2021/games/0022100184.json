@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100184",
+  "gameCode": "20211112/MINLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-12T22:30:00Z",
+  "gameDateTimeUTC": "2021-11-13T03:30:00Z",
+  "homeTeamTime": "2021-11-12T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 7,
+    "losses": 6,
+    "score": 83,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 4,
+    "losses": 7,
+    "score": 107,
+    "seed": 0
+  }
+}

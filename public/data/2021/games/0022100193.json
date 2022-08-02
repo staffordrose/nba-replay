@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100193",
+  "gameCode": "20211114/MILATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-14T18:00:00Z",
+  "gameDateTimeUTC": "2021-11-14T23:00:00Z",
+  "homeTeamTime": "2021-11-14T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 5,
+    "losses": 9,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 6,
+    "losses": 8,
+    "score": 100,
+    "seed": 0
+  }
+}

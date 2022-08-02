@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100869",
+  "gameCode": "20220215/BOSPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-15T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-16T00:30:00Z",
+  "homeTeamTime": "2022-02-15T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 34,
+    "losses": 23,
+    "score": 87,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 34,
+    "losses": 25,
+    "score": 135,
+    "seed": 0
+  }
+}

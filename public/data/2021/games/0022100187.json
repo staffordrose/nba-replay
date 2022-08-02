@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100187",
+  "gameCode": "20211113/WASORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-13T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-14T00:00:00Z",
+  "homeTeamTime": "2021-11-13T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 3,
+    "losses": 10,
+    "score": 92,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 9,
+    "losses": 3,
+    "score": 104,
+    "seed": 0
+  }
+}

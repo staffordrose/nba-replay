@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100322",
+  "gameCode": "20211201/PHIBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-01T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-02T00:30:00Z",
+  "homeTeamTime": "2021-12-01T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 12,
+    "losses": 10,
+    "score": 88,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 11,
+    "losses": 11,
+    "score": 87,
+    "seed": 0
+  }
+}

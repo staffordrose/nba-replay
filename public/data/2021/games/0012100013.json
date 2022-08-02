@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100013",
+  "gameCode": "20211005/WASHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-05T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-06T00:00:00Z",
+  "homeTeamTime": "2021-10-05T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 1,
+    "losses": 0,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 0,
+    "losses": 1,
+    "score": 119,
+    "seed": 0
+  }
+}

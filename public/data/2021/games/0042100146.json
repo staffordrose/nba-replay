@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100146",
+  "gameCode": "20220428/PHXNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-28T19:30:00Z",
+  "gameDateTimeUTC": "2022-04-28T23:30:00Z",
+  "homeTeamTime": "2022-04-28T18:30:00Z",
+  "day": "Thu",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 6",
+  "seriesText": "PHX wins series 4-2",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 2,
+    "losses": 4,
+    "score": 109,
+    "seed": 8
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 4,
+    "losses": 2,
+    "score": 115,
+    "seed": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100687",
+  "gameCode": "20220121/MIAATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-21T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-22T00:30:00Z",
+  "homeTeamTime": "2022-01-21T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 20,
+    "losses": 25,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 29,
+    "losses": 17,
+    "score": 108,
+    "seed": 0
+  }
+}

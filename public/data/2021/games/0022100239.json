@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100239",
+  "gameCode": "20211120/HOUNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-20T17:00:00Z",
+  "gameDateTimeUTC": "2021-11-20T22:00:00Z",
+  "homeTeamTime": "2021-11-20T17:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 9,
+    "losses": 7,
+    "score": 106,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 1,
+    "losses": 15,
+    "score": 99,
+    "seed": 0
+  }
+}

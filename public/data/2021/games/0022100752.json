@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100752",
+  "gameCode": "20220130/LACCHA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-30T13:00:00Z",
+  "gameDateTimeUTC": "2022-01-30T18:00:00Z",
+  "homeTeamTime": "2022-01-30T13:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Spectrum Center",
+  "arenaState": "NC",
+  "arenaCity": "Charlotte",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 28,
+    "losses": 23,
+    "score": 90,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 26,
+    "losses": 26,
+    "score": 115,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100850",
+  "gameCode": "20220212/DENTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-12T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-13T00:30:00Z",
+  "homeTeamTime": "2022-02-12T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 31,
+    "losses": 24,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 31,
+    "losses": 25,
+    "score": 110,
+    "seed": 0
+  }
+}

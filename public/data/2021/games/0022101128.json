@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101128",
+  "gameCode": "20220328/SASHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-28T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-29T00:00:00Z",
+  "homeTeamTime": "2022-03-28T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 20,
+    "losses": 56,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 31,
+    "losses": 44,
+    "score": 123,
+    "seed": 0
+  }
+}

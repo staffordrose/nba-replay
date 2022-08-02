@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100945",
+  "gameCode": "20220303/LALLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-03T22:00:00Z",
+  "gameDateTimeUTC": "2022-03-04T03:00:00Z",
+  "homeTeamTime": "2022-03-03T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 34,
+    "losses": 31,
+    "score": 132,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 27,
+    "losses": 35,
+    "score": 111,
+    "seed": 0
+  }
+}

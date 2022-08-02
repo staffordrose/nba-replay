@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100699",
+  "gameCode": "20220123/BOSWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-23T15:30:00Z",
+  "gameDateTimeUTC": "2022-01-23T20:30:00Z",
+  "homeTeamTime": "2022-01-23T15:30:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 23,
+    "losses": 24,
+    "score": 87,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 24,
+    "losses": 24,
+    "score": 116,
+    "seed": 0
+  }
+}

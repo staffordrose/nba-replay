@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100042",
+  "gameCode": "20211025/MILIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-25T19:00:00Z",
+  "gameDateTimeUTC": "2021-10-25T23:00:00Z",
+  "homeTeamTime": "2021-10-25T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 1,
+    "losses": 3,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 3,
+    "losses": 1,
+    "score": 119,
+    "seed": 0
+  }
+}

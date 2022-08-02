@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101086",
+  "gameCode": "20220323/SACIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-23T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-23T23:00:00Z",
+  "homeTeamTime": "2022-03-23T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 25,
+    "losses": 48,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 26,
+    "losses": 48,
+    "score": 110,
+    "seed": 0
+  }
+}

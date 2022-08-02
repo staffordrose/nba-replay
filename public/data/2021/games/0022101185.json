@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101185",
+  "gameCode": "20220405/POROKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-05T20:00:00Z",
+  "gameDateTimeUTC": "2022-04-06T00:00:00Z",
+  "homeTeamTime": "2022-04-05T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 24,
+    "losses": 55,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 27,
+    "losses": 52,
+    "score": 94,
+    "seed": 0
+  }
+}

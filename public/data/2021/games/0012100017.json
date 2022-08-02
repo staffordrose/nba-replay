@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100017",
+  "gameCode": "20211006/ORLNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-06T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-07T00:00:00Z",
+  "homeTeamTime": "2021-10-06T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 1,
+    "losses": 1,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 0,
+    "losses": 2,
+    "score": 86,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100603",
+  "gameCode": "20220109/CHIDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-09T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-10T00:30:00Z",
+  "homeTeamTime": "2022-01-09T18:30:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 22,
+    "losses": 18,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 26,
+    "losses": 11,
+    "score": 99,
+    "seed": 0
+  }
+}

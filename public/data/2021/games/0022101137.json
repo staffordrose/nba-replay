@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101137",
+  "gameCode": "20220330/DENIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-30T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-30T23:00:00Z",
+  "homeTeamTime": "2022-03-30T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 25,
+    "losses": 52,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 46,
+    "losses": 31,
+    "score": 125,
+    "seed": 0
+  }
+}

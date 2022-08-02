@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100768",
+  "gameCode": "20220201/WASMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-01T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-02T00:30:00Z",
+  "homeTeamTime": "2022-02-01T18:30:00Z",
+  "day": "Tue",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 32,
+    "losses": 21,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 23,
+    "losses": 27,
+    "score": 98,
+    "seed": 0
+  }
+}

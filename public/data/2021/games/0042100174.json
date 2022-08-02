@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100174",
+  "gameCode": "20220423/DALUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-23T16:30:00Z",
+  "gameDateTimeUTC": "2022-04-23T20:30:00Z",
+  "homeTeamTime": "2022-04-23T14:30:00Z",
+  "day": "Sat",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 4",
+  "seriesText": "Series tied 2-2",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 2,
+    "losses": 2,
+    "score": 100,
+    "seed": 5
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 2,
+    "losses": 2,
+    "score": 99,
+    "seed": 4
+  }
+}

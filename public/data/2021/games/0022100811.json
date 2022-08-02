@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100811",
+  "gameCode": "20220207/MIAWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-07T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-08T00:00:00Z",
+  "homeTeamTime": "2022-02-07T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 24,
+    "losses": 29,
+    "score": 100,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 35,
+    "losses": 20,
+    "score": 121,
+    "seed": 0
+  }
+}

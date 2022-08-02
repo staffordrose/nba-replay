@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100380",
+  "gameCode": "20211209/LALMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-09T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-10T01:00:00Z",
+  "homeTeamTime": "2021-12-09T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 15,
+    "losses": 11,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 13,
+    "losses": 13,
+    "score": 95,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100153",
+  "gameCode": "20220421/MEMMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-21T19:30:00Z",
+  "gameDateTimeUTC": "2022-04-21T23:30:00Z",
+  "homeTeamTime": "2022-04-21T18:30:00Z",
+  "day": "Thu",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 3",
+  "seriesText": "MEM leads series 2-1",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 1,
+    "losses": 2,
+    "score": 95,
+    "seed": 7
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 2,
+    "losses": 1,
+    "score": 104,
+    "seed": 2
+  }
+}

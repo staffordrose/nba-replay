@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101180",
+  "gameCode": "20220405/HOUBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-05T19:30:00Z",
+  "gameDateTimeUTC": "2022-04-05T23:30:00Z",
+  "homeTeamTime": "2022-04-05T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 41,
+    "losses": 38,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 20,
+    "losses": 60,
+    "score": 105,
+    "seed": 0
+  }
+}

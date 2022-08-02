@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100758",
+  "gameCode": "20220130/SASPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-30T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-31T01:00:00Z",
+  "homeTeamTime": "2022-01-30T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 40,
+    "losses": 9,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 19,
+    "losses": 32,
+    "score": 110,
+    "seed": 0
+  }
+}

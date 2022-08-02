@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100302",
+  "gameCode": "20211128/BOSTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-28T18:00:00Z",
+  "gameDateTimeUTC": "2021-11-28T23:00:00Z",
+  "homeTeamTime": "2021-11-28T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 9,
+    "losses": 12,
+    "score": 97,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 11,
+    "losses": 10,
+    "score": 109,
+    "seed": 0
+  }
+}

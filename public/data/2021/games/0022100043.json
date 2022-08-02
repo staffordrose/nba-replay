@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100043",
+  "gameCode": "20211025/DETATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-25T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-25T23:30:00Z",
+  "homeTeamTime": "2021-10-25T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 2,
+    "losses": 1,
+    "score": 122,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 0,
+    "losses": 3,
+    "score": 104,
+    "seed": 0
+  }
+}

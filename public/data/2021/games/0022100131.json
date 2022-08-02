@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100131",
+  "gameCode": "20211105/INDPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-05T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-06T02:00:00Z",
+  "homeTeamTime": "2021-11-05T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 4,
+    "losses": 5,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 3,
+    "losses": 7,
+    "score": 106,
+    "seed": 0
+  }
+}

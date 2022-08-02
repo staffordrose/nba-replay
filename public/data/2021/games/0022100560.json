@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100560",
+  "gameCode": "20220103/ATLPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-03T22:00:00Z",
+  "gameDateTimeUTC": "2022-01-04T03:00:00Z",
+  "homeTeamTime": "2022-01-03T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 14,
+    "losses": 22,
+    "score": 136,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 16,
+    "losses": 20,
+    "score": 131,
+    "seed": 0
+  }
+}

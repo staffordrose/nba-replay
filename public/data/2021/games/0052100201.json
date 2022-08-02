@@ -1,0 +1,41 @@
+{
+  "gameId": "0052100201",
+  "gameCode": "20220415/ATLCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-15T19:30:00Z",
+  "gameDateTimeUTC": "2022-04-15T23:30:00Z",
+  "homeTeamTime": "2022-04-15T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 0,
+    "losses": 2,
+    "score": 101,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 2,
+    "losses": 0,
+    "score": 107,
+    "seed": 0
+  }
+}

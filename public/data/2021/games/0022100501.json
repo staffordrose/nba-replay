@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100501",
+  "gameCode": "20211227/HOUCHA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-27T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-28T00:00:00Z",
+  "homeTeamTime": "2021-12-27T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Spectrum Center",
+  "arenaState": "NC",
+  "arenaCity": "Charlotte",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 18,
+    "losses": 17,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 10,
+    "losses": 24,
+    "score": 99,
+    "seed": 0
+  }
+}

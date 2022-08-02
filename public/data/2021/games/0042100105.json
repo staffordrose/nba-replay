@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100105",
+  "gameCode": "20220426/ATLMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-26T19:00:00Z",
+  "gameDateTimeUTC": "2022-04-26T23:00:00Z",
+  "homeTeamTime": "2022-04-26T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 5",
+  "seriesText": "MIA wins series 4-1",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 4,
+    "losses": 1,
+    "score": 97,
+    "seed": 1
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 1,
+    "losses": 4,
+    "score": 94,
+    "seed": 8
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100984",
+  "gameCode": "20220309/ATLMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-09T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-10T01:00:00Z",
+  "homeTeamTime": "2022-03-09T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 42,
+    "losses": 25,
+    "score": 124,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 31,
+    "losses": 34,
+    "score": 115,
+    "seed": 0
+  }
+}

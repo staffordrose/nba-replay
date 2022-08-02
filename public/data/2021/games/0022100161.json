@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100161",
+  "gameCode": "20211110/MILNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-10T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-11T00:30:00Z",
+  "homeTeamTime": "2021-11-10T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 7,
+    "losses": 5,
+    "score": 100,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 6,
+    "losses": 6,
+    "score": 112,
+    "seed": 0
+  }
+}

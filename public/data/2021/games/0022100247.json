@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100247",
+  "gameCode": "20211120/UTASAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-20T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-21T03:00:00Z",
+  "homeTeamTime": "2021-11-20T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 6,
+    "losses": 11,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 11,
+    "losses": 5,
+    "score": 123,
+    "seed": 0
+  }
+}

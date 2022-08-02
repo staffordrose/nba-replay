@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100422",
+  "gameCode": "20211215/NOPOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-15T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-16T01:00:00Z",
+  "homeTeamTime": "2021-12-15T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 8,
+    "losses": 19,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 9,
+    "losses": 21,
+    "score": 113,
+    "seed": 0
+  }
+}

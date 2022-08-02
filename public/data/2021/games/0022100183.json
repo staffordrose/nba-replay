@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100183",
+  "gameCode": "20211112/CHIGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-12T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-13T03:00:00Z",
+  "homeTeamTime": "2021-11-12T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 11,
+    "losses": 1,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 8,
+    "losses": 4,
+    "score": 93,
+    "seed": 0
+  }
+}

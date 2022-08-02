@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100399",
+  "gameCode": "20211212/BKNDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-12T18:00:00Z",
+  "gameDateTimeUTC": "2021-12-12T23:00:00Z",
+  "homeTeamTime": "2021-12-12T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 4,
+    "losses": 22,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 19,
+    "losses": 8,
+    "score": 116,
+    "seed": 0
+  }
+}

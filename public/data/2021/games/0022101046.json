@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101046",
+  "gameCode": "20220318/DALPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-18T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-18T23:00:00Z",
+  "homeTeamTime": "2022-03-18T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 43,
+    "losses": 26,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 43,
+    "losses": 27,
+    "score": 101,
+    "seed": 0
+  }
+}

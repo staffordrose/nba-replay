@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100595",
+  "gameCode": "20220108/NYKBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-08T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-09T00:30:00Z",
+  "homeTeamTime": "2022-01-08T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 19,
+    "losses": 21,
+    "score": 99,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 19,
+    "losses": 21,
+    "score": 75,
+    "seed": 0
+  }
+}

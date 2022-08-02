@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100602",
+  "gameCode": "20220109/SASBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-01-09T12:00:00Z",
+  "gameDateTimeUTC": "2022-01-09T17:00:00Z",
+  "homeTeamTime": "2022-01-09T12:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 25,
+    "losses": 13,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 15,
+    "losses": 24,
+    "score": 119,
+    "seed": 0
+  }
+}

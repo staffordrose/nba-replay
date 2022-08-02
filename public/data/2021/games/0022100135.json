@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100135",
+  "gameCode": "20211106/PHICHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-06T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-07T00:00:00Z",
+  "homeTeamTime": "2021-11-06T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 6,
+    "losses": 3,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 8,
+    "losses": 2,
+    "score": 114,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100222",
+  "gameCode": "20211117/DALPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-17T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-18T03:00:00Z",
+  "homeTeamTime": "2021-11-17T20:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 11,
+    "losses": 3,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 9,
+    "losses": 5,
+    "score": 98,
+    "seed": 0
+  }
+}

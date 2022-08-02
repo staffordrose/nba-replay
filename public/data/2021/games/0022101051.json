@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101051",
+  "gameCode": "20220318/LALTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-03-18T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-18T23:30:00Z",
+  "homeTeamTime": "2022-03-18T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 39,
+    "losses": 31,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 30,
+    "losses": 40,
+    "score": 128,
+    "seed": 0
+  }
+}

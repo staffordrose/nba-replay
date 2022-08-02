@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100874",
+  "gameCode": "20220216/ATLORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-16T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-17T00:00:00Z",
+  "homeTeamTime": "2022-02-16T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 13,
+    "losses": 47,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 28,
+    "losses": 30,
+    "score": 130,
+    "seed": 0
+  }
+}

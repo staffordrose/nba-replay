@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100016",
+  "gameCode": "20211006/CLEATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-06T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-06T23:30:00Z",
+  "homeTeamTime": "2021-10-06T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 0,
+    "losses": 2,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 1,
+    "losses": 1,
+    "score": 99,
+    "seed": 0
+  }
+}

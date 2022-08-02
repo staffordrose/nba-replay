@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100860",
+  "gameCode": "20220214/OKCNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-02-14T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-15T00:30:00Z",
+  "homeTeamTime": "2022-02-14T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 25,
+    "losses": 33,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 18,
+    "losses": 39,
+    "score": 127,
+    "seed": 0
+  }
+}

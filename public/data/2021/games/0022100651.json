@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100651",
+  "gameCode": "20220116/HOUSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-16T18:00:00Z",
+  "gameDateTimeUTC": "2022-01-16T23:00:00Z",
+  "homeTeamTime": "2022-01-16T15:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 18,
+    "losses": 28,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 13,
+    "losses": 32,
+    "score": 118,
+    "seed": 0
+  }
+}

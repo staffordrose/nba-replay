@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100004",
+  "gameCode": "20211004/ATLMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-04T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-04T23:30:00Z",
+  "homeTeamTime": "2021-10-04T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 1,
+    "losses": 0,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 0,
+    "losses": 1,
+    "score": 99,
+    "seed": 0
+  }
+}

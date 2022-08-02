@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100870",
+  "gameCode": "20220215/INDMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-15T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-16T01:00:00Z",
+  "homeTeamTime": "2022-02-15T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 36,
+    "losses": 23,
+    "score": 128,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 19,
+    "losses": 40,
+    "score": 119,
+    "seed": 0
+  }
+}

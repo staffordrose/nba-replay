@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101038",
+  "gameCode": "20220316/PHXHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-16T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-17T00:00:00Z",
+  "homeTeamTime": "2022-03-16T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 17,
+    "losses": 52,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 56,
+    "losses": 14,
+    "score": 129,
+    "seed": 0
+  }
+}

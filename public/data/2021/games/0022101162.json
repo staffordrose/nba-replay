@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101162",
+  "gameCode": "20220402/CLENYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-02T13:00:00Z",
+  "gameDateTimeUTC": "2022-04-02T17:00:00Z",
+  "homeTeamTime": "2022-04-02T13:00:00Z",
+  "day": "Sat",
+  "monthNum": 4,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 34,
+    "losses": 44,
+    "score": 101,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 43,
+    "losses": 35,
+    "score": 119,
+    "seed": 0
+  }
+}

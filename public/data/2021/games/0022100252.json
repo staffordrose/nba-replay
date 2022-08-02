@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100252",
+  "gameCode": "20211121/TORGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-21T20:30:00Z",
+  "gameDateTimeUTC": "2021-11-22T01:30:00Z",
+  "homeTeamTime": "2021-11-21T17:30:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 15,
+    "losses": 2,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 8,
+    "losses": 10,
+    "score": 104,
+    "seed": 0
+  }
+}

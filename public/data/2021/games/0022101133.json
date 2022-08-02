@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101133",
+  "gameCode": "20220329/DETBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-29T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-29T23:30:00Z",
+  "homeTeamTime": "2022-03-29T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 40,
+    "losses": 36,
+    "score": 130,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 20,
+    "losses": 56,
+    "score": 123,
+    "seed": 0
+  }
+}

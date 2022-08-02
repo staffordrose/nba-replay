@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100600",
+  "gameCode": "20220109/MINHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-09T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-10T00:00:00Z",
+  "homeTeamTime": "2022-01-09T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 11,
+    "losses": 30,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 20,
+    "losses": 20,
+    "score": 141,
+    "seed": 0
+  }
+}

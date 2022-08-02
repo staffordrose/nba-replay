@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100211",
+  "gameCode": "20220501/MILBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-01T13:00:00Z",
+  "gameDateTimeUTC": "2022-05-01T17:00:00Z",
+  "homeTeamTime": "2022-05-01T13:00:00Z",
+  "day": "Sun",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 1",
+  "seriesText": "MIL leads series 1-0",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 0,
+    "losses": 1,
+    "score": 89,
+    "seed": 2
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 1,
+    "losses": 0,
+    "score": 101,
+    "seed": 3
+  }
+}

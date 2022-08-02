@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100036",
+  "gameCode": "20211024/ORLNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-24T19:00:00Z",
+  "gameDateTimeUTC": "2021-10-24T23:00:00Z",
+  "homeTeamTime": "2021-10-24T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 2,
+    "losses": 1,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 1,
+    "losses": 2,
+    "score": 110,
+    "seed": 0
+  }
+}

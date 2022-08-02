@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100763",
+  "gameCode": "20220131/SACNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-31T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-01T00:30:00Z",
+  "homeTeamTime": "2022-01-31T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 24,
+    "losses": 27,
+    "score": 116,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 18,
+    "losses": 34,
+    "score": 96,
+    "seed": 0
+  }
+}

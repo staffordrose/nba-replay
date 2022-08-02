@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100828",
+  "gameCode": "20220209/GSWUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-09T22:00:00Z",
+  "gameDateTimeUTC": "2022-02-10T03:00:00Z",
+  "homeTeamTime": "2022-02-09T20:00:00Z",
+  "day": "Wed",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 34,
+    "losses": 21,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 41,
+    "losses": 14,
+    "score": 85,
+    "seed": 0
+  }
+}

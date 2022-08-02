@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100410",
+  "gameCode": "20211213/CHADAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-13T20:30:00Z",
+  "gameDateTimeUTC": "2021-12-14T01:30:00Z",
+  "homeTeamTime": "2021-12-13T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 14,
+    "losses": 13,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 15,
+    "losses": 14,
+    "score": 96,
+    "seed": 0
+  }
+}

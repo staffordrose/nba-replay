@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100083",
+  "gameCode": "20211030/UTACHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-30T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-31T00:00:00Z",
+  "homeTeamTime": "2021-10-30T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 5,
+    "losses": 1,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 4,
+    "losses": 1,
+    "score": 99,
+    "seed": 0
+  }
+}

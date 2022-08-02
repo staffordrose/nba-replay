@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100551",
+  "gameCode": "20220102/MINLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-02T21:30:00Z",
+  "gameDateTimeUTC": "2022-01-03T02:30:00Z",
+  "homeTeamTime": "2022-01-02T18:30:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 19,
+    "losses": 19,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 16,
+    "losses": 20,
+    "score": 103,
+    "seed": 0
+  }
+}

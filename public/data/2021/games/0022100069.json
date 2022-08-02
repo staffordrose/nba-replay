@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100069",
+  "gameCode": "20211028/SASDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-28T20:30:00Z",
+  "gameDateTimeUTC": "2021-10-29T00:30:00Z",
+  "homeTeamTime": "2021-10-28T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 3,
+    "losses": 1,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 1,
+    "losses": 4,
+    "score": 99,
+    "seed": 0
+  }
+}

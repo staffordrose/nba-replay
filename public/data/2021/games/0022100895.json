@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100895",
+  "gameCode": "20220224/DENSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-24T22:00:00Z",
+  "gameDateTimeUTC": "2022-02-25T03:00:00Z",
+  "homeTeamTime": "2022-02-24T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 22,
+    "losses": 39,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 34,
+    "losses": 25,
+    "score": 128,
+    "seed": 0
+  }
+}

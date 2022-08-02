@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100206",
+  "gameCode": "20211115/PHXMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-15T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-16T01:00:00Z",
+  "homeTeamTime": "2021-11-15T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 4,
+    "losses": 9,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 10,
+    "losses": 3,
+    "score": 99,
+    "seed": 0
+  }
+}

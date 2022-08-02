@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100141",
+  "gameCode": "20211107/UTAORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-07T18:00:00Z",
+  "gameDateTimeUTC": "2021-11-07T23:00:00Z",
+  "homeTeamTime": "2021-11-07T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 3,
+    "losses": 8,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 7,
+    "losses": 3,
+    "score": 100,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100152",
+  "gameCode": "20211108/ATLGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-08T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-09T03:00:00Z",
+  "homeTeamTime": "2021-11-08T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 9,
+    "losses": 1,
+    "score": 127,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 4,
+    "losses": 7,
+    "score": 113,
+    "seed": 0
+  }
+}

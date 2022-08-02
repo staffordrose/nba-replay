@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101200",
+  "gameCode": "20220407/PORNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-07T20:00:00Z",
+  "gameDateTimeUTC": "2022-04-08T00:00:00Z",
+  "homeTeamTime": "2022-04-07T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 36,
+    "losses": 44,
+    "score": 127,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 27,
+    "losses": 53,
+    "score": 94,
+    "seed": 0
+  }
+}

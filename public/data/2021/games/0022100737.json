@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100737",
+  "gameCode": "20220128/BOSATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-28T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-29T00:30:00Z",
+  "homeTeamTime": "2022-01-28T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 23,
+    "losses": 25,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 25,
+    "losses": 25,
+    "score": 92,
+    "seed": 0
+  }
+}

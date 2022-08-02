@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100493",
+  "gameCode": "20211226/ORLMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-26T15:30:00Z",
+  "gameDateTimeUTC": "2021-12-26T20:30:00Z",
+  "homeTeamTime": "2021-12-26T15:30:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 21,
+    "losses": 13,
+    "score": 93,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 7,
+    "losses": 27,
+    "score": 83,
+    "seed": 0
+  }
+}

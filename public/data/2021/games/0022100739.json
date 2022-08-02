@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100739",
+  "gameCode": "20220128/PORHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-28T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-29T01:00:00Z",
+  "homeTeamTime": "2022-01-28T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 14,
+    "losses": 35,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 21,
+    "losses": 28,
+    "score": 125,
+    "seed": 0
+  }
+}

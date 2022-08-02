@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100019",
+  "gameCode": "20211022/INDWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2021-10-22T19:00:00Z",
+  "gameDateTimeUTC": "2021-10-22T23:00:00Z",
+  "homeTeamTime": "2021-10-22T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 2,
+    "losses": 0,
+    "score": 135,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 0,
+    "losses": 2,
+    "score": 134,
+    "seed": 0
+  }
+}

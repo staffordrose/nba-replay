@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100321",
+  "gameCode": "20211201/MINWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-01T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-02T00:00:00Z",
+  "homeTeamTime": "2021-12-01T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 14,
+    "losses": 8,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 11,
+    "losses": 11,
+    "score": 107,
+    "seed": 0
+  }
+}

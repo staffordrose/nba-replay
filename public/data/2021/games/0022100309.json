@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100309",
+  "gameCode": "20211129/INDMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-29T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-30T01:00:00Z",
+  "homeTeamTime": "2021-11-29T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 11,
+    "losses": 10,
+    "score": 100,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 9,
+    "losses": 14,
+    "score": 98,
+    "seed": 0
+  }
+}

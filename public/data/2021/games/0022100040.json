@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100040",
+  "gameCode": "20211024/MEMLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-24T21:30:00Z",
+  "gameDateTimeUTC": "2021-10-25T01:30:00Z",
+  "homeTeamTime": "2021-10-24T18:30:00Z",
+  "day": "Sun",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 1,
+    "losses": 2,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 2,
+    "losses": 1,
+    "score": 118,
+    "seed": 0
+  }
+}

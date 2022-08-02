@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100619",
+  "gameCode": "20220112/CHAPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-12T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-13T00:00:00Z",
+  "homeTeamTime": "2022-01-12T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 23,
+    "losses": 17,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 23,
+    "losses": 19,
+    "score": 109,
+    "seed": 0
+  }
+}

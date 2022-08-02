@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100532",
+  "gameCode": "20211231/MIAHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-31T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-01T00:00:00Z",
+  "homeTeamTime": "2021-12-31T18:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 10,
+    "losses": 26,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 23,
+    "losses": 13,
+    "score": 120,
+    "seed": 0
+  }
+}

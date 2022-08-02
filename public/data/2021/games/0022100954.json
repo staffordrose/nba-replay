@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100954",
+  "gameCode": "20220305/SACDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-05T17:00:00Z",
+  "gameDateTimeUTC": "2022-03-05T22:00:00Z",
+  "homeTeamTime": "2022-03-05T16:00:00Z",
+  "day": "Sat",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 39,
+    "losses": 25,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 24,
+    "losses": 42,
+    "score": 113,
+    "seed": 0
+  }
+}

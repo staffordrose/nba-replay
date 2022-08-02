@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100203",
+  "gameCode": "20220506/MIAPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-06T19:00:00Z",
+  "gameDateTimeUTC": "2022-05-06T23:00:00Z",
+  "homeTeamTime": "2022-05-06T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 3",
+  "seriesText": "MIA leads series 2-1",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 1,
+    "losses": 2,
+    "score": 99,
+    "seed": 4
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 2,
+    "losses": 1,
+    "score": 79,
+    "seed": 1
+  }
+}

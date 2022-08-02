@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100882",
+  "gameCode": "20220216/HOUPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-16T21:00:00Z",
+  "gameDateTimeUTC": "2022-02-17T02:00:00Z",
+  "homeTeamTime": "2022-02-16T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 48,
+    "losses": 10,
+    "score": 124,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 15,
+    "losses": 42,
+    "score": 121,
+    "seed": 0
+  }
+}

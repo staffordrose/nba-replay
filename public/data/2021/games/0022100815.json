@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100815",
+  "gameCode": "20220208/PHXPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-08T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-09T00:00:00Z",
+  "homeTeamTime": "2022-02-08T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 32,
+    "losses": 22,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 44,
+    "losses": 10,
+    "score": 114,
+    "seed": 0
+  }
+}

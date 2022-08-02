@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100538",
+  "gameCode": "20211231/PORLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-31T22:30:00Z",
+  "gameDateTimeUTC": "2022-01-01T03:30:00Z",
+  "homeTeamTime": "2021-12-31T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 18,
+    "losses": 19,
+    "score": 139,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 13,
+    "losses": 22,
+    "score": 106,
+    "seed": 0
+  }
+}

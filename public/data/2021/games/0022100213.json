@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100213",
+  "gameCode": "20211117/WASCHA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-17T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-18T00:00:00Z",
+  "homeTeamTime": "2021-11-17T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Spectrum Center",
+  "arenaState": "NC",
+  "arenaCity": "Charlotte",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 9,
+    "losses": 7,
+    "score": 97,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 10,
+    "losses": 4,
+    "score": 87,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100743",
+  "gameCode": "20220128/MINPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-28T21:00:00Z",
+  "gameDateTimeUTC": "2022-01-29T02:00:00Z",
+  "homeTeamTime": "2022-01-28T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 39,
+    "losses": 9,
+    "score": 134,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 24,
+    "losses": 25,
+    "score": 124,
+    "seed": 0
+  }
+}

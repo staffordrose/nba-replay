@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100502",
+  "gameCode": "20211227/CHIATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-27T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-28T00:30:00Z",
+  "homeTeamTime": "2021-12-27T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 15,
+    "losses": 18,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 21,
+    "losses": 10,
+    "score": 130,
+    "seed": 0
+  }
+}

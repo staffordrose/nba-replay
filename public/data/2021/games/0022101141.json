@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101141",
+  "gameCode": "20220330/MINTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-30T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-30T23:30:00Z",
+  "homeTeamTime": "2022-03-30T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 44,
+    "losses": 32,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 43,
+    "losses": 34,
+    "score": 102,
+    "seed": 0
+  }
+}

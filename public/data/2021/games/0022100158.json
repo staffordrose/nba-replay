@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100158",
+  "gameCode": "20211110/WASCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-10T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-11T00:00:00Z",
+  "homeTeamTime": "2021-11-10T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 7,
+    "losses": 5,
+    "score": 94,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 8,
+    "losses": 3,
+    "score": 97,
+    "seed": 0
+  }
+}

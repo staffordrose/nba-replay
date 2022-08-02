@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100076",
+  "gameCode": "20211029/LACPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-29T22:00:00Z",
+  "gameDateTimeUTC": "2021-10-30T02:00:00Z",
+  "homeTeamTime": "2021-10-29T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 3,
+    "losses": 2,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 1,
+    "losses": 4,
+    "score": 92,
+    "seed": 0
+  }
+}

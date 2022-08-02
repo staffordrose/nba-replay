@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100861",
+  "gameCode": "20220214/SASCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-14T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-15T01:00:00Z",
+  "homeTeamTime": "2022-02-14T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 37,
+    "losses": 21,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 22,
+    "losses": 36,
+    "score": 109,
+    "seed": 0
+  }
+}

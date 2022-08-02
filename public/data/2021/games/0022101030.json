@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101030",
+  "gameCode": "20220315/BKNORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-15T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-15T23:00:00Z",
+  "homeTeamTime": "2022-03-15T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 18,
+    "losses": 52,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 36,
+    "losses": 33,
+    "score": 150,
+    "seed": 0
+  }
+}

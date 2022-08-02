@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100700",
+  "gameCode": "20220123/LALMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-23T18:00:00Z",
+  "gameDateTimeUTC": "2022-01-23T23:00:00Z",
+  "homeTeamTime": "2022-01-23T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 30,
+    "losses": 17,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 23,
+    "losses": 24,
+    "score": 107,
+    "seed": 0
+  }
+}

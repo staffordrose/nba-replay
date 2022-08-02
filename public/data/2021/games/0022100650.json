@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100650",
+  "gameCode": "20220115/ORLDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-15T21:30:00Z",
+  "gameDateTimeUTC": "2022-01-16T02:30:00Z",
+  "homeTeamTime": "2022-01-15T20:30:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 24,
+    "losses": 19,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 8,
+    "losses": 36,
+    "score": 92,
+    "seed": 0
+  }
+}

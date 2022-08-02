@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100128",
+  "gameCode": "20211105/NYKMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-05T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-05T23:30:00Z",
+  "homeTeamTime": "2021-11-05T18:30:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 4,
+    "losses": 5,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 6,
+    "losses": 3,
+    "score": 113,
+    "seed": 0
+  }
+}

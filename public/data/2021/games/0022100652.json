@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100652",
+  "gameCode": "20220116/GSWMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-16T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-17T01:00:00Z",
+  "homeTeamTime": "2022-01-16T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 21,
+    "losses": 22,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 31,
+    "losses": 12,
+    "score": 99,
+    "seed": 0
+  }
+}

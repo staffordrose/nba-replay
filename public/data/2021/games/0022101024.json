@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101024",
+  "gameCode": "20220314/MINSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-14T20:30:00Z",
+  "gameDateTimeUTC": "2022-03-15T00:30:00Z",
+  "homeTeamTime": "2022-03-14T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 26,
+    "losses": 43,
+    "score": 139,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 40,
+    "losses": 30,
+    "score": 149,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100270",
+  "gameCode": "20211124/BKNBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-24T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-25T00:30:00Z",
+  "homeTeamTime": "2021-11-24T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 10,
+    "losses": 9,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 14,
+    "losses": 5,
+    "score": 123,
+    "seed": 0
+  }
+}

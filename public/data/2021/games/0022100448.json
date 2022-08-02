@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100448",
+  "gameCode": "20211219/LALCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-19T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-20T01:00:00Z",
+  "homeTeamTime": "2021-12-19T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 18,
+    "losses": 10,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 16,
+    "losses": 15,
+    "score": 110,
+    "seed": 0
+  }
+}

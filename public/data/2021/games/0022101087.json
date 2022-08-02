@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101087",
+  "gameCode": "20220323/UTABOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-23T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-23T23:30:00Z",
+  "homeTeamTime": "2022-03-23T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 46,
+    "losses": 28,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 45,
+    "losses": 28,
+    "score": 97,
+    "seed": 0
+  }
+}

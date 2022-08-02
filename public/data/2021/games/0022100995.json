@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100995",
+  "gameCode": "20220311/MINORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-11T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-12T00:00:00Z",
+  "homeTeamTime": "2022-03-11T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 18,
+    "losses": 50,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 38,
+    "losses": 30,
+    "score": 110,
+    "seed": 0
+  }
+}

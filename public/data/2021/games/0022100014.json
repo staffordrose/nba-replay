@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100014",
+  "gameCode": "20211021/DALATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-21T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-21T23:30:00Z",
+  "homeTeamTime": "2021-10-21T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 1,
+    "losses": 0,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 0,
+    "losses": 1,
+    "score": 87,
+    "seed": 0
+  }
+}

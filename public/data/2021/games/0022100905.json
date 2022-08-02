@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100905",
+  "gameCode": "20220226/BOSDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-26T12:00:00Z",
+  "gameDateTimeUTC": "2022-02-26T17:00:00Z",
+  "homeTeamTime": "2022-02-26T12:00:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 14,
+    "losses": 46,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 36,
+    "losses": 26,
+    "score": 113,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101172",
+  "gameCode": "20220403/MIATOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-03T19:00:00Z",
+  "gameDateTimeUTC": "2022-04-03T23:00:00Z",
+  "homeTeamTime": "2022-04-03T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 4,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 45,
+    "losses": 33,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 51,
+    "losses": 28,
+    "score": 114,
+    "seed": 0
+  }
+}

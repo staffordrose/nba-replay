@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100767",
+  "gameCode": "20220131/TORATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-31T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-01T00:30:00Z",
+  "homeTeamTime": "2022-01-31T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 24,
+    "losses": 26,
+    "score": 100,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 25,
+    "losses": 23,
+    "score": 106,
+    "seed": 0
+  }
+}

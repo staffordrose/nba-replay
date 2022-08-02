@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100035",
+  "gameCode": "20211010/SASORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-10T18:00:00Z",
+  "gameDateTimeUTC": "2021-10-10T22:00:00Z",
+  "homeTeamTime": "2021-10-10T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 0,
+    "losses": 3,
+    "score": 100,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 2,
+    "losses": 2,
+    "score": 101,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100637",
+  "gameCode": "20220114/GSWCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-14T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-15T00:30:00Z",
+  "homeTeamTime": "2022-01-14T18:30:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 27,
+    "losses": 13,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 31,
+    "losses": 11,
+    "score": 138,
+    "seed": 0
+  }
+}

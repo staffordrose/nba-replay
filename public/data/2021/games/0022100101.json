@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100101",
+  "gameCode": "20211101/ORLMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-01T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-02T00:00:00Z",
+  "homeTeamTime": "2021-11-01T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 3,
+    "losses": 3,
+    "score": 97,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 2,
+    "losses": 6,
+    "score": 115,
+    "seed": 0
+  }
+}

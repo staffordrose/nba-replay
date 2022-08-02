@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100745",
+  "gameCode": "20220129/BOSNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-29T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-30T00:00:00Z",
+  "homeTeamTime": "2022-01-29T18:00:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 18,
+    "losses": 31,
+    "score": 97,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 26,
+    "losses": 25,
+    "score": 107,
+    "seed": 0
+  }
+}

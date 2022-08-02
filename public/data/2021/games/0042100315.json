@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100315",
+  "gameCode": "20220526/DALGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-26T21:00:00Z",
+  "gameDateTimeUTC": "2022-05-27T01:00:00Z",
+  "homeTeamTime": "2022-05-26T18:00:00Z",
+  "day": "Thu",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 5",
+  "seriesText": "GSW wins series 4-1",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 4,
+    "losses": 1,
+    "score": 120,
+    "seed": 3
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 1,
+    "losses": 4,
+    "score": 110,
+    "seed": 4
+  }
+}

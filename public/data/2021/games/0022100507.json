@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100507",
+  "gameCode": "20211227/BKNLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-27T22:30:00Z",
+  "gameDateTimeUTC": "2021-12-28T03:30:00Z",
+  "homeTeamTime": "2021-12-27T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 17,
+    "losses": 17,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 23,
+    "losses": 9,
+    "score": 124,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100775",
+  "gameCode": "20220202/CHABOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-02T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-03T00:30:00Z",
+  "homeTeamTime": "2022-02-02T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 28,
+    "losses": 25,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 28,
+    "losses": 24,
+    "score": 107,
+    "seed": 0
+  }
+}

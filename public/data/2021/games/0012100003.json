@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100003",
+  "gameCode": "20211004/ORLBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-04T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-04T23:30:00Z",
+  "homeTeamTime": "2021-10-04T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 1,
+    "losses": 0,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 0,
+    "losses": 1,
+    "score": 97,
+    "seed": 0
+  }
+}

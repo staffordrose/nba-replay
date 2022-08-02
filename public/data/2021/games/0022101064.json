@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101064",
+  "gameCode": "20220320/NOPATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-20T18:00:00Z",
+  "gameDateTimeUTC": "2022-03-20T22:00:00Z",
+  "homeTeamTime": "2022-03-20T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 35,
+    "losses": 36,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 30,
+    "losses": 41,
+    "score": 117,
+    "seed": 0
+  }
+}

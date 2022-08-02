@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100589",
+  "gameCode": "20220107/ATLLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-07T22:00:00Z",
+  "gameDateTimeUTC": "2022-01-08T03:00:00Z",
+  "homeTeamTime": "2022-01-07T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 21,
+    "losses": 19,
+    "score": 134,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 17,
+    "losses": 21,
+    "score": 118,
+    "seed": 0
+  }
+}

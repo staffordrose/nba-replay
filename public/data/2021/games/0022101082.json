@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101082",
+  "gameCode": "20220322/CHIMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-22T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-23T00:00:00Z",
+  "homeTeamTime": "2022-03-22T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 45,
+    "losses": 27,
+    "score": 126,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 42,
+    "losses": 30,
+    "score": 98,
+    "seed": 0
+  }
+}

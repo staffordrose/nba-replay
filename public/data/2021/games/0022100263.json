@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100263",
+  "gameCode": "20211123/MIADET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-23T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-24T00:00:00Z",
+  "homeTeamTime": "2021-11-23T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 4,
+    "losses": 13,
+    "score": 92,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 12,
+    "losses": 6,
+    "score": 100,
+    "seed": 0
+  }
+}

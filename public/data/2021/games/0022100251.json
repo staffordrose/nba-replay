@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100251",
+  "gameCode": "20211121/DENPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-21T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-22T01:00:00Z",
+  "homeTeamTime": "2021-11-21T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 13,
+    "losses": 3,
+    "score": 126,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 9,
+    "losses": 8,
+    "score": 97,
+    "seed": 0
+  }
+}

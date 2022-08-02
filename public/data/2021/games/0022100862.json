@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100862",
+  "gameCode": "20220214/PORMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-14T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-15T01:00:00Z",
+  "homeTeamTime": "2022-02-14T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 35,
+    "losses": 23,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 24,
+    "losses": 34,
+    "score": 122,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100680",
+  "gameCode": "20220119/INDLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-19T22:30:00Z",
+  "gameDateTimeUTC": "2022-01-20T03:30:00Z",
+  "homeTeamTime": "2022-01-19T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 22,
+    "losses": 23,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 16,
+    "losses": 29,
+    "score": 111,
+    "seed": 0
+  }
+}

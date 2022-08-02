@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100205",
+  "gameCode": "20220510/PHIMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-10T19:30:00Z",
+  "gameDateTimeUTC": "2022-05-10T23:30:00Z",
+  "homeTeamTime": "2022-05-10T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 5",
+  "seriesText": "MIA leads series 3-2",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 3,
+    "losses": 2,
+    "score": 120,
+    "seed": 1
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 2,
+    "losses": 3,
+    "score": 85,
+    "seed": 4
+  }
+}

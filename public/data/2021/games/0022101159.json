@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101159",
+  "gameCode": "20220401/MINDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-01T21:00:00Z",
+  "gameDateTimeUTC": "2022-04-02T01:00:00Z",
+  "homeTeamTime": "2022-04-01T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 4,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 46,
+    "losses": 32,
+    "score": 130,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 44,
+    "losses": 34,
+    "score": 136,
+    "seed": 0
+  }
+}

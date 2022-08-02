@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100659",
+  "gameCode": "20220117/INDLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-17T15:30:00Z",
+  "gameDateTimeUTC": "2022-01-17T20:30:00Z",
+  "homeTeamTime": "2022-01-17T12:30:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 22,
+    "losses": 23,
+    "score": 139,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 15,
+    "losses": 29,
+    "score": 133,
+    "seed": 0
+  }
+}

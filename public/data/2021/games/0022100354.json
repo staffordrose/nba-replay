@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100354",
+  "gameCode": "20211206/OKCDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-06T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-07T00:00:00Z",
+  "homeTeamTime": "2021-12-06T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 4,
+    "losses": 19,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 7,
+    "losses": 16,
+    "score": 114,
+    "seed": 0
+  }
+}

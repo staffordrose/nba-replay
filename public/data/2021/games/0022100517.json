@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100517",
+  "gameCode": "20211229/CHAIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-29T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-30T00:00:00Z",
+  "homeTeamTime": "2021-12-29T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 14,
+    "losses": 21,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 19,
+    "losses": 17,
+    "score": 116,
+    "seed": 0
+  }
+}

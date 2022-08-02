@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100942",
+  "gameCode": "20220303/DETTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-03T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-04T00:30:00Z",
+  "homeTeamTime": "2022-03-03T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 34,
+    "losses": 28,
+    "score": 106,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 16,
+    "losses": 47,
+    "score": 108,
+    "seed": 0
+  }
+}

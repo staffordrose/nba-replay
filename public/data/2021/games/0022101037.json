@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101037",
+  "gameCode": "20220316/PORNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-16T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-16T23:30:00Z",
+  "homeTeamTime": "2022-03-16T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 29,
+    "losses": 40,
+    "score": 128,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 26,
+    "losses": 42,
+    "score": 98,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100181",
+  "gameCode": "20211112/DALSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-12T20:30:00Z",
+  "gameDateTimeUTC": "2021-11-13T01:30:00Z",
+  "homeTeamTime": "2021-11-12T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 4,
+    "losses": 8,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 8,
+    "losses": 4,
+    "score": 123,
+    "seed": 0
+  }
+}

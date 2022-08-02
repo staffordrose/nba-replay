@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100557",
+  "gameCode": "20220103/UTANOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-03T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-04T01:00:00Z",
+  "homeTeamTime": "2022-01-03T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 13,
+    "losses": 24,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 27,
+    "losses": 10,
+    "score": 115,
+    "seed": 0
+  }
+}

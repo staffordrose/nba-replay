@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100509",
+  "gameCode": "20211228/WASMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-28T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-29T00:30:00Z",
+  "homeTeamTime": "2021-12-28T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 22,
+    "losses": 13,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 17,
+    "losses": 17,
+    "score": 112,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100978",
+  "gameCode": "20220308/NOPMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-08T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-09T00:30:00Z",
+  "homeTeamTime": "2022-03-08T18:30:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 45,
+    "losses": 22,
+    "score": 132,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 27,
+    "losses": 38,
+    "score": 111,
+    "seed": 0
+  }
+}

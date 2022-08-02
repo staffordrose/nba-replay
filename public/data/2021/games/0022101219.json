@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101219",
+  "gameCode": "20220410/SASDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-10T21:30:00Z",
+  "gameDateTimeUTC": "2022-04-11T01:30:00Z",
+  "homeTeamTime": "2022-04-10T20:30:00Z",
+  "day": "Sun",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 52,
+    "losses": 30,
+    "score": 130,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 34,
+    "losses": 48,
+    "score": 120,
+    "seed": 0
+  }
+}

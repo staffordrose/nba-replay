@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100431",
+  "gameCode": "20211216/NYKHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-16T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-17T01:00:00Z",
+  "homeTeamTime": "2021-12-16T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 9,
+    "losses": 20,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 13,
+    "losses": 16,
+    "score": 116,
+    "seed": 0
+  }
+}

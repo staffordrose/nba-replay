@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100171",
+  "gameCode": "20211111/TORPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-11T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-12T00:00:00Z",
+  "homeTeamTime": "2021-11-11T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 8,
+    "losses": 5,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 7,
+    "losses": 6,
+    "score": 115,
+    "seed": 0
+  }
+}

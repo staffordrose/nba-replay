@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100047",
+  "gameCode": "20211012/GSWLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-12T22:30:00Z",
+  "gameDateTimeUTC": "2021-10-13T02:30:00Z",
+  "homeTeamTime": "2021-10-12T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 0,
+    "losses": 5,
+    "score": 99,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 4,
+    "losses": 0,
+    "score": 111,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100033",
+  "gameCode": "20211023/PHXPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-23T22:00:00Z",
+  "gameDateTimeUTC": "2021-10-24T02:00:00Z",
+  "homeTeamTime": "2021-10-23T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 1,
+    "losses": 1,
+    "score": 134,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 1,
+    "losses": 2,
+    "score": 105,
+    "seed": 0
+  }
+}

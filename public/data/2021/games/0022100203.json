@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100203",
+  "gameCode": "20211115/INDNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-15T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-16T00:30:00Z",
+  "homeTeamTime": "2021-11-15T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 8,
+    "losses": 6,
+    "score": 92,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 6,
+    "losses": 9,
+    "score": 84,
+    "seed": 0
+  }
+}

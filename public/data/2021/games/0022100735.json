@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100735",
+  "gameCode": "20220128/LALCHA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-28T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-29T00:30:00Z",
+  "homeTeamTime": "2022-01-28T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Spectrum Center",
+  "arenaState": "NC",
+  "arenaCity": "Charlotte",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 28,
+    "losses": 22,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 24,
+    "losses": 26,
+    "score": 114,
+    "seed": 0
+  }
+}

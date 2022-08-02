@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100795",
+  "gameCode": "20220204/OKCPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-04T22:00:00Z",
+  "gameDateTimeUTC": "2022-02-05T03:00:00Z",
+  "homeTeamTime": "2022-02-04T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 21,
+    "losses": 32,
+    "score": 93,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 17,
+    "losses": 34,
+    "score": 96,
+    "seed": 0
+  }
+}

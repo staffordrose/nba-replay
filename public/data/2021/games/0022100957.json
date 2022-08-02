@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100957",
+  "gameCode": "20220305/ORLMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-05T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-06T01:00:00Z",
+  "homeTeamTime": "2022-03-05T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 44,
+    "losses": 21,
+    "score": 124,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 16,
+    "losses": 49,
+    "score": 96,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100253",
+  "gameCode": "20211122/BKNCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-22T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-23T00:00:00Z",
+  "homeTeamTime": "2021-11-22T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 9,
+    "losses": 9,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 13,
+    "losses": 5,
+    "score": 117,
+    "seed": 0
+  }
+}

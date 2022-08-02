@@ -1,0 +1,554 @@
+[
+  {
+    "gameDate": "5/17/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100301",
+        "gameCode": "20220517/BOSMIA",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-17T20:30:00Z",
+        "gameDateTimeUTC": "2022-05-18T00:30:00Z",
+        "homeTeamTime": "2022-05-17T20:30:00Z",
+        "day": "Tue",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 1",
+        "seriesText": "MIA leads series 1-0",
+        "arenaName": "FTX Arena",
+        "arenaState": "FL",
+        "arenaCity": "Miami",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612748,
+          "teamName": "Heat",
+          "teamCity": "Miami",
+          "teamTricode": "MIA",
+          "teamSlug": "heat",
+          "wins": 1,
+          "losses": 0,
+          "score": 118,
+          "seed": 1
+        },
+        "awayTeam": {
+          "teamId": 1610612738,
+          "teamName": "Celtics",
+          "teamCity": "Boston",
+          "teamTricode": "BOS",
+          "teamSlug": "celtics",
+          "wins": 0,
+          "losses": 1,
+          "score": 107,
+          "seed": 2
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/18/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100311",
+        "gameCode": "20220518/DALGSW",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-18T21:00:00Z",
+        "gameDateTimeUTC": "2022-05-19T01:00:00Z",
+        "homeTeamTime": "2022-05-18T18:00:00Z",
+        "day": "Wed",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 1",
+        "seriesText": "GSW leads series 1-0",
+        "arenaName": "Chase Center",
+        "arenaState": "CA",
+        "arenaCity": "San Francisco",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612744,
+          "teamName": "Warriors",
+          "teamCity": "Golden State",
+          "teamTricode": "GSW",
+          "teamSlug": "warriors",
+          "wins": 1,
+          "losses": 0,
+          "score": 112,
+          "seed": 3
+        },
+        "awayTeam": {
+          "teamId": 1610612742,
+          "teamName": "Mavericks",
+          "teamCity": "Dallas",
+          "teamTricode": "DAL",
+          "teamSlug": "mavericks",
+          "wins": 0,
+          "losses": 1,
+          "score": 87,
+          "seed": 4
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/19/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100302",
+        "gameCode": "20220519/BOSMIA",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-19T20:30:00Z",
+        "gameDateTimeUTC": "2022-05-20T00:30:00Z",
+        "homeTeamTime": "2022-05-19T20:30:00Z",
+        "day": "Thu",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 2",
+        "seriesText": "Series tied 1-1",
+        "arenaName": "FTX Arena",
+        "arenaState": "FL",
+        "arenaCity": "Miami",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612748,
+          "teamName": "Heat",
+          "teamCity": "Miami",
+          "teamTricode": "MIA",
+          "teamSlug": "heat",
+          "wins": 1,
+          "losses": 1,
+          "score": 102,
+          "seed": 1
+        },
+        "awayTeam": {
+          "teamId": 1610612738,
+          "teamName": "Celtics",
+          "teamCity": "Boston",
+          "teamTricode": "BOS",
+          "teamSlug": "celtics",
+          "wins": 1,
+          "losses": 1,
+          "score": 127,
+          "seed": 2
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/20/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100312",
+        "gameCode": "20220520/DALGSW",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-20T21:00:00Z",
+        "gameDateTimeUTC": "2022-05-21T01:00:00Z",
+        "homeTeamTime": "2022-05-20T18:00:00Z",
+        "day": "Fri",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 2",
+        "seriesText": "GSW leads series 2-0",
+        "arenaName": "Chase Center",
+        "arenaState": "CA",
+        "arenaCity": "San Francisco",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612744,
+          "teamName": "Warriors",
+          "teamCity": "Golden State",
+          "teamTricode": "GSW",
+          "teamSlug": "warriors",
+          "wins": 2,
+          "losses": 0,
+          "score": 126,
+          "seed": 3
+        },
+        "awayTeam": {
+          "teamId": 1610612742,
+          "teamName": "Mavericks",
+          "teamCity": "Dallas",
+          "teamTricode": "DAL",
+          "teamSlug": "mavericks",
+          "wins": 0,
+          "losses": 2,
+          "score": 117,
+          "seed": 4
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/21/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100303",
+        "gameCode": "20220521/MIABOS",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-21T20:30:00Z",
+        "gameDateTimeUTC": "2022-05-22T00:30:00Z",
+        "homeTeamTime": "2022-05-21T20:30:00Z",
+        "day": "Sat",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 3",
+        "seriesText": "MIA leads series 2-1",
+        "arenaName": "TD Garden",
+        "arenaState": "MA",
+        "arenaCity": "Boston",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612738,
+          "teamName": "Celtics",
+          "teamCity": "Boston",
+          "teamTricode": "BOS",
+          "teamSlug": "celtics",
+          "wins": 1,
+          "losses": 2,
+          "score": 103,
+          "seed": 2
+        },
+        "awayTeam": {
+          "teamId": 1610612748,
+          "teamName": "Heat",
+          "teamCity": "Miami",
+          "teamTricode": "MIA",
+          "teamSlug": "heat",
+          "wins": 2,
+          "losses": 1,
+          "score": 109,
+          "seed": 1
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/22/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100313",
+        "gameCode": "20220522/GSWDAL",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-22T21:00:00Z",
+        "gameDateTimeUTC": "2022-05-23T01:00:00Z",
+        "homeTeamTime": "2022-05-22T20:00:00Z",
+        "day": "Sun",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 3",
+        "seriesText": "GSW leads series 3-0",
+        "arenaName": "American Airlines Center",
+        "arenaState": "TX",
+        "arenaCity": "Dallas",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612742,
+          "teamName": "Mavericks",
+          "teamCity": "Dallas",
+          "teamTricode": "DAL",
+          "teamSlug": "mavericks",
+          "wins": 0,
+          "losses": 3,
+          "score": 100,
+          "seed": 4
+        },
+        "awayTeam": {
+          "teamId": 1610612744,
+          "teamName": "Warriors",
+          "teamCity": "Golden State",
+          "teamTricode": "GSW",
+          "teamSlug": "warriors",
+          "wins": 3,
+          "losses": 0,
+          "score": 109,
+          "seed": 3
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/23/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100304",
+        "gameCode": "20220523/MIABOS",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-23T20:30:00Z",
+        "gameDateTimeUTC": "2022-05-24T00:30:00Z",
+        "homeTeamTime": "2022-05-23T20:30:00Z",
+        "day": "Mon",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 4",
+        "seriesText": "Series tied 2-2",
+        "arenaName": "TD Garden",
+        "arenaState": "MA",
+        "arenaCity": "Boston",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612738,
+          "teamName": "Celtics",
+          "teamCity": "Boston",
+          "teamTricode": "BOS",
+          "teamSlug": "celtics",
+          "wins": 2,
+          "losses": 2,
+          "score": 102,
+          "seed": 2
+        },
+        "awayTeam": {
+          "teamId": 1610612748,
+          "teamName": "Heat",
+          "teamCity": "Miami",
+          "teamTricode": "MIA",
+          "teamSlug": "heat",
+          "wins": 2,
+          "losses": 2,
+          "score": 82,
+          "seed": 1
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/24/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100314",
+        "gameCode": "20220524/GSWDAL",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-24T21:00:00Z",
+        "gameDateTimeUTC": "2022-05-25T01:00:00Z",
+        "homeTeamTime": "2022-05-24T20:00:00Z",
+        "day": "Tue",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 4",
+        "seriesText": "GSW leads series 3-1",
+        "arenaName": "American Airlines Center",
+        "arenaState": "TX",
+        "arenaCity": "Dallas",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612742,
+          "teamName": "Mavericks",
+          "teamCity": "Dallas",
+          "teamTricode": "DAL",
+          "teamSlug": "mavericks",
+          "wins": 1,
+          "losses": 3,
+          "score": 119,
+          "seed": 4
+        },
+        "awayTeam": {
+          "teamId": 1610612744,
+          "teamName": "Warriors",
+          "teamCity": "Golden State",
+          "teamTricode": "GSW",
+          "teamSlug": "warriors",
+          "wins": 3,
+          "losses": 1,
+          "score": 109,
+          "seed": 3
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/25/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100305",
+        "gameCode": "20220525/BOSMIA",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-25T20:30:00Z",
+        "gameDateTimeUTC": "2022-05-26T00:30:00Z",
+        "homeTeamTime": "2022-05-25T20:30:00Z",
+        "day": "Wed",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 5",
+        "seriesText": "BOS leads series 3-2",
+        "arenaName": "FTX Arena",
+        "arenaState": "FL",
+        "arenaCity": "Miami",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612748,
+          "teamName": "Heat",
+          "teamCity": "Miami",
+          "teamTricode": "MIA",
+          "teamSlug": "heat",
+          "wins": 2,
+          "losses": 3,
+          "score": 80,
+          "seed": 1
+        },
+        "awayTeam": {
+          "teamId": 1610612738,
+          "teamName": "Celtics",
+          "teamCity": "Boston",
+          "teamTricode": "BOS",
+          "teamSlug": "celtics",
+          "wins": 3,
+          "losses": 2,
+          "score": 93,
+          "seed": 2
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/26/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100315",
+        "gameCode": "20220526/DALGSW",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-26T21:00:00Z",
+        "gameDateTimeUTC": "2022-05-27T01:00:00Z",
+        "homeTeamTime": "2022-05-26T18:00:00Z",
+        "day": "Thu",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 5",
+        "seriesText": "GSW wins series 4-1",
+        "arenaName": "Chase Center",
+        "arenaState": "CA",
+        "arenaCity": "San Francisco",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612744,
+          "teamName": "Warriors",
+          "teamCity": "Golden State",
+          "teamTricode": "GSW",
+          "teamSlug": "warriors",
+          "wins": 4,
+          "losses": 1,
+          "score": 120,
+          "seed": 3
+        },
+        "awayTeam": {
+          "teamId": 1610612742,
+          "teamName": "Mavericks",
+          "teamCity": "Dallas",
+          "teamTricode": "DAL",
+          "teamSlug": "mavericks",
+          "wins": 1,
+          "losses": 4,
+          "score": 110,
+          "seed": 4
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/27/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100306",
+        "gameCode": "20220527/MIABOS",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-27T20:30:00Z",
+        "gameDateTimeUTC": "2022-05-28T00:30:00Z",
+        "homeTeamTime": "2022-05-27T20:30:00Z",
+        "day": "Fri",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 6",
+        "seriesText": "Series tied 3-3",
+        "arenaName": "TD Garden",
+        "arenaState": "MA",
+        "arenaCity": "Boston",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612738,
+          "teamName": "Celtics",
+          "teamCity": "Boston",
+          "teamTricode": "BOS",
+          "teamSlug": "celtics",
+          "wins": 3,
+          "losses": 3,
+          "score": 103,
+          "seed": 2
+        },
+        "awayTeam": {
+          "teamId": 1610612748,
+          "teamName": "Heat",
+          "teamCity": "Miami",
+          "teamTricode": "MIA",
+          "teamSlug": "heat",
+          "wins": 3,
+          "losses": 3,
+          "score": 111,
+          "seed": 1
+        }
+      }
+    ]
+  },
+  {
+    "gameDate": "5/29/2022 12:00:00 AM",
+    "games": [
+      {
+        "gameId": "0042100307",
+        "gameCode": "20220529/BOSMIA",
+        "gameStatus": 3,
+        "gameStatusText": "Final",
+        "gameDateTimeEst": "2022-05-29T20:30:00Z",
+        "gameDateTimeUTC": "2022-05-30T00:30:00Z",
+        "homeTeamTime": "2022-05-29T20:30:00Z",
+        "day": "Sun",
+        "monthNum": 5,
+        "weekNumber": 0,
+        "ifNecessary": false,
+        "seriesGameNumber": "Game 7",
+        "seriesText": "BOS wins series 4-3",
+        "arenaName": "FTX Arena",
+        "arenaState": "FL",
+        "arenaCity": "Miami",
+        "postponedStatus": "A",
+        "homeTeam": {
+          "teamId": 1610612748,
+          "teamName": "Heat",
+          "teamCity": "Miami",
+          "teamTricode": "MIA",
+          "teamSlug": "heat",
+          "wins": 3,
+          "losses": 4,
+          "score": 96,
+          "seed": 1
+        },
+        "awayTeam": {
+          "teamId": 1610612738,
+          "teamName": "Celtics",
+          "teamCity": "Boston",
+          "teamTricode": "BOS",
+          "teamSlug": "celtics",
+          "wins": 4,
+          "losses": 3,
+          "score": 100,
+          "seed": 2
+        }
+      }
+    ]
+  }
+]

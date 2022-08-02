@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100979",
+  "gameCode": "20220308/MILOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-08T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-09T01:00:00Z",
+  "homeTeamTime": "2022-03-08T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 20,
+    "losses": 45,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 41,
+    "losses": 25,
+    "score": 142,
+    "seed": 0
+  }
+}

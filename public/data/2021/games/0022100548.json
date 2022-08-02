@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100548",
+  "gameCode": "20220102/MIASAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-02T18:00:00Z",
+  "gameDateTimeUTC": "2022-01-02T23:00:00Z",
+  "homeTeamTime": "2022-01-02T15:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 16,
+    "losses": 22,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 23,
+    "losses": 14,
+    "score": 113,
+    "seed": 0
+  }
+}

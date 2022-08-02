@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100054",
+  "gameCode": "20211013/PORPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-13T17:00:00Z",
+  "gameDateTimeUTC": "2021-10-13T21:00:00Z",
+  "homeTeamTime": "2021-10-13T14:00:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 3,
+    "losses": 1,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 0,
+    "losses": 3,
+    "score": 74,
+    "seed": 0
+  }
+}

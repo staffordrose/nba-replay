@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100163",
+  "gameCode": "20211110/DALCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-10T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-11T01:00:00Z",
+  "homeTeamTime": "2021-11-10T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 8,
+    "losses": 3,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 7,
+    "losses": 4,
+    "score": 107,
+    "seed": 0
+  }
+}

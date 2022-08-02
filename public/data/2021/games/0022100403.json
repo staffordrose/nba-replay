@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100403",
+  "gameCode": "20211212/ORLLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-12T21:30:00Z",
+  "gameDateTimeUTC": "2021-12-13T02:30:00Z",
+  "homeTeamTime": "2021-12-12T18:30:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 15,
+    "losses": 13,
+    "score": 106,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 5,
+    "losses": 23,
+    "score": 94,
+    "seed": 0
+  }
+}

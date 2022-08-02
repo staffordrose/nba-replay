@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100599",
+  "gameCode": "20220109/NOPTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-09T18:00:00Z",
+  "gameDateTimeUTC": "2022-01-09T23:00:00Z",
+  "homeTeamTime": "2022-01-09T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 20,
+    "losses": 17,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 14,
+    "losses": 26,
+    "score": 101,
+    "seed": 0
+  }
+}

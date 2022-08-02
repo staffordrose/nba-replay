@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100841",
+  "gameCode": "20220211/SASATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-11T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-12T00:30:00Z",
+  "homeTeamTime": "2022-02-11T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 26,
+    "losses": 29,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 21,
+    "losses": 35,
+    "score": 136,
+    "seed": 0
+  }
+}

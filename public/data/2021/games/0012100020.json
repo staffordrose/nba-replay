@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100020",
+  "gameCode": "20211006/LALPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-06T18:00:00Z",
+  "gameDateTimeUTC": "2021-10-06T22:00:00Z",
+  "homeTeamTime": "2021-10-06T15:00:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 1,
+    "losses": 1,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 0,
+    "losses": 2,
+    "score": 105,
+    "seed": 0
+  }
+}

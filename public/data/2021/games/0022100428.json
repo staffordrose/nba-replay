@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100428",
+  "gameCode": "20211216/DETIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-16T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-17T00:00:00Z",
+  "homeTeamTime": "2021-12-16T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 13,
+    "losses": 18,
+    "score": 122,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 4,
+    "losses": 23,
+    "score": 113,
+    "seed": 0
+  }
+}

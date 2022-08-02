@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100085",
+  "gameCode": "20211030/SASMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-30T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-31T00:00:00Z",
+  "homeTeamTime": "2021-10-30T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 3,
+    "losses": 3,
+    "score": 93,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 2,
+    "losses": 4,
+    "score": 102,
+    "seed": 0
+  }
+}

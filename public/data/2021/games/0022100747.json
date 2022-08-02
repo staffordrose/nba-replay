@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100747",
+  "gameCode": "20220129/SACPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-29T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-30T00:30:00Z",
+  "homeTeamTime": "2022-01-29T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 30,
+    "losses": 19,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 18,
+    "losses": 33,
+    "score": 101,
+    "seed": 0
+  }
+}

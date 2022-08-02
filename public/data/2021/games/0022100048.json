@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100048",
+  "gameCode": "20211025/CLEDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-25T21:00:00Z",
+  "gameDateTimeUTC": "2021-10-26T01:00:00Z",
+  "homeTeamTime": "2021-10-25T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 2,
+    "losses": 1,
+    "score": 87,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 2,
+    "losses": 2,
+    "score": 99,
+    "seed": 0
+  }
+}

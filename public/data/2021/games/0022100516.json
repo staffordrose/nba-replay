@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100516",
+  "gameCode": "20211229/NYKDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-29T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-30T00:00:00Z",
+  "homeTeamTime": "2021-12-29T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 5,
+    "losses": 28,
+    "score": 85,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 17,
+    "losses": 18,
+    "score": 94,
+    "seed": 0
+  }
+}

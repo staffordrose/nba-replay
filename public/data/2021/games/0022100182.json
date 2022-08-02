@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100182",
+  "gameCode": "20211112/ATLDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-12T21:00:00Z",
+  "gameDateTimeUTC": "2021-11-13T02:00:00Z",
+  "homeTeamTime": "2021-11-12T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 8,
+    "losses": 4,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 4,
+    "losses": 9,
+    "score": 96,
+    "seed": 0
+  }
+}

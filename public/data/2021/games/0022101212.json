@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101212",
+  "gameCode": "20220409/SACLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-09T21:30:00Z",
+  "gameDateTimeUTC": "2022-04-10T01:30:00Z",
+  "homeTeamTime": "2022-04-09T18:30:00Z",
+  "day": "Sat",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 41,
+    "losses": 40,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 29,
+    "losses": 52,
+    "score": 98,
+    "seed": 0
+  }
+}

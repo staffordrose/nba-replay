@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101015",
+  "gameCode": "20220313/PHIORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-03-13T18:00:00Z",
+  "gameDateTimeUTC": "2022-03-13T22:00:00Z",
+  "homeTeamTime": "2022-03-13T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 18,
+    "losses": 51,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 41,
+    "losses": 25,
+    "score": 116,
+    "seed": 0
+  }
+}

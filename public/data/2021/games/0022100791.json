@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100791",
+  "gameCode": "20220204/PHIDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-04T22:00:00Z",
+  "gameDateTimeUTC": "2022-02-05T03:00:00Z",
+  "homeTeamTime": "2022-02-04T21:00:00Z",
+  "day": "Fri",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 30,
+    "losses": 23,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 31,
+    "losses": 21,
+    "score": 98,
+    "seed": 0
+  }
+}

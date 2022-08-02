@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100918",
+  "gameCode": "20220227/DENPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-27T21:00:00Z",
+  "gameDateTimeUTC": "2022-02-28T02:00:00Z",
+  "homeTeamTime": "2022-02-27T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 25,
+    "losses": 36,
+    "score": 92,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 36,
+    "losses": 25,
+    "score": 124,
+    "seed": 0
+  }
+}

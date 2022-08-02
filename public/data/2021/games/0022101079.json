@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101079",
+  "gameCode": "20220321/MINDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-21T20:30:00Z",
+  "gameDateTimeUTC": "2022-03-22T00:30:00Z",
+  "homeTeamTime": "2022-03-21T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 44,
+    "losses": 28,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 42,
+    "losses": 31,
+    "score": 108,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100751",
+  "gameCode": "20220130/LALATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-30T13:00:00Z",
+  "gameDateTimeUTC": "2022-01-30T18:00:00Z",
+  "homeTeamTime": "2022-01-30T13:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 24,
+    "losses": 25,
+    "score": 129,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 24,
+    "losses": 27,
+    "score": 121,
+    "seed": 0
+  }
+}

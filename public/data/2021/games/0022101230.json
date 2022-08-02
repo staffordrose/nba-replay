@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101230",
+  "gameCode": "20220410/UTAPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-10T21:30:00Z",
+  "gameDateTimeUTC": "2022-04-11T01:30:00Z",
+  "homeTeamTime": "2022-04-10T18:30:00Z",
+  "day": "Sun",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 27,
+    "losses": 55,
+    "score": 80,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 49,
+    "losses": 33,
+    "score": 111,
+    "seed": 0
+  }
+}

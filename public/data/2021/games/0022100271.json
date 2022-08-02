@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100271",
+  "gameCode": "20211124/CHIHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-24T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-25T01:00:00Z",
+  "homeTeamTime": "2021-11-24T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 2,
+    "losses": 16,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 12,
+    "losses": 7,
+    "score": 113,
+    "seed": 0
+  }
+}

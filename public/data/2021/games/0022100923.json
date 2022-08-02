@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100923",
+  "gameCode": "20220228/SASMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-28T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-01T01:00:00Z",
+  "homeTeamTime": "2022-02-28T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 43,
+    "losses": 20,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 24,
+    "losses": 38,
+    "score": 105,
+    "seed": 0
+  }
+}

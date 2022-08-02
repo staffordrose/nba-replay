@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100200",
+  "gameCode": "20211115/SACDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-15T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-16T00:00:00Z",
+  "homeTeamTime": "2021-11-15T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 3,
+    "losses": 10,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 6,
+    "losses": 8,
+    "score": 129,
+    "seed": 0
+  }
+}

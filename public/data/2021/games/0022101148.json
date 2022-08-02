@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101148",
+  "gameCode": "20220331/MILBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-03-31T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-31T23:30:00Z",
+  "homeTeamTime": "2022-03-31T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 40,
+    "losses": 37,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 48,
+    "losses": 28,
+    "score": 120,
+    "seed": 0
+  }
+}

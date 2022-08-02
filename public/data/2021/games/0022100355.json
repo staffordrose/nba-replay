@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100355",
+  "gameCode": "20211206/WASIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-06T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-07T00:00:00Z",
+  "homeTeamTime": "2021-12-06T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 10,
+    "losses": 16,
+    "score": 116,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 14,
+    "losses": 11,
+    "score": 110,
+    "seed": 0
+  }
+}

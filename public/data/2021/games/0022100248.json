@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100248",
+  "gameCode": "20211121/DALLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-21T15:30:00Z",
+  "gameDateTimeUTC": "2021-11-21T20:30:00Z",
+  "homeTeamTime": "2021-11-21T12:30:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 10,
+    "losses": 7,
+    "score": 97,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 9,
+    "losses": 7,
+    "score": 91,
+    "seed": 0
+  }
+}

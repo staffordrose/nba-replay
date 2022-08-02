@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101050",
+  "gameCode": "20220318/WASNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-18T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-18T23:30:00Z",
+  "homeTeamTime": "2022-03-18T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 30,
+    "losses": 40,
+    "score": 100,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 29,
+    "losses": 40,
+    "score": 97,
+    "seed": 0
+  }
+}

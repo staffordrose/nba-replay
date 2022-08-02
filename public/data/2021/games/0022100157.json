@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100157",
+  "gameCode": "20211109/PORLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-09T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-10T03:00:00Z",
+  "homeTeamTime": "2021-11-09T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 6,
+    "losses": 4,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 5,
+    "losses": 6,
+    "score": 109,
+    "seed": 0
+  }
+}

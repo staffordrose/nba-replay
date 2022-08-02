@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101166",
+  "gameCode": "20220403/WASBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-03T13:00:00Z",
+  "gameDateTimeUTC": "2022-04-03T17:00:00Z",
+  "homeTeamTime": "2022-04-03T13:00:00Z",
+  "day": "Sun",
+  "monthNum": 4,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 49,
+    "losses": 30,
+    "score": 144,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 34,
+    "losses": 44,
+    "score": 102,
+    "seed": 0
+  }
+}

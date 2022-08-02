@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100376",
+  "gameCode": "20211208/PORGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-08T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-09T03:00:00Z",
+  "homeTeamTime": "2021-12-08T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 21,
+    "losses": 4,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 11,
+    "losses": 15,
+    "score": 94,
+    "seed": 0
+  }
+}

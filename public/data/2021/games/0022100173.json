@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100173",
+  "gameCode": "20211111/MIALAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-11T22:30:00Z",
+  "gameDateTimeUTC": "2021-11-12T03:30:00Z",
+  "homeTeamTime": "2021-11-11T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 7,
+    "losses": 4,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 7,
+    "losses": 5,
+    "score": 109,
+    "seed": 0
+  }
+}

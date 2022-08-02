@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101179",
+  "gameCode": "20220405/CLEORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-05T19:00:00Z",
+  "gameDateTimeUTC": "2022-04-05T23:00:00Z",
+  "homeTeamTime": "2022-04-05T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 21,
+    "losses": 59,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 43,
+    "losses": 37,
+    "score": 115,
+    "seed": 0
+  }
+}

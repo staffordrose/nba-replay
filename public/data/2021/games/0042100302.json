@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100302",
+  "gameCode": "20220519/BOSMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-19T20:30:00Z",
+  "gameDateTimeUTC": "2022-05-20T00:30:00Z",
+  "homeTeamTime": "2022-05-19T20:30:00Z",
+  "day": "Thu",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 2",
+  "seriesText": "Series tied 1-1",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 1,
+    "losses": 1,
+    "score": 102,
+    "seed": 1
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 1,
+    "losses": 1,
+    "score": 127,
+    "seed": 2
+  }
+}

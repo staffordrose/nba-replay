@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101020",
+  "gameCode": "20220314/LACCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-03-14T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-14T23:00:00Z",
+  "homeTeamTime": "2022-03-14T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 39,
+    "losses": 29,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 36,
+    "losses": 35,
+    "score": 111,
+    "seed": 0
+  }
+}

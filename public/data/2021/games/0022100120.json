@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100120",
+  "gameCode": "20211104/UTAATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-04T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-04T23:30:00Z",
+  "homeTeamTime": "2021-11-04T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 4,
+    "losses": 5,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 7,
+    "losses": 1,
+    "score": 116,
+    "seed": 0
+  }
+}

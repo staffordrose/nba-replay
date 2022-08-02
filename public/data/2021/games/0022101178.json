@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101178",
+  "gameCode": "20220405/PHIIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-05T19:00:00Z",
+  "gameDateTimeUTC": "2022-04-05T23:00:00Z",
+  "homeTeamTime": "2022-04-05T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 25,
+    "losses": 55,
+    "score": 122,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 49,
+    "losses": 30,
+    "score": 131,
+    "seed": 0
+  }
+}

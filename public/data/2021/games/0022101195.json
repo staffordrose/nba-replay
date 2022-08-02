@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101195",
+  "gameCode": "20220406/PHXLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-06T22:00:00Z",
+  "gameDateTimeUTC": "2022-04-07T02:00:00Z",
+  "homeTeamTime": "2022-04-06T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 40,
+    "losses": 40,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 63,
+    "losses": 17,
+    "score": 109,
+    "seed": 0
+  }
+}

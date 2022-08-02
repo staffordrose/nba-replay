@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100315",
+  "gameCode": "20211130/MEMTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-30T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-01T00:30:00Z",
+  "homeTeamTime": "2021-11-30T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 11,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 9,
+    "losses": 13,
+    "score": 91,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 11,
+    "losses": 10,
+    "score": 98,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100526",
+  "gameCode": "20211230/MILORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-30T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-31T00:00:00Z",
+  "homeTeamTime": "2021-12-30T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 7,
+    "losses": 29,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 24,
+    "losses": 13,
+    "score": 136,
+    "seed": 0
+  }
+}

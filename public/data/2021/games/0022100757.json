@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100757",
+  "gameCode": "20220130/UTAMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-30T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-31T01:00:00Z",
+  "homeTeamTime": "2022-01-30T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 25,
+    "losses": 25,
+    "score": 126,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 30,
+    "losses": 21,
+    "score": 106,
+    "seed": 0
+  }
+}

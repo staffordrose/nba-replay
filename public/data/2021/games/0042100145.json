@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100145",
+  "gameCode": "20220426/NOPPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-26T22:00:00Z",
+  "gameDateTimeUTC": "2022-04-27T02:00:00Z",
+  "homeTeamTime": "2022-04-26T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 5",
+  "seriesText": "PHX leads series 3-2",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 3,
+    "losses": 2,
+    "score": 112,
+    "seed": 1
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 2,
+    "losses": 3,
+    "score": 97,
+    "seed": 8
+  }
+}

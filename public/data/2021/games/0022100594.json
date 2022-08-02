@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100594",
+  "gameCode": "20220108/UTAIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-08T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-09T00:00:00Z",
+  "homeTeamTime": "2022-01-08T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 15,
+    "losses": 25,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 28,
+    "losses": 12,
+    "score": 113,
+    "seed": 0
+  }
+}

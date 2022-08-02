@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100848",
+  "gameCode": "20220212/SASNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-12T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-13T00:00:00Z",
+  "homeTeamTime": "2022-02-12T18:00:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 22,
+    "losses": 34,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 22,
+    "losses": 35,
+    "score": 124,
+    "seed": 0
+  }
+}

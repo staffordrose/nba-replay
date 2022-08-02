@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100111",
+  "gameCode": "20211103/CHIPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-03T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-03T23:00:00Z",
+  "homeTeamTime": "2021-11-03T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 6,
+    "losses": 2,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 6,
+    "losses": 2,
+    "score": 98,
+    "seed": 0
+  }
+}

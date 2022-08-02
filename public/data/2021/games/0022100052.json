@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100052",
+  "gameCode": "20211026/HOUDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-26T20:30:00Z",
+  "gameDateTimeUTC": "2021-10-27T00:30:00Z",
+  "homeTeamTime": "2021-10-26T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 2,
+    "losses": 1,
+    "score": 116,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 1,
+    "losses": 3,
+    "score": 106,
+    "seed": 0
+  }
+}

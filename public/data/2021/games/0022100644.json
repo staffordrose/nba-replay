@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100644",
+  "gameCode": "20220115/NOPBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-15T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-16T00:30:00Z",
+  "homeTeamTime": "2022-01-15T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 27,
+    "losses": 15,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 16,
+    "losses": 27,
+    "score": 105,
+    "seed": 0
+  }
+}

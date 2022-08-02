@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101194",
+  "gameCode": "20220406/OKCUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-06T21:00:00Z",
+  "gameDateTimeUTC": "2022-04-07T01:00:00Z",
+  "homeTeamTime": "2022-04-06T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 48,
+    "losses": 32,
+    "score": 137,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 24,
+    "losses": 56,
+    "score": 101,
+    "seed": 0
+  }
+}

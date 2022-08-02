@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100148",
+  "gameCode": "20211108/BKNCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-08T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-09T01:00:00Z",
+  "homeTeamTime": "2021-11-08T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 7,
+    "losses": 3,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 7,
+    "losses": 4,
+    "score": 95,
+    "seed": 0
+  }
+}

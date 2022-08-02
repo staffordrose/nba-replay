@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100722",
+  "gameCode": "20220126/MILCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-26T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-27T00:00:00Z",
+  "homeTeamTime": "2022-01-26T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 30,
+    "losses": 19,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 30,
+    "losses": 20,
+    "score": 99,
+    "seed": 0
+  }
+}

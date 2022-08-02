@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100039",
+  "gameCode": "20211024/GSWSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-24T21:00:00Z",
+  "gameDateTimeUTC": "2021-10-25T01:00:00Z",
+  "homeTeamTime": "2021-10-24T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 1,
+    "losses": 2,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 3,
+    "losses": 0,
+    "score": 119,
+    "seed": 0
+  }
+}

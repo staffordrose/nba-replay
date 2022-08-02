@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100574",
+  "gameCode": "20220105/OKCMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-05T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-06T01:00:00Z",
+  "homeTeamTime": "2022-01-05T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 18,
+    "losses": 20,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 13,
+    "losses": 24,
+    "score": 90,
+    "seed": 0
+  }
+}

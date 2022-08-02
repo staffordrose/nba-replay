@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100006",
+  "gameCode": "20211020/WASTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-20T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-20T23:30:00Z",
+  "homeTeamTime": "2021-10-20T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 0,
+    "losses": 1,
+    "score": 83,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 1,
+    "losses": 0,
+    "score": 98,
+    "seed": 0
+  }
+}

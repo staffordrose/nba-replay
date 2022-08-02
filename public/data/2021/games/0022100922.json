@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100922",
+  "gameCode": "20220228/CHIMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-28T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-01T00:30:00Z",
+  "homeTeamTime": "2022-02-28T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 41,
+    "losses": 21,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 39,
+    "losses": 23,
+    "score": 99,
+    "seed": 0
+  }
+}

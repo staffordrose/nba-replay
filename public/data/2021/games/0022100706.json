@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100706",
+  "gameCode": "20220123/BKNMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-23T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-24T01:00:00Z",
+  "homeTeamTime": "2022-01-23T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 23,
+    "losses": 23,
+    "score": 136,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 29,
+    "losses": 17,
+    "score": 125,
+    "seed": 0
+  }
+}

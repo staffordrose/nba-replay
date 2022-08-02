@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101078",
+  "gameCode": "20220321/BOSOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-21T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-22T00:00:00Z",
+  "homeTeamTime": "2022-03-21T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 20,
+    "losses": 52,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 45,
+    "losses": 28,
+    "score": 132,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100086",
+  "gameCode": "20211030/OKCGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-30T20:30:00Z",
+  "gameDateTimeUTC": "2021-10-31T00:30:00Z",
+  "homeTeamTime": "2021-10-30T17:30:00Z",
+  "day": "Sat",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 5,
+    "losses": 1,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 1,
+    "losses": 5,
+    "score": 82,
+    "seed": 0
+  }
+}

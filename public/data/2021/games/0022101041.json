@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101041",
+  "gameCode": "20220316/CHIUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-16T21:00:00Z",
+  "gameDateTimeUTC": "2022-03-17T01:00:00Z",
+  "homeTeamTime": "2022-03-16T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 43,
+    "losses": 26,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 41,
+    "losses": 28,
+    "score": 110,
+    "seed": 0
+  }
+}

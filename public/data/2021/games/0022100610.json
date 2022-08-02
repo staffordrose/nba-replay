@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100610",
+  "gameCode": "20220110/SASNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-10T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-11T00:30:00Z",
+  "homeTeamTime": "2022-01-10T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 20,
+    "losses": 21,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 15,
+    "losses": 25,
+    "score": 96,
+    "seed": 0
+  }
+}

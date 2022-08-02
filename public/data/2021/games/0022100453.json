@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100453",
+  "gameCode": "20220126/DENBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-26T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-27T01:00:00Z",
+  "homeTeamTime": "2022-01-26T20:00:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 29,
+    "losses": 19,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 26,
+    "losses": 21,
+    "score": 124,
+    "seed": 0
+  }
+}

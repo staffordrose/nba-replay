@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100522",
+  "gameCode": "20211229/OKCPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-29T21:00:00Z",
+  "gameDateTimeUTC": "2021-12-30T02:00:00Z",
+  "homeTeamTime": "2021-12-29T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 27,
+    "losses": 7,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 12,
+    "losses": 22,
+    "score": 97,
+    "seed": 0
+  }
+}

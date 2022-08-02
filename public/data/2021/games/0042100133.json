@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100133",
+  "gameCode": "20220420/PHITOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-04-20T20:00:00Z",
+  "gameDateTimeUTC": "2022-04-21T00:00:00Z",
+  "homeTeamTime": "2022-04-20T20:00:00Z",
+  "day": "Wed",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 3",
+  "seriesText": "PHI leads series 3-0",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 0,
+    "losses": 3,
+    "score": 101,
+    "seed": 5
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 3,
+    "losses": 0,
+    "score": 104,
+    "seed": 4
+  }
+}

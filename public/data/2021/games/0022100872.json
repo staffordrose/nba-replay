@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100872",
+  "gameCode": "20220215/MEMNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-15T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-16T01:00:00Z",
+  "homeTeamTime": "2022-02-15T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 23,
+    "losses": 35,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 41,
+    "losses": 18,
+    "score": 121,
+    "seed": 0
+  }
+}

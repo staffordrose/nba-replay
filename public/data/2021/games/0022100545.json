@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100545",
+  "gameCode": "20220102/NYKTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-02T15:30:00Z",
+  "gameDateTimeUTC": "2022-01-02T20:30:00Z",
+  "homeTeamTime": "2022-01-02T15:30:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 16,
+    "losses": 17,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 17,
+    "losses": 20,
+    "score": 105,
+    "seed": 0
+  }
+}

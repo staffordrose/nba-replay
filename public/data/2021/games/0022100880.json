@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100880",
+  "gameCode": "20220216/TORMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-16T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-17T01:00:00Z",
+  "homeTeamTime": "2022-02-16T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 31,
+    "losses": 28,
+    "score": 91,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 32,
+    "losses": 25,
+    "score": 103,
+    "seed": 0
+  }
+}

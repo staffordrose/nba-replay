@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100601",
+  "gameCode": "20220109/DENOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-09T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-10T00:00:00Z",
+  "homeTeamTime": "2022-01-09T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 13,
+    "losses": 26,
+    "score": 95,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 20,
+    "losses": 18,
+    "score": 99,
+    "seed": 0
+  }
+}

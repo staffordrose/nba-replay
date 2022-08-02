@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100572",
+  "gameCode": "20220105/GSWDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-05T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-06T00:30:00Z",
+  "homeTeamTime": "2022-01-05T18:30:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 20,
+    "losses": 18,
+    "score": 99,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 29,
+    "losses": 8,
+    "score": 82,
+    "seed": 0
+  }
+}

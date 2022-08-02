@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100440",
+  "gameCode": "20211217/MEMSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-17T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-18T03:00:00Z",
+  "homeTeamTime": "2021-12-17T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 12,
+    "losses": 18,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 19,
+    "losses": 11,
+    "score": 124,
+    "seed": 0
+  }
+}

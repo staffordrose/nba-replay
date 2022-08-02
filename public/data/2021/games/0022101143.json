@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101143",
+  "gameCode": "20220330/ATLOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-30T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-31T00:00:00Z",
+  "homeTeamTime": "2022-03-30T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 22,
+    "losses": 54,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 39,
+    "losses": 37,
+    "score": 136,
+    "seed": 0
+  }
+}

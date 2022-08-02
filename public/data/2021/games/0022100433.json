@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100433",
+  "gameCode": "20211217/MIAORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-17T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-18T00:00:00Z",
+  "homeTeamTime": "2021-12-17T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 5,
+    "losses": 25,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 18,
+    "losses": 12,
+    "score": 115,
+    "seed": 0
+  }
+}

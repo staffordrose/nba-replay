@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100552",
+  "gameCode": "20220103/HOUPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-03T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-04T00:00:00Z",
+  "homeTeamTime": "2022-01-03T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 20,
+    "losses": 16,
+    "score": 133,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 10,
+    "losses": 28,
+    "score": 113,
+    "seed": 0
+  }
+}

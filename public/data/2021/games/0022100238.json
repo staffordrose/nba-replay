@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100238",
+  "gameCode": "20211119/TORSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-19T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-20T03:00:00Z",
+  "homeTeamTime": "2021-11-19T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 6,
+    "losses": 10,
+    "score": 89,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 8,
+    "losses": 9,
+    "score": 108,
+    "seed": 0
+  }
+}

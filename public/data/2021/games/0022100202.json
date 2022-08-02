@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100202",
+  "gameCode": "20211115/ORLATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-15T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-16T00:30:00Z",
+  "homeTeamTime": "2021-11-15T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 6,
+    "losses": 9,
+    "score": 129,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 3,
+    "losses": 11,
+    "score": 111,
+    "seed": 0
+  }
+}

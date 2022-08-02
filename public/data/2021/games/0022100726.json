@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100726",
+  "gameCode": "20220228/TORBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-28T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-01T00:30:00Z",
+  "homeTeamTime": "2022-02-28T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 32,
+    "losses": 30,
+    "score": 97,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 33,
+    "losses": 27,
+    "score": 133,
+    "seed": 0
+  }
+}

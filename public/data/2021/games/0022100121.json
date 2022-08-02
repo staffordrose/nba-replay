@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100121",
+  "gameCode": "20211104/BOSMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-04T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-04T23:30:00Z",
+  "homeTeamTime": "2021-11-04T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 6,
+    "losses": 2,
+    "score": 78,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 4,
+    "losses": 5,
+    "score": 95,
+    "seed": 0
+  }
+}

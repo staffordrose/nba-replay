@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100197",
+  "gameCode": "20211114/PORDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-14T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-15T01:00:00Z",
+  "homeTeamTime": "2021-11-14T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 9,
+    "losses": 4,
+    "score": 124,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 6,
+    "losses": 8,
+    "score": 95,
+    "seed": 0
+  }
+}

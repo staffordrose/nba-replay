@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101113",
+  "gameCode": "20220326/OKCDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-26T21:00:00Z",
+  "gameDateTimeUTC": "2022-03-27T01:00:00Z",
+  "homeTeamTime": "2022-03-26T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 44,
+    "losses": 31,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 21,
+    "losses": 53,
+    "score": 107,
+    "seed": 0
+  }
+}

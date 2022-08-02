@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100707",
+  "gameCode": "20220123/DETDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-23T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-24T01:00:00Z",
+  "homeTeamTime": "2022-01-23T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 24,
+    "losses": 21,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 11,
+    "losses": 35,
+    "score": 111,
+    "seed": 0
+  }
+}

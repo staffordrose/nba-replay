@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100356",
+  "gameCode": "20211206/MEMMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-06T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-07T00:30:00Z",
+  "homeTeamTime": "2021-12-06T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 14,
+    "losses": 11,
+    "score": 90,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 14,
+    "losses": 10,
+    "score": 105,
+    "seed": 0
+  }
+}

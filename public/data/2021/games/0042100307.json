@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100307",
+  "gameCode": "20220529/BOSMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-29T20:30:00Z",
+  "gameDateTimeUTC": "2022-05-30T00:30:00Z",
+  "homeTeamTime": "2022-05-29T20:30:00Z",
+  "day": "Sun",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 7",
+  "seriesText": "BOS wins series 4-3",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 3,
+    "losses": 4,
+    "score": 96,
+    "seed": 1
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 4,
+    "losses": 3,
+    "score": 100,
+    "seed": 2
+  }
+}

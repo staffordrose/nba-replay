@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100151",
+  "gameCode": "20220416/MINMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-16T15:30:00Z",
+  "gameDateTimeUTC": "2022-04-16T19:30:00Z",
+  "homeTeamTime": "2022-04-16T14:30:00Z",
+  "day": "Sat",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 1",
+  "seriesText": "MIN leads series 1-0",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 0,
+    "losses": 1,
+    "score": 117,
+    "seed": 2
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 1,
+    "losses": 0,
+    "score": 130,
+    "seed": 7
+  }
+}

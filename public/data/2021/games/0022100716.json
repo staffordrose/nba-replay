@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100716",
+  "gameCode": "20220125/LACWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-25T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-26T00:00:00Z",
+  "homeTeamTime": "2022-01-25T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 23,
+    "losses": 25,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 24,
+    "losses": 25,
+    "score": 116,
+    "seed": 0
+  }
+}

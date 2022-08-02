@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100308",
+  "gameCode": "20211129/OKCHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-29T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-30T01:00:00Z",
+  "homeTeamTime": "2021-11-29T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 4,
+    "losses": 16,
+    "score": 102,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 6,
+    "losses": 14,
+    "score": 89,
+    "seed": 0
+  }
+}

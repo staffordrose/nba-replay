@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101210",
+  "gameCode": "20220408/PHXUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-08T21:30:00Z",
+  "gameDateTimeUTC": "2022-04-09T01:30:00Z",
+  "homeTeamTime": "2022-04-08T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 48,
+    "losses": 33,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 64,
+    "losses": 17,
+    "score": 111,
+    "seed": 0
+  }
+}

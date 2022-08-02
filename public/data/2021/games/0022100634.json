@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100634",
+  "gameCode": "20220114/PHXIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-14T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-15T00:00:00Z",
+  "homeTeamTime": "2022-01-14T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 15,
+    "losses": 28,
+    "score": 94,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 32,
+    "losses": 9,
+    "score": 112,
+    "seed": 0
+  }
+}

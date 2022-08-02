@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101157",
+  "gameCode": "20220401/DETOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-01T20:00:00Z",
+  "gameDateTimeUTC": "2022-04-02T00:00:00Z",
+  "homeTeamTime": "2022-04-01T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 4,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 22,
+    "losses": 55,
+    "score": 101,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 22,
+    "losses": 56,
+    "score": 110,
+    "seed": 0
+  }
+}

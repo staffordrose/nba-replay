@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100528",
+  "gameCode": "20220307/GSWDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-07T21:00:00Z",
+  "gameDateTimeUTC": "2022-03-08T02:00:00Z",
+  "homeTeamTime": "2022-03-07T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 39,
+    "losses": 26,
+    "score": 131,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 43,
+    "losses": 22,
+    "score": 124,
+    "seed": 0
+  }
+}

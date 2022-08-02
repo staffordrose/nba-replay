@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100615",
+  "gameCode": "20220111/MINNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-11T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-12T01:00:00Z",
+  "homeTeamTime": "2022-01-11T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 15,
+    "losses": 26,
+    "score": 128,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 20,
+    "losses": 21,
+    "score": 125,
+    "seed": 0
+  }
+}

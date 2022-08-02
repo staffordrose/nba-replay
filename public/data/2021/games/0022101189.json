@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101189",
+  "gameCode": "20220405/LALPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-05T22:30:00Z",
+  "gameDateTimeUTC": "2022-04-06T02:30:00Z",
+  "homeTeamTime": "2022-04-05T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 63,
+    "losses": 16,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 31,
+    "losses": 48,
+    "score": 110,
+    "seed": 0
+  }
+}

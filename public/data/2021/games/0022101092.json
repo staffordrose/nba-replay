@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101092",
+  "gameCode": "20220323/HOUDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-23T20:30:00Z",
+  "gameDateTimeUTC": "2022-03-24T00:30:00Z",
+  "homeTeamTime": "2022-03-23T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 45,
+    "losses": 28,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 18,
+    "losses": 55,
+    "score": 91,
+    "seed": 0
+  }
+}

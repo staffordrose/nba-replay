@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100980",
+  "gameCode": "20220308/LACGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-08T22:00:00Z",
+  "gameDateTimeUTC": "2022-03-09T03:00:00Z",
+  "homeTeamTime": "2022-03-08T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 44,
+    "losses": 22,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 34,
+    "losses": 33,
+    "score": 97,
+    "seed": 0
+  }
+}

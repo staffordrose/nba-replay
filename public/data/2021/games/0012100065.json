@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100065",
+  "gameCode": "20211015/HOUSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-15T20:30:00Z",
+  "gameDateTimeUTC": "2021-10-16T00:30:00Z",
+  "homeTeamTime": "2021-10-15T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 3,
+    "losses": 2,
+    "score": 126,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 1,
+    "losses": 3,
+    "score": 98,
+    "seed": 0
+  }
+}

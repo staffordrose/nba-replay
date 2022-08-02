@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100746",
+  "gameCode": "20220129/INDDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-29T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-30T00:00:00Z",
+  "homeTeamTime": "2022-01-29T18:00:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 29,
+    "losses": 21,
+    "score": 132,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 18,
+    "losses": 33,
+    "score": 105,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100298",
+  "gameCode": "20211127/WASDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-27T20:30:00Z",
+  "gameDateTimeUTC": "2021-11-28T01:30:00Z",
+  "homeTeamTime": "2021-11-27T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 10,
+    "losses": 8,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 13,
+    "losses": 7,
+    "score": 120,
+    "seed": 0
+  }
+}

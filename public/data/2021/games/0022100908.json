@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100908",
+  "gameCode": "20220226/SASMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-26T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-27T01:00:00Z",
+  "homeTeamTime": "2022-02-26T20:00:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 40,
+    "losses": 21,
+    "score": 133,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 24,
+    "losses": 37,
+    "score": 129,
+    "seed": 0
+  }
+}

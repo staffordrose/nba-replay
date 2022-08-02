@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100701",
+  "gameCode": "20220123/CHIORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-23T18:00:00Z",
+  "gameDateTimeUTC": "2022-01-23T23:00:00Z",
+  "homeTeamTime": "2022-01-23T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 9,
+    "losses": 39,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 28,
+    "losses": 17,
+    "score": 95,
+    "seed": 0
+  }
+}

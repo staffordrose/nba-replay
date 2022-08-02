@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100104",
+  "gameCode": "20220424/MIAATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-24T19:00:00Z",
+  "gameDateTimeUTC": "2022-04-24T23:00:00Z",
+  "homeTeamTime": "2022-04-24T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 4",
+  "seriesText": "MIA leads series 3-1",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 1,
+    "losses": 3,
+    "score": 86,
+    "seed": 8
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 3,
+    "losses": 1,
+    "score": 110,
+    "seed": 1
+  }
+}

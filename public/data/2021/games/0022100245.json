@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100245",
+  "gameCode": "20211120/MEMMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-20T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-21T01:00:00Z",
+  "homeTeamTime": "2021-11-20T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 7,
+    "losses": 9,
+    "score": 138,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 8,
+    "losses": 8,
+    "score": 95,
+    "seed": 0
+  }
+}

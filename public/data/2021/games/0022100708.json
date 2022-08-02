@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100708",
+  "gameCode": "20220123/UTAGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-23T20:30:00Z",
+  "gameDateTimeUTC": "2022-01-24T01:30:00Z",
+  "homeTeamTime": "2022-01-23T17:30:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 34,
+    "losses": 13,
+    "score": 94,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 30,
+    "losses": 17,
+    "score": 92,
+    "seed": 0
+  }
+}

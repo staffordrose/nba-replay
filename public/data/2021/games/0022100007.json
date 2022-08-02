@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100007",
+  "gameCode": "20211020/CLEMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-20T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-21T00:00:00Z",
+  "homeTeamTime": "2021-10-20T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 1,
+    "losses": 0,
+    "score": 132,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 0,
+    "losses": 1,
+    "score": 121,
+    "seed": 0
+  }
+}

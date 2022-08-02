@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100303",
+  "gameCode": "20220521/MIABOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-21T20:30:00Z",
+  "gameDateTimeUTC": "2022-05-22T00:30:00Z",
+  "homeTeamTime": "2022-05-21T20:30:00Z",
+  "day": "Sat",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 3",
+  "seriesText": "MIA leads series 2-1",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 1,
+    "losses": 2,
+    "score": 103,
+    "seed": 2
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 2,
+    "losses": 1,
+    "score": 109,
+    "seed": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100437",
+  "gameCode": "20211217/SASUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-17T21:00:00Z",
+  "gameDateTimeUTC": "2021-12-18T02:00:00Z",
+  "homeTeamTime": "2021-12-17T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 20,
+    "losses": 8,
+    "score": 126,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 11,
+    "losses": 17,
+    "score": 128,
+    "seed": 0
+  }
+}

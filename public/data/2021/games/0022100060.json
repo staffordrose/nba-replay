@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100060",
+  "gameCode": "20211027/MINMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-27T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-28T00:00:00Z",
+  "homeTeamTime": "2021-10-27T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 3,
+    "losses": 2,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 3,
+    "losses": 1,
+    "score": 113,
+    "seed": 0
+  }
+}

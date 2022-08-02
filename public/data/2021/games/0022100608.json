@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100608",
+  "gameCode": "20220110/UTADET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-10T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-11T00:00:00Z",
+  "homeTeamTime": "2022-01-10T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 9,
+    "losses": 30,
+    "score": 126,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 28,
+    "losses": 13,
+    "score": 116,
+    "seed": 0
+  }
+}

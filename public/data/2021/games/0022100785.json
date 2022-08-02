@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100785",
+  "gameCode": "20220203/SACGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-03T22:00:00Z",
+  "gameDateTimeUTC": "2022-02-04T03:00:00Z",
+  "homeTeamTime": "2022-02-03T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 40,
+    "losses": 13,
+    "score": 126,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 19,
+    "losses": 35,
+    "score": 114,
+    "seed": 0
+  }
+}

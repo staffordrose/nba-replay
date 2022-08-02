@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100436",
+  "gameCode": "20211217/LALMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-17T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-18T03:00:00Z",
+  "homeTeamTime": "2021-12-17T21:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 14,
+    "losses": 15,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 16,
+    "losses": 14,
+    "score": 92,
+    "seed": 0
+  }
+}

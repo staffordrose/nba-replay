@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100147",
+  "gameCode": "20211108/NYKPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-08T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-09T00:00:00Z",
+  "homeTeamTime": "2021-11-08T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 8,
+    "losses": 3,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 7,
+    "losses": 4,
+    "score": 103,
+    "seed": 0
+  }
+}

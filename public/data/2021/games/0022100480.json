@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100480",
+  "gameCode": "20211223/WASNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-23T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-24T00:30:00Z",
+  "homeTeamTime": "2021-12-23T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 14,
+    "losses": 18,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 17,
+    "losses": 15,
+    "score": 124,
+    "seed": 0
+  }
+}

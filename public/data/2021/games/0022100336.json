@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100336",
+  "gameCode": "20211203/MINBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-03T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-04T00:30:00Z",
+  "homeTeamTime": "2021-12-03T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 16,
+    "losses": 6,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 11,
+    "losses": 12,
+    "score": 105,
+    "seed": 0
+  }
+}

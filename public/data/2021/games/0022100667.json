@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100667",
+  "gameCode": "20220118/DETGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-18T22:00:00Z",
+  "gameDateTimeUTC": "2022-01-19T03:00:00Z",
+  "homeTeamTime": "2022-01-18T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 32,
+    "losses": 12,
+    "score": 102,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 10,
+    "losses": 33,
+    "score": 86,
+    "seed": 0
+  }
+}

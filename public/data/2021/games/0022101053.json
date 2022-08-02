@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101053",
+  "gameCode": "20220318/INDHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-18T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-19T00:00:00Z",
+  "homeTeamTime": "2022-03-18T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 17,
+    "losses": 53,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 24,
+    "losses": 47,
+    "score": 121,
+    "seed": 0
+  }
+}

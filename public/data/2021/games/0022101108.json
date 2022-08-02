@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101108",
+  "gameCode": "20220326/SACORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-03-26T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-26T23:00:00Z",
+  "homeTeamTime": "2022-03-26T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 20,
+    "losses": 55,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 27,
+    "losses": 48,
+    "score": 114,
+    "seed": 0
+  }
+}

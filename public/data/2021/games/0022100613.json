@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100613",
+  "gameCode": "20220111/PHXTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-11T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-12T00:30:00Z",
+  "homeTeamTime": "2022-01-11T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 20,
+    "losses": 18,
+    "score": 95,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 31,
+    "losses": 9,
+    "score": 99,
+    "seed": 0
+  }
+}

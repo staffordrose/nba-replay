@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100236",
+  "gameCode": "20220513/MEMGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-13T22:00:00Z",
+  "gameDateTimeUTC": "2022-05-14T02:00:00Z",
+  "homeTeamTime": "2022-05-13T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 6",
+  "seriesText": "GSW wins series 4-2",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 4,
+    "losses": 2,
+    "score": 110,
+    "seed": 3
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 2,
+    "losses": 4,
+    "score": 96,
+    "seed": 2
+  }
+}

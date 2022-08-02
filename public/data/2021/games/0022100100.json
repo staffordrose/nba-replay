@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100100",
+  "gameCode": "20211101/DENMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-01T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-02T00:00:00Z",
+  "homeTeamTime": "2021-11-01T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 4,
+    "losses": 3,
+    "score": 106,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 4,
+    "losses": 3,
+    "score": 97,
+    "seed": 0
+  }
+}

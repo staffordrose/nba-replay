@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100843",
+  "gameCode": "20220211/MINCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-11T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-12T01:00:00Z",
+  "homeTeamTime": "2022-02-11T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 35,
+    "losses": 21,
+    "score": 134,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 29,
+    "losses": 27,
+    "score": 122,
+    "seed": 0
+  }
+}

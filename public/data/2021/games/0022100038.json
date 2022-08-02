@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100038",
+  "gameCode": "20211024/PHIOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-24T19:00:00Z",
+  "gameDateTimeUTC": "2021-10-24T23:00:00Z",
+  "homeTeamTime": "2021-10-24T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 0,
+    "losses": 3,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 2,
+    "losses": 1,
+    "score": 115,
+    "seed": 0
+  }
+}

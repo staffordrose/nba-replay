@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100268",
+  "gameCode": "20211124/LALIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2021-11-24T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-25T00:00:00Z",
+  "homeTeamTime": "2021-11-24T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 8,
+    "losses": 12,
+    "score": 116,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 10,
+    "losses": 10,
+    "score": 124,
+    "seed": 0
+  }
+}

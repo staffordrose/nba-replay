@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100626",
+  "gameCode": "20220112/LALSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-12T22:00:00Z",
+  "gameDateTimeUTC": "2022-01-13T03:00:00Z",
+  "homeTeamTime": "2022-01-12T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 17,
+    "losses": 27,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 21,
+    "losses": 21,
+    "score": 116,
+    "seed": 0
+  }
+}

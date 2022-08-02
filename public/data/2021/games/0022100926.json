@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100926",
+  "gameCode": "20220301/DETWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-01T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-02T00:00:00Z",
+  "homeTeamTime": "2022-03-01T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 28,
+    "losses": 33,
+    "score": 116,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 15,
+    "losses": 47,
+    "score": 113,
+    "seed": 0
+  }
+}

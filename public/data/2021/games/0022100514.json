@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100514",
+  "gameCode": "20211228/DENGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-28T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-29T03:00:00Z",
+  "homeTeamTime": "2021-12-28T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 27,
+    "losses": 7,
+    "score": 86,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 17,
+    "losses": 16,
+    "score": 89,
+    "seed": 0
+  }
+}

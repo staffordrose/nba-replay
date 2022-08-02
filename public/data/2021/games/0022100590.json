@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100590",
+  "gameCode": "20220107/CLEPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-07T22:00:00Z",
+  "gameDateTimeUTC": "2022-01-08T03:00:00Z",
+  "homeTeamTime": "2022-01-07T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 14,
+    "losses": 24,
+    "score": 101,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 22,
+    "losses": 17,
+    "score": 114,
+    "seed": 0
+  }
+}

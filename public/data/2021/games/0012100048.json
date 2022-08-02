@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100048",
+  "gameCode": "20211013/DALCHA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-13T18:30:00Z",
+  "gameDateTimeUTC": "2021-10-13T22:30:00Z",
+  "homeTeamTime": "2021-10-13T18:30:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Spectrum Center",
+  "arenaState": "NC",
+  "arenaCity": "Charlotte",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 1,
+    "losses": 3,
+    "score": 59,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 3,
+    "losses": 0,
+    "score": 127,
+    "seed": 0
+  }
+}

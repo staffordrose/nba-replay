@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100443",
+  "gameCode": "20211218/GSWTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-18T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-19T00:30:00Z",
+  "homeTeamTime": "2021-12-18T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 14,
+    "losses": 15,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 24,
+    "losses": 6,
+    "score": 100,
+    "seed": 0
+  }
+}

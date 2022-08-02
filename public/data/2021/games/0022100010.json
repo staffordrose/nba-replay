@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100010",
+  "gameCode": "20211020/ORLSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-20T20:30:00Z",
+  "gameDateTimeUTC": "2021-10-21T00:30:00Z",
+  "homeTeamTime": "2021-10-20T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 1,
+    "losses": 0,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 0,
+    "losses": 1,
+    "score": 97,
+    "seed": 0
+  }
+}

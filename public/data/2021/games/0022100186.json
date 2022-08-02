@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100186",
+  "gameCode": "20211113/PHIIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-13T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-14T00:00:00Z",
+  "homeTeamTime": "2021-11-13T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 6,
+    "losses": 8,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 8,
+    "losses": 6,
+    "score": 113,
+    "seed": 0
+  }
+}

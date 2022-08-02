@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101018",
+  "gameCode": "20220313/MEMOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-13T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-13T23:00:00Z",
+  "homeTeamTime": "2022-03-13T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 20,
+    "losses": 47,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 47,
+    "losses": 22,
+    "score": 125,
+    "seed": 0
+  }
+}

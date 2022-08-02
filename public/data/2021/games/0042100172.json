@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100172",
+  "gameCode": "20220418/UTADAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-18T20:30:00Z",
+  "gameDateTimeUTC": "2022-04-19T00:30:00Z",
+  "homeTeamTime": "2022-04-18T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 2",
+  "seriesText": "Series tied 1-1",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 1,
+    "losses": 1,
+    "score": 110,
+    "seed": 4
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 1,
+    "losses": 1,
+    "score": 104,
+    "seed": 5
+  }
+}

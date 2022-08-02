@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100976",
+  "gameCode": "20220308/CLEIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-08T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-09T00:00:00Z",
+  "homeTeamTime": "2022-03-08T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 22,
+    "losses": 45,
+    "score": 124,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 38,
+    "losses": 27,
+    "score": 127,
+    "seed": 0
+  }
+}

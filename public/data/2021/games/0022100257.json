@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100257",
+  "gameCode": "20211122/INDCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-22T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-23T01:00:00Z",
+  "homeTeamTime": "2021-11-22T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 12,
+    "losses": 6,
+    "score": 77,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 8,
+    "losses": 11,
+    "score": 109,
+    "seed": 0
+  }
+}

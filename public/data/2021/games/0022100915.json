@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100915",
+  "gameCode": "20220227/DETCHA",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-02-27T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-28T00:00:00Z",
+  "homeTeamTime": "2022-02-27T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Spectrum Center",
+  "arenaState": "NC",
+  "arenaCity": "Charlotte",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 30,
+    "losses": 32,
+    "score": 126,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 15,
+    "losses": 46,
+    "score": 127,
+    "seed": 0
+  }
+}

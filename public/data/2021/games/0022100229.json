@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100229",
+  "gameCode": "20211118/TORUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-18T21:00:00Z",
+  "gameDateTimeUTC": "2021-11-19T02:00:00Z",
+  "homeTeamTime": "2021-11-18T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 10,
+    "losses": 5,
+    "score": 119,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 7,
+    "losses": 9,
+    "score": 103,
+    "seed": 0
+  }
+}

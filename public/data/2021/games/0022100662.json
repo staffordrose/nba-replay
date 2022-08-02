@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100662",
+  "gameCode": "20220117/TORMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-17T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-18T00:30:00Z",
+  "homeTeamTime": "2022-01-17T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 28,
+    "losses": 16,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 21,
+    "losses": 20,
+    "score": 99,
+    "seed": 0
+  }
+}

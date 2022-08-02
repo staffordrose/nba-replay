@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100642",
+  "gameCode": "20220115/PORWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-15T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-16T00:00:00Z",
+  "homeTeamTime": "2022-01-15T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 22,
+    "losses": 21,
+    "score": 110,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 17,
+    "losses": 25,
+    "score": 115,
+    "seed": 0
+  }
+}

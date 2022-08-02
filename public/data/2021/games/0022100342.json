@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100342",
+  "gameCode": "20211204/DENNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-04T13:00:00Z",
+  "gameDateTimeUTC": "2021-12-04T18:00:00Z",
+  "homeTeamTime": "2021-12-04T13:00:00Z",
+  "day": "Sat",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 11,
+    "losses": 12,
+    "score": 99,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 11,
+    "losses": 11,
+    "score": 113,
+    "seed": 0
+  }
+}

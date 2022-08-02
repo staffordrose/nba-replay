@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100663",
+  "gameCode": "20220117/OKCDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-17T20:30:00Z",
+  "gameDateTimeUTC": "2022-01-18T01:30:00Z",
+  "homeTeamTime": "2022-01-17T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 25,
+    "losses": 19,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 14,
+    "losses": 29,
+    "score": 102,
+    "seed": 0
+  }
+}

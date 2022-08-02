@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100673",
+  "gameCode": "20220119/CLECHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-19T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-20T01:00:00Z",
+  "homeTeamTime": "2022-01-19T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 28,
+    "losses": 15,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 27,
+    "losses": 19,
+    "score": 104,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100439",
+  "gameCode": "20211217/CHAPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-17T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-18T03:00:00Z",
+  "homeTeamTime": "2021-12-17T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 12,
+    "losses": 18,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 16,
+    "losses": 15,
+    "score": 116,
+    "seed": 0
+  }
+}

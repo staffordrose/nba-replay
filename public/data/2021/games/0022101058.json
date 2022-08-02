@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101058",
+  "gameCode": "20220319/MILMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-19T17:00:00Z",
+  "gameDateTimeUTC": "2022-03-19T21:00:00Z",
+  "homeTeamTime": "2022-03-19T16:00:00Z",
+  "day": "Sat",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 42,
+    "losses": 30,
+    "score": 138,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 44,
+    "losses": 27,
+    "score": 119,
+    "seed": 0
+  }
+}

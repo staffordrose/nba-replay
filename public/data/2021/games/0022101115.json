@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101115",
+  "gameCode": "20220327/NYKDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-27T15:30:00Z",
+  "gameDateTimeUTC": "2022-03-27T19:30:00Z",
+  "homeTeamTime": "2022-03-27T15:30:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 20,
+    "losses": 55,
+    "score": 102,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 33,
+    "losses": 42,
+    "score": 104,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100053",
+  "gameCode": "20211026/LALSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2021-10-26T20:30:00Z",
+  "gameDateTimeUTC": "2021-10-27T00:30:00Z",
+  "homeTeamTime": "2021-10-26T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 1,
+    "losses": 3,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 2,
+    "losses": 2,
+    "score": 125,
+    "seed": 0
+  }
+}

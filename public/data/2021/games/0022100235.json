@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100235",
+  "gameCode": "20211119/LACNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-19T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-20T01:00:00Z",
+  "homeTeamTime": "2021-11-19T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 3,
+    "losses": 14,
+    "score": 94,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 9,
+    "losses": 7,
+    "score": 81,
+    "seed": 0
+  }
+}

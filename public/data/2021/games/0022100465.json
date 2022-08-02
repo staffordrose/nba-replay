@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100465",
+  "gameCode": "20211221/INDMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-21T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-22T00:30:00Z",
+  "homeTeamTime": "2021-12-21T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 19,
+    "losses": 13,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 13,
+    "losses": 19,
+    "score": 96,
+    "seed": 0
+  }
+}

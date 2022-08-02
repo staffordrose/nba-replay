@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100683",
+  "gameCode": "20220120/INDGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-01-20T22:00:00Z",
+  "gameDateTimeUTC": "2022-01-21T03:00:00Z",
+  "homeTeamTime": "2022-01-20T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 32,
+    "losses": 13,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 17,
+    "losses": 29,
+    "score": 121,
+    "seed": 0
+  }
+}

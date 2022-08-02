@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100486",
+  "gameCode": "20220110/BKNPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-10T22:00:00Z",
+  "gameDateTimeUTC": "2022-01-11T03:00:00Z",
+  "homeTeamTime": "2022-01-10T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 16,
+    "losses": 24,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 25,
+    "losses": 14,
+    "score": 108,
+    "seed": 0
+  }
+}

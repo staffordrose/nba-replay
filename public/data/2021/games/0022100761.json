@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100761",
+  "gameCode": "20220131/MEMPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-01-31T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-01T00:00:00Z",
+  "homeTeamTime": "2022-01-31T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 31,
+    "losses": 19,
+    "score": 122,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 35,
+    "losses": 18,
+    "score": 119,
+    "seed": 0
+  }
+}

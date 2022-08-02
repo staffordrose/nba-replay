@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101211",
+  "gameCode": "20220408/OKCLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-08T22:30:00Z",
+  "gameDateTimeUTC": "2022-04-09T02:30:00Z",
+  "homeTeamTime": "2022-04-08T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 32,
+    "losses": 49,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 24,
+    "losses": 57,
+    "score": 101,
+    "seed": 0
+  }
+}

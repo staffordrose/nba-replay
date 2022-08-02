@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100899",
+  "gameCode": "20220225/SASWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT2",
+  "gameDateTimeEst": "2022-02-25T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-26T00:00:00Z",
+  "homeTeamTime": "2022-02-25T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 27,
+    "losses": 32,
+    "score": 153,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 24,
+    "losses": 36,
+    "score": 157,
+    "seed": 0
+  }
+}

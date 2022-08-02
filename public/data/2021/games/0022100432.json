@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100432",
+  "gameCode": "20211216/WASPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-16T21:00:00Z",
+  "gameDateTimeUTC": "2021-12-17T02:00:00Z",
+  "homeTeamTime": "2021-12-16T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 23,
+    "losses": 5,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 15,
+    "losses": 15,
+    "score": 98,
+    "seed": 0
+  }
+}

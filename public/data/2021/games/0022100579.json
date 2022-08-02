@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100579",
+  "gameCode": "20220106/DETMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-06T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-07T01:00:00Z",
+  "homeTeamTime": "2022-01-06T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 26,
+    "losses": 14,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 7,
+    "losses": 30,
+    "score": 88,
+    "seed": 0
+  }
+}

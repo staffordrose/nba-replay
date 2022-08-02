@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100363",
+  "gameCode": "20211207/BKNDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-07T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-08T00:30:00Z",
+  "homeTeamTime": "2021-12-07T18:30:00Z",
+  "day": "Tue",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 11,
+    "losses": 12,
+    "score": 99,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 17,
+    "losses": 7,
+    "score": 102,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101163",
+  "gameCode": "20220402/BKNATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-02T19:30:00Z",
+  "gameDateTimeUTC": "2022-04-02T23:30:00Z",
+  "homeTeamTime": "2022-04-02T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 4,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 41,
+    "losses": 37,
+    "score": 122,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 40,
+    "losses": 38,
+    "score": 115,
+    "seed": 0
+  }
+}

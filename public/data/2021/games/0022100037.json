@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100037",
+  "gameCode": "20211024/BOSHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-24T19:00:00Z",
+  "gameDateTimeUTC": "2021-10-24T23:00:00Z",
+  "homeTeamTime": "2021-10-24T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 1,
+    "losses": 2,
+    "score": 97,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 1,
+    "losses": 2,
+    "score": 107,
+    "seed": 0
+  }
+}

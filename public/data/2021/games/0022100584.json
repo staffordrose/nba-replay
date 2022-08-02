@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100584",
+  "gameCode": "20220107/UTATOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-07T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-08T00:30:00Z",
+  "homeTeamTime": "2022-01-07T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 19,
+    "losses": 17,
+    "score": 122,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 28,
+    "losses": 11,
+    "score": 108,
+    "seed": 0
+  }
+}

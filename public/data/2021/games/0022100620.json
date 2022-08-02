@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100620",
+  "gameCode": "20220112/ORLWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-12T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-13T00:00:00Z",
+  "homeTeamTime": "2022-01-12T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 22,
+    "losses": 20,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 7,
+    "losses": 35,
+    "score": 106,
+    "seed": 0
+  }
+}

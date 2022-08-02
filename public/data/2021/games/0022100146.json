@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100146",
+  "gameCode": "20211107/CHALAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-07T21:00:00Z",
+  "gameDateTimeUTC": "2021-11-08T02:00:00Z",
+  "homeTeamTime": "2021-11-07T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 5,
+    "losses": 4,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 5,
+    "losses": 6,
+    "score": 106,
+    "seed": 0
+  }
+}

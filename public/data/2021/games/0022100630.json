@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100630",
+  "gameCode": "20220113/OKCBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-13T20:30:00Z",
+  "gameDateTimeUTC": "2022-01-14T01:30:00Z",
+  "homeTeamTime": "2022-01-13T20:30:00Z",
+  "day": "Thu",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 26,
+    "losses": 15,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 14,
+    "losses": 27,
+    "score": 130,
+    "seed": 0
+  }
+}

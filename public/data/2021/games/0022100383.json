@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100383",
+  "gameCode": "20211210/DALIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-10T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-11T00:00:00Z",
+  "homeTeamTime": "2021-12-10T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 12,
+    "losses": 16,
+    "score": 106,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 12,
+    "losses": 13,
+    "score": 93,
+    "seed": 0
+  }
+}

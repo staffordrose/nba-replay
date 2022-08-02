@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100014",
+  "gameCode": "20211005/MILMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-05T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-06T00:00:00Z",
+  "homeTeamTime": "2021-10-05T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 1,
+    "losses": 0,
+    "score": 87,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 0,
+    "losses": 1,
+    "score": 77,
+    "seed": 0
+  }
+}

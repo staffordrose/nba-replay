@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100123",
+  "gameCode": "20220422/MILCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-22T20:30:00Z",
+  "gameDateTimeUTC": "2022-04-23T00:30:00Z",
+  "homeTeamTime": "2022-04-22T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 3",
+  "seriesText": "MIL leads series 2-1",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 1,
+    "losses": 2,
+    "score": 81,
+    "seed": 6
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 2,
+    "losses": 1,
+    "score": 111,
+    "seed": 3
+  }
+}

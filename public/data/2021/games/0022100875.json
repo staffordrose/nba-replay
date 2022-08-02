@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100875",
+  "gameCode": "20220216/DETBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-16T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-17T00:30:00Z",
+  "homeTeamTime": "2022-02-16T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 34,
+    "losses": 26,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 13,
+    "losses": 45,
+    "score": 112,
+    "seed": 0
+  }
+}

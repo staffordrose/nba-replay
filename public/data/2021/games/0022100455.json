@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100455",
+  "gameCode": "20211219/DALMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-19T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-20T01:00:00Z",
+  "homeTeamTime": "2021-12-19T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 15,
+    "losses": 15,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 14,
+    "losses": 15,
+    "score": 105,
+    "seed": 0
+  }
+}

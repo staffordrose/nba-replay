@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100114",
+  "gameCode": "20220425/BOSBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-25T19:00:00Z",
+  "gameDateTimeUTC": "2022-04-25T23:00:00Z",
+  "homeTeamTime": "2022-04-25T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 4",
+  "seriesText": "BOS wins series 4-0",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 0,
+    "losses": 4,
+    "score": 112,
+    "seed": 7
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 4,
+    "losses": 0,
+    "score": 116,
+    "seed": 2
+  }
+}

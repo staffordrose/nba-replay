@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100696",
+  "gameCode": "20220122/SACMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-22T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-23T00:00:00Z",
+  "homeTeamTime": "2022-01-22T18:00:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 30,
+    "losses": 19,
+    "score": 133,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 18,
+    "losses": 30,
+    "score": 127,
+    "seed": 0
+  }
+}

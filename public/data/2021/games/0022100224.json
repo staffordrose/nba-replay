@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100224",
+  "gameCode": "20211118/GSWCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-18T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-19T00:30:00Z",
+  "homeTeamTime": "2021-11-18T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 9,
+    "losses": 8,
+    "score": 89,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 13,
+    "losses": 2,
+    "score": 104,
+    "seed": 0
+  }
+}

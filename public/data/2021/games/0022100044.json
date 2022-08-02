@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100044",
+  "gameCode": "20211025/WASBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-25T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-25T23:30:00Z",
+  "homeTeamTime": "2021-10-25T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 2,
+    "losses": 2,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 2,
+    "losses": 1,
+    "score": 90,
+    "seed": 0
+  }
+}

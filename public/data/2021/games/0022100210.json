@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100210",
+  "gameCode": "20211116/GSWBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-16T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-17T00:30:00Z",
+  "homeTeamTime": "2021-11-16T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 10,
+    "losses": 5,
+    "score": 99,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 12,
+    "losses": 2,
+    "score": 117,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100126",
+  "gameCode": "20211105/MEMWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-05T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-05T23:00:00Z",
+  "homeTeamTime": "2021-11-05T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 6,
+    "losses": 3,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 5,
+    "losses": 4,
+    "score": 87,
+    "seed": 0
+  }
+}

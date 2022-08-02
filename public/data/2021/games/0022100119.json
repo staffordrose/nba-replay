@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100119",
+  "gameCode": "20211104/PHIDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-04T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-04T23:00:00Z",
+  "homeTeamTime": "2021-11-04T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 1,
+    "losses": 7,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 7,
+    "losses": 2,
+    "score": 109,
+    "seed": 0
+  }
+}

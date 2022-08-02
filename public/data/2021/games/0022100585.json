@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100585",
+  "gameCode": "20220107/WASCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-07T20:00:00Z",
+  "gameDateTimeUTC": "2022-01-08T01:00:00Z",
+  "homeTeamTime": "2022-01-07T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 26,
+    "losses": 10,
+    "score": 130,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 19,
+    "losses": 20,
+    "score": 122,
+    "seed": 0
+  }
+}

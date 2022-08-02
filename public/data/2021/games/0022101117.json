@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101117",
+  "gameCode": "20220327/GSWWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-27T18:00:00Z",
+  "gameDateTimeUTC": "2022-03-27T22:00:00Z",
+  "homeTeamTime": "2022-03-27T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 32,
+    "losses": 42,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 48,
+    "losses": 27,
+    "score": 115,
+    "seed": 0
+  }
+}

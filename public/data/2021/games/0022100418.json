@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100418",
+  "gameCode": "20211215/ATLORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-15T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-16T00:00:00Z",
+  "homeTeamTime": "2021-12-15T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 5,
+    "losses": 24,
+    "score": 99,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 14,
+    "losses": 14,
+    "score": 111,
+    "seed": 0
+  }
+}

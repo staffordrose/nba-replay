@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101060",
+  "gameCode": "20220319/DETCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-19T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-20T00:00:00Z",
+  "homeTeamTime": "2022-03-19T20:00:00Z",
+  "day": "Sat",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 41,
+    "losses": 30,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 19,
+    "losses": 52,
+    "score": 109,
+    "seed": 0
+  }
+}

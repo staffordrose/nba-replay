@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101080",
+  "gameCode": "20220322/GSWORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-22T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-22T23:00:00Z",
+  "homeTeamTime": "2022-03-22T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 20,
+    "losses": 53,
+    "score": 94,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 47,
+    "losses": 25,
+    "score": 90,
+    "seed": 0
+  }
+}

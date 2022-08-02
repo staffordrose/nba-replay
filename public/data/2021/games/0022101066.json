@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101066",
+  "gameCode": "20220320/PHXSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-03-20T18:00:00Z",
+  "gameDateTimeUTC": "2022-03-20T22:00:00Z",
+  "homeTeamTime": "2022-03-20T15:00:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 25,
+    "losses": 48,
+    "score": 124,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 58,
+    "losses": 14,
+    "score": 127,
+    "seed": 0
+  }
+}

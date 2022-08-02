@@ -1,0 +1,41 @@
+{
+  "gameId": "0012100002",
+  "gameCode": "20211004/PHITOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-04T19:00:00Z",
+  "gameDateTimeUTC": "2021-10-04T23:00:00Z",
+  "homeTeamTime": "2021-10-04T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 10,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 1,
+    "losses": 0,
+    "score": 123,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 0,
+    "losses": 1,
+    "score": 107,
+    "seed": 0
+  }
+}

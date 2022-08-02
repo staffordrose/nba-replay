@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101063",
+  "gameCode": "20220320/MEMHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-20T15:30:00Z",
+  "gameDateTimeUTC": "2022-03-20T19:30:00Z",
+  "homeTeamTime": "2022-03-20T14:30:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 17,
+    "losses": 54,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 49,
+    "losses": 23,
+    "score": 122,
+    "seed": 0
+  }
+}

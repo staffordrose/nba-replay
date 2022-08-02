@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100426",
+  "gameCode": "20211215/MEMPOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-15T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-16T03:00:00Z",
+  "homeTeamTime": "2021-12-15T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Moda Center",
+  "arenaState": "OR",
+  "arenaCity": "Portland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 11,
+    "losses": 18,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 18,
+    "losses": 11,
+    "score": 113,
+    "seed": 0
+  }
+}

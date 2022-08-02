@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100796",
+  "gameCode": "20220205/MEMORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-05T17:00:00Z",
+  "gameDateTimeUTC": "2022-02-05T22:00:00Z",
+  "homeTeamTime": "2022-02-05T17:00:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 12,
+    "losses": 42,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 37,
+    "losses": 18,
+    "score": 135,
+    "seed": 0
+  }
+}

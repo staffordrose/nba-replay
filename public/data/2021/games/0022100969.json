@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100969",
+  "gameCode": "20220307/CHIPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-07T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-08T00:00:00Z",
+  "homeTeamTime": "2022-03-07T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 40,
+    "losses": 24,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 39,
+    "losses": 26,
+    "score": 106,
+    "seed": 0
+  }
+}

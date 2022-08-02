@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100267",
+  "gameCode": "20211124/PHXCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-24T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-25T00:00:00Z",
+  "homeTeamTime": "2021-11-24T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 9,
+    "losses": 10,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 15,
+    "losses": 3,
+    "score": 120,
+    "seed": 0
+  }
+}

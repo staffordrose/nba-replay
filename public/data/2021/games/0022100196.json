@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100196",
+  "gameCode": "20211114/BKNOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-14T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-15T00:00:00Z",
+  "homeTeamTime": "2021-11-14T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 5,
+    "losses": 7,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 10,
+    "losses": 4,
+    "score": 120,
+    "seed": 0
+  }
+}

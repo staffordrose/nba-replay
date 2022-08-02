@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100546",
+  "gameCode": "20220102/ORLBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-01-02T18:00:00Z",
+  "gameDateTimeUTC": "2022-01-02T23:00:00Z",
+  "homeTeamTime": "2022-01-02T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 18,
+    "losses": 19,
+    "score": 116,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 7,
+    "losses": 30,
+    "score": 111,
+    "seed": 0
+  }
+}

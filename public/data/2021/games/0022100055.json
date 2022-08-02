@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100055",
+  "gameCode": "20211027/CHAORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-27T19:00:00Z",
+  "gameDateTimeUTC": "2021-10-27T23:00:00Z",
+  "homeTeamTime": "2021-10-27T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 1,
+    "losses": 4,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 4,
+    "losses": 1,
+    "score": 120,
+    "seed": 0
+  }
+}

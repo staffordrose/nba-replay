@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101147",
+  "gameCode": "20220331/PHIDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-31T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-31T23:00:00Z",
+  "homeTeamTime": "2022-03-31T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 21,
+    "losses": 56,
+    "score": 102,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 46,
+    "losses": 30,
+    "score": 94,
+    "seed": 0
+  }
+}

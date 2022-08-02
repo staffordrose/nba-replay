@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100176",
+  "gameCode": "20211112/DETCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-12T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-13T00:30:00Z",
+  "homeTeamTime": "2021-11-12T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 8,
+    "losses": 5,
+    "score": 98,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 2,
+    "losses": 9,
+    "score": 78,
+    "seed": 0
+  }
+}

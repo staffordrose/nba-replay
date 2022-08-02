@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101229",
+  "gameCode": "20220410/SACPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-10T21:30:00Z",
+  "gameDateTimeUTC": "2022-04-11T01:30:00Z",
+  "homeTeamTime": "2022-04-10T18:30:00Z",
+  "day": "Sun",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 64,
+    "losses": 18,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 30,
+    "losses": 52,
+    "score": 116,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100288",
+  "gameCode": "20211126/MILDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-26T21:00:00Z",
+  "gameDateTimeUTC": "2021-11-27T02:00:00Z",
+  "homeTeamTime": "2021-11-26T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 9,
+    "losses": 10,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 12,
+    "losses": 8,
+    "score": 120,
+    "seed": 0
+  }
+}

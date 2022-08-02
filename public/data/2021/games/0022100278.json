@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100278",
+  "gameCode": "20211124/PHIGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-24T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-25T03:00:00Z",
+  "homeTeamTime": "2021-11-24T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 16,
+    "losses": 2,
+    "score": 116,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 10,
+    "losses": 9,
+    "score": 96,
+    "seed": 0
+  }
+}

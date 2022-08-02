@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100831",
+  "gameCode": "20220210/MEMDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-10T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-11T00:00:00Z",
+  "homeTeamTime": "2022-02-10T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 12,
+    "losses": 43,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 39,
+    "losses": 18,
+    "score": 132,
+    "seed": 0
+  }
+}

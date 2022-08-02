@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100817",
+  "gameCode": "20220208/BOSBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-08T19:30:00Z",
+  "gameDateTimeUTC": "2022-02-09T00:30:00Z",
+  "homeTeamTime": "2022-02-08T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 29,
+    "losses": 25,
+    "score": 91,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 31,
+    "losses": 25,
+    "score": 126,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100852",
+  "gameCode": "20220212/OKCCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-12T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-13T01:00:00Z",
+  "homeTeamTime": "2022-02-12T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 36,
+    "losses": 21,
+    "score": 106,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 17,
+    "losses": 39,
+    "score": 101,
+    "seed": 0
+  }
+}

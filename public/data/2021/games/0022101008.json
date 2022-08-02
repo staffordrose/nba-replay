@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101008",
+  "gameCode": "20220312/MILGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-12T20:30:00Z",
+  "gameDateTimeUTC": "2022-03-13T01:30:00Z",
+  "homeTeamTime": "2022-03-12T17:30:00Z",
+  "day": "Sat",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 46,
+    "losses": 22,
+    "score": 122,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 42,
+    "losses": 26,
+    "score": 109,
+    "seed": 0
+  }
+}

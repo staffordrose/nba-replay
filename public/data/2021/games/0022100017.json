@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100017",
+  "gameCode": "20211022/CHACLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-22T19:00:00Z",
+  "gameDateTimeUTC": "2021-10-22T23:00:00Z",
+  "homeTeamTime": "2021-10-22T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 0,
+    "losses": 2,
+    "score": 112,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 2,
+    "losses": 0,
+    "score": 123,
+    "seed": 0
+  }
+}

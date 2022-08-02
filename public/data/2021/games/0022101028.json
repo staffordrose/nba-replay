@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101028",
+  "gameCode": "20220314/TORLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-14T22:30:00Z",
+  "gameDateTimeUTC": "2022-03-15T02:30:00Z",
+  "homeTeamTime": "2022-03-14T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 29,
+    "losses": 39,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 38,
+    "losses": 30,
+    "score": 114,
+    "seed": 0
+  }
+}

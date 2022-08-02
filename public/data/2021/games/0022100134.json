@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100134",
+  "gameCode": "20211106/UTAMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-06T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-06T23:30:00Z",
+  "homeTeamTime": "2021-11-06T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 7,
+    "losses": 2,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 7,
+    "losses": 2,
+    "score": 115,
+    "seed": 0
+  }
+}

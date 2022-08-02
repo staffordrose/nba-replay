@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100323",
+  "gameCode": "20211201/CLEMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-01T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-02T00:30:00Z",
+  "homeTeamTime": "2021-12-01T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 13,
+    "losses": 9,
+    "score": 85,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 12,
+    "losses": 10,
+    "score": 111,
+    "seed": 0
+  }
+}

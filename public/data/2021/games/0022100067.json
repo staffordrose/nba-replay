@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100067",
+  "gameCode": "20211028/NYKCHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-28T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-29T00:00:00Z",
+  "homeTeamTime": "2021-10-28T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 4,
+    "losses": 1,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 4,
+    "losses": 1,
+    "score": 104,
+    "seed": 0
+  }
+}

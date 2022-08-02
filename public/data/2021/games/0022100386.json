@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100386",
+  "gameCode": "20211210/MILHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-10T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-11T01:00:00Z",
+  "homeTeamTime": "2021-12-10T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 8,
+    "losses": 17,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 17,
+    "losses": 10,
+    "score": 123,
+    "seed": 0
+  }
+}

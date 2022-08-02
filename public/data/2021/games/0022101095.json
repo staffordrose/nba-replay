@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101095",
+  "gameCode": "20220324/CLETOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-24T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-24T23:30:00Z",
+  "homeTeamTime": "2022-03-24T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 41,
+    "losses": 32,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 41,
+    "losses": 32,
+    "score": 104,
+    "seed": 0
+  }
+}

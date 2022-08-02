@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100578",
+  "gameCode": "20220106/BOSNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-06T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-07T00:30:00Z",
+  "homeTeamTime": "2022-01-06T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 19,
+    "losses": 20,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 18,
+    "losses": 21,
+    "score": 105,
+    "seed": 0
+  }
+}

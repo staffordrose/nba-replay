@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100070",
+  "gameCode": "20211028/MEMGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2021-10-28T22:00:00Z",
+  "gameDateTimeUTC": "2021-10-29T02:00:00Z",
+  "homeTeamTime": "2021-10-28T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 4,
+    "losses": 1,
+    "score": 101,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 3,
+    "losses": 2,
+    "score": 104,
+    "seed": 0
+  }
+}

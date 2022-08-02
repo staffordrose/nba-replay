@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100320",
+  "gameCode": "20211201/DENORL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-01T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-02T00:00:00Z",
+  "homeTeamTime": "2021-12-01T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Amway Center",
+  "arenaState": "FL",
+  "arenaCity": "Orlando",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 5,
+    "losses": 18,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 10,
+    "losses": 11,
+    "score": 103,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100715",
+  "gameCode": "20220125/CHATOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-25T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-26T00:00:00Z",
+  "homeTeamTime": "2022-01-25T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 23,
+    "losses": 22,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 26,
+    "losses": 22,
+    "score": 113,
+    "seed": 0
+  }
+}

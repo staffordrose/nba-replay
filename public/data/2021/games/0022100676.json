@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100676",
+  "gameCode": "20220119/OKCSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-19T20:30:00Z",
+  "gameDateTimeUTC": "2022-01-20T01:30:00Z",
+  "homeTeamTime": "2022-01-19T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 14,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 17,
+    "losses": 28,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 14,
+    "losses": 30,
+    "score": 96,
+    "seed": 0
+  }
+}

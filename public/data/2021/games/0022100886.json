@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100886",
+  "gameCode": "20220217/DALNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-17T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-18T01:00:00Z",
+  "homeTeamTime": "2022-02-17T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 23,
+    "losses": 36,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 35,
+    "losses": 24,
+    "score": 125,
+    "seed": 0
+  }
+}

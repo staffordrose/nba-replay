@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100713",
+  "gameCode": "20220124/UTAPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-24T21:00:00Z",
+  "gameDateTimeUTC": "2022-01-25T02:00:00Z",
+  "homeTeamTime": "2022-01-24T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 37,
+    "losses": 9,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 30,
+    "losses": 18,
+    "score": 109,
+    "seed": 0
+  }
+}

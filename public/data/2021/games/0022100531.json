@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100531",
+  "gameCode": "20211231/DALSAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-31T18:00:00Z",
+  "gameDateTimeUTC": "2021-12-31T23:00:00Z",
+  "homeTeamTime": "2021-12-31T15:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 15,
+    "losses": 22,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 17,
+    "losses": 18,
+    "score": 112,
+    "seed": 0
+  }
+}

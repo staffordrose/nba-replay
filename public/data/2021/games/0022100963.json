@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100963",
+  "gameCode": "20220306/INDWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-06T18:00:00Z",
+  "gameDateTimeUTC": "2022-03-06T23:00:00Z",
+  "homeTeamTime": "2022-03-06T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 29,
+    "losses": 34,
+    "score": 133,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 22,
+    "losses": 44,
+    "score": 123,
+    "seed": 0
+  }
+}

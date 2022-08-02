@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101017",
+  "gameCode": "20220313/HOUNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-13T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-13T23:00:00Z",
+  "homeTeamTime": "2022-03-13T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 28,
+    "losses": 40,
+    "score": 130,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 17,
+    "losses": 51,
+    "score": 105,
+    "seed": 0
+  }
+}

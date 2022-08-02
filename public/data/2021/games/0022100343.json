@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100343",
+  "gameCode": "20211204/CHIBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-04T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-05T01:00:00Z",
+  "homeTeamTime": "2021-12-04T20:00:00Z",
+  "day": "Sat",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 16,
+    "losses": 7,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 16,
+    "losses": 8,
+    "score": 111,
+    "seed": 0
+  }
+}

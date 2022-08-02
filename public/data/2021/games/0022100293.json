@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100293",
+  "gameCode": "20211127/NYKATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-27T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-28T00:30:00Z",
+  "homeTeamTime": "2021-11-27T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 11,
+    "losses": 10,
+    "score": 90,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 11,
+    "losses": 9,
+    "score": 99,
+    "seed": 0
+  }
+}

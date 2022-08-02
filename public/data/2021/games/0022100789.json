@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100789",
+  "gameCode": "20220204/CHIIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-04T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-05T00:00:00Z",
+  "homeTeamTime": "2022-02-04T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 19,
+    "losses": 35,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 33,
+    "losses": 19,
+    "score": 122,
+    "seed": 0
+  }
+}

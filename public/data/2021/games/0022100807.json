@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100807",
+  "gameCode": "20220206/ATLDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-06T18:00:00Z",
+  "gameDateTimeUTC": "2022-02-06T23:00:00Z",
+  "homeTeamTime": "2022-02-06T17:00:00Z",
+  "day": "Sun",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 31,
+    "losses": 23,
+    "score": 103,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 25,
+    "losses": 28,
+    "score": 94,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100361",
+  "gameCode": "20211206/ORLGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-06T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-07T03:00:00Z",
+  "homeTeamTime": "2021-12-06T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 20,
+    "losses": 4,
+    "score": 126,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 5,
+    "losses": 20,
+    "score": 95,
+    "seed": 0
+  }
+}

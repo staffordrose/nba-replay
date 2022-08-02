@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101001",
+  "gameCode": "20220311/CHANOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-11T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-12T01:00:00Z",
+  "homeTeamTime": "2022-03-11T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 27,
+    "losses": 40,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 33,
+    "losses": 35,
+    "score": 142,
+    "seed": 0
+  }
+}

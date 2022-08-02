@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100592",
+  "gameCode": "20220108/MILCHA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-08T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-09T00:00:00Z",
+  "homeTeamTime": "2022-01-08T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Spectrum Center",
+  "arenaState": "NC",
+  "arenaCity": "Charlotte",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 21,
+    "losses": 19,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 26,
+    "losses": 16,
+    "score": 106,
+    "seed": 0
+  }
+}

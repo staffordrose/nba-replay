@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100717",
+  "gameCode": "20220125/SACBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-25T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-26T00:30:00Z",
+  "homeTeamTime": "2022-01-25T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 1,
+  "weekNumber": 15,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 25,
+    "losses": 24,
+    "score": 128,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 18,
+    "losses": 31,
+    "score": 75,
+    "seed": 0
+  }
+}

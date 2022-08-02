@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100112",
+  "gameCode": "20220420/BKNBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-20T19:00:00Z",
+  "gameDateTimeUTC": "2022-04-20T23:00:00Z",
+  "homeTeamTime": "2022-04-20T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 2",
+  "seriesText": "BOS leads series 2-0",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 2,
+    "losses": 0,
+    "score": 114,
+    "seed": 2
+  },
+  "awayTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 0,
+    "losses": 2,
+    "score": 107,
+    "seed": 7
+  }
+}

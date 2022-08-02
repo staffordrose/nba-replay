@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100286",
+  "gameCode": "20211126/WASOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-26T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-27T01:00:00Z",
+  "homeTeamTime": "2021-11-26T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 6,
+    "losses": 13,
+    "score": 99,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 12,
+    "losses": 7,
+    "score": 101,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100299",
+  "gameCode": "20211127/NOPUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-27T21:00:00Z",
+  "gameDateTimeUTC": "2021-11-28T02:00:00Z",
+  "homeTeamTime": "2021-11-27T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 13,
+    "losses": 7,
+    "score": 127,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 5,
+    "losses": 17,
+    "score": 105,
+    "seed": 0
+  }
+}

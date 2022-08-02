@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100907",
+  "gameCode": "20220226/WASCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-26T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-27T01:00:00Z",
+  "homeTeamTime": "2022-02-26T20:00:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 36,
+    "losses": 24,
+    "score": 92,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 27,
+    "losses": 33,
+    "score": 86,
+    "seed": 0
+  }
+}

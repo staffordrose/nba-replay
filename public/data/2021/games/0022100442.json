@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100442",
+  "gameCode": "20211218/ORLBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-18T19:30:00Z",
+  "gameDateTimeUTC": "2021-12-19T00:30:00Z",
+  "homeTeamTime": "2021-12-18T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 21,
+    "losses": 9,
+    "score": 93,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 6,
+    "losses": 25,
+    "score": 100,
+    "seed": 0
+  }
+}

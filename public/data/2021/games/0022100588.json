@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100588",
+  "gameCode": "20220107/SACDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-07T21:00:00Z",
+  "gameDateTimeUTC": "2022-01-08T02:00:00Z",
+  "homeTeamTime": "2022-01-07T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 19,
+    "losses": 18,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 16,
+    "losses": 25,
+    "score": 111,
+    "seed": 0
+  }
+}

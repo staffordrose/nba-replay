@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101007",
+  "gameCode": "20220312/INDSAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-12T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-13T01:00:00Z",
+  "homeTeamTime": "2022-03-12T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 26,
+    "losses": 42,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 23,
+    "losses": 45,
+    "score": 119,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100379",
+  "gameCode": "20211209/UTAPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-09T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-10T00:00:00Z",
+  "homeTeamTime": "2021-12-09T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 8,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 14,
+    "losses": 12,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 18,
+    "losses": 7,
+    "score": 118,
+    "seed": 0
+  }
+}

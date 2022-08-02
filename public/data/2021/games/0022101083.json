@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101083",
+  "gameCode": "20220322/LACDEN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-22T22:00:00Z",
+  "gameDateTimeUTC": "2022-03-23T02:00:00Z",
+  "homeTeamTime": "2022-03-22T20:00:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Ball Arena",
+  "arenaState": "CO",
+  "arenaCity": "Denver",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 43,
+    "losses": 30,
+    "score": 127,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 36,
+    "losses": 38,
+    "score": 115,
+    "seed": 0
+  }
+}

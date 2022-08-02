@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100113",
+  "gameCode": "20211103/ATLBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-03T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-03T23:30:00Z",
+  "homeTeamTime": "2021-11-03T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 5,
+    "losses": 3,
+    "score": 117,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 4,
+    "losses": 4,
+    "score": 108,
+    "seed": 0
+  }
+}

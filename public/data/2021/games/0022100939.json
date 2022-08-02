@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100939",
+  "gameCode": "20220302/PORPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-02T22:00:00Z",
+  "gameDateTimeUTC": "2022-03-03T03:00:00Z",
+  "homeTeamTime": "2022-03-02T20:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 50,
+    "losses": 12,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 25,
+    "losses": 37,
+    "score": 90,
+    "seed": 0
+  }
+}

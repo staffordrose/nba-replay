@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100863",
+  "gameCode": "20220214/TORNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-14T20:00:00Z",
+  "gameDateTimeUTC": "2022-02-15T01:00:00Z",
+  "homeTeamTime": "2022-02-14T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 2,
+  "weekNumber": 18,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 23,
+    "losses": 34,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 31,
+    "losses": 25,
+    "score": 90,
+    "seed": 0
+  }
+}

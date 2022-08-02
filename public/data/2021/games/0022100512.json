@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100512",
+  "gameCode": "20211228/NYKMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-28T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-29T01:00:00Z",
+  "homeTeamTime": "2021-12-28T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 16,
+    "losses": 18,
+    "score": 88,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 16,
+    "losses": 18,
+    "score": 96,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100406",
+  "gameCode": "20220616/GSWBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-06-16T21:00:00Z",
+  "gameDateTimeUTC": "2022-06-17T01:00:00Z",
+  "homeTeamTime": "2022-06-16T21:00:00Z",
+  "day": "Thu",
+  "monthNum": 6,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 6",
+  "seriesText": "GSW wins series 4-2",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 2,
+    "losses": 4,
+    "score": 90,
+    "seed": 2
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 4,
+    "losses": 2,
+    "score": 103,
+    "seed": 3
+  }
+}

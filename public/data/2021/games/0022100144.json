@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100144",
+  "gameCode": "20211107/SASOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-07T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-08T00:00:00Z",
+  "homeTeamTime": "2021-11-07T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 3,
+    "losses": 6,
+    "score": 99,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 3,
+    "losses": 7,
+    "score": 94,
+    "seed": 0
+  }
+}

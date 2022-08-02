@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100224",
+  "gameCode": "20220508/PHXDAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-08T15:30:00Z",
+  "gameDateTimeUTC": "2022-05-08T19:30:00Z",
+  "homeTeamTime": "2022-05-08T14:30:00Z",
+  "day": "Sun",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 4",
+  "seriesText": "Series tied 2-2",
+  "arenaName": "American Airlines Center",
+  "arenaState": "TX",
+  "arenaCity": "Dallas",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 2,
+    "losses": 2,
+    "score": 111,
+    "seed": 4
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 2,
+    "losses": 2,
+    "score": 101,
+    "seed": 1
+  }
+}

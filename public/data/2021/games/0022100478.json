@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100478",
+  "gameCode": "20211223/ATLPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-23T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-24T00:00:00Z",
+  "homeTeamTime": "2021-12-23T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 16,
+    "losses": 16,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 15,
+    "losses": 16,
+    "score": 98,
+    "seed": 0
+  }
+}

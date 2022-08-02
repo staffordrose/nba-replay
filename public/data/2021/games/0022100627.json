@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100627",
+  "gameCode": "20220113/GSWMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-13T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-14T00:30:00Z",
+  "homeTeamTime": "2022-01-13T18:30:00Z",
+  "day": "Thu",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 27,
+    "losses": 17,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 30,
+    "losses": 11,
+    "score": 99,
+    "seed": 0
+  }
+}

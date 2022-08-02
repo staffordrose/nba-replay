@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100525",
+  "gameCode": "20211230/PHIBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-30T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-31T00:00:00Z",
+  "homeTeamTime": "2021-12-30T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 23,
+    "losses": 10,
+    "score": 102,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 19,
+    "losses": 16,
+    "score": 110,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101081",
+  "gameCode": "20220322/ATLNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-22T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-22T23:30:00Z",
+  "homeTeamTime": "2022-03-22T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 30,
+    "losses": 42,
+    "score": 111,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 36,
+    "losses": 36,
+    "score": 117,
+    "seed": 0
+  }
+}

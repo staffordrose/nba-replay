@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100947",
+  "gameCode": "20220304/CLEPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-04T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-05T00:00:00Z",
+  "homeTeamTime": "2022-03-04T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 39,
+    "losses": 23,
+    "score": 125,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 36,
+    "losses": 27,
+    "score": 119,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100324",
+  "gameCode": "20211201/CHAMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-01T20:00:00Z",
+  "gameDateTimeUTC": "2021-12-02T01:00:00Z",
+  "homeTeamTime": "2021-12-01T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 14,
+    "losses": 8,
+    "score": 127,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 13,
+    "losses": 11,
+    "score": 125,
+    "seed": 0
+  }
+}

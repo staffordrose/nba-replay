@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100161",
+  "gameCode": "20220416/DENGSW",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-16T20:30:00Z",
+  "gameDateTimeUTC": "2022-04-17T00:30:00Z",
+  "homeTeamTime": "2022-04-16T17:30:00Z",
+  "day": "Sat",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 1",
+  "seriesText": "GSW leads series 1-0",
+  "arenaName": "Chase Center",
+  "arenaState": "CA",
+  "arenaCity": "San Francisco",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 1,
+    "losses": 0,
+    "score": 123,
+    "seed": 3
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 0,
+    "losses": 1,
+    "score": 107,
+    "seed": 6
+  }
+}

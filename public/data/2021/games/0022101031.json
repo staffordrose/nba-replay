@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101031",
+  "gameCode": "20220315/DETMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-15T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-15T23:30:00Z",
+  "homeTeamTime": "2022-03-15T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 22,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 46,
+    "losses": 24,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 18,
+    "losses": 51,
+    "score": 98,
+    "seed": 0
+  }
+}

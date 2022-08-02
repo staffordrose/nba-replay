@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100530",
+  "gameCode": "20211231/CHIIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-31T15:00:00Z",
+  "gameDateTimeUTC": "2021-12-31T20:00:00Z",
+  "homeTeamTime": "2021-12-31T15:00:00Z",
+  "day": "Fri",
+  "monthNum": 12,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 14,
+    "losses": 22,
+    "score": 106,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 23,
+    "losses": 10,
+    "score": 108,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100057",
+  "gameCode": "20211027/MIABKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-27T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-27T23:30:00Z",
+  "homeTeamTime": "2021-10-27T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 2,
+    "losses": 3,
+    "score": 93,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 3,
+    "losses": 1,
+    "score": 106,
+    "seed": 0
+  }
+}

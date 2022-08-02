@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100074",
+  "gameCode": "20211029/SACNOP",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-29T20:00:00Z",
+  "gameDateTimeUTC": "2021-10-30T00:00:00Z",
+  "homeTeamTime": "2021-10-29T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Smoothie King Center",
+  "arenaState": "LA",
+  "arenaCity": "New Orleans",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 1,
+    "losses": 5,
+    "score": 109,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 3,
+    "losses": 2,
+    "score": 113,
+    "seed": 0
+  }
+}

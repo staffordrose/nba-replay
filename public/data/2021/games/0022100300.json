@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100300",
+  "gameCode": "20211128/GSWLAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-28T15:30:00Z",
+  "gameDateTimeUTC": "2021-11-28T20:30:00Z",
+  "homeTeamTime": "2021-11-28T12:30:00Z",
+  "day": "Sun",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612746,
+    "teamName": "Clippers",
+    "teamCity": "LA",
+    "teamTricode": "LAC",
+    "teamSlug": "clippers",
+    "wins": 11,
+    "losses": 9,
+    "score": 90,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 18,
+    "losses": 2,
+    "score": 105,
+    "seed": 0
+  }
+}

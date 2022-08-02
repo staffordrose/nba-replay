@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100802",
+  "gameCode": "20220206/PHICHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-06T15:30:00Z",
+  "gameDateTimeUTC": "2022-02-06T20:30:00Z",
+  "homeTeamTime": "2022-02-06T14:30:00Z",
+  "day": "Sun",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "United Center",
+  "arenaState": "IL",
+  "arenaCity": "Chicago",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612741,
+    "teamName": "Bulls",
+    "teamCity": "Chicago",
+    "teamTricode": "CHI",
+    "teamSlug": "bulls",
+    "wins": 33,
+    "losses": 20,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 32,
+    "losses": 21,
+    "score": 119,
+    "seed": 0
+  }
+}

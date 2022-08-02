@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100798",
+  "gameCode": "20220205/PHXWAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-05T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-06T00:00:00Z",
+  "homeTeamTime": "2022-02-05T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Capital One Arena",
+  "arenaState": "DC",
+  "arenaCity": "Washington",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612764,
+    "teamName": "Wizards",
+    "teamCity": "Washington",
+    "teamTricode": "WAS",
+    "teamSlug": "wizards",
+    "wins": 24,
+    "losses": 28,
+    "score": 80,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 42,
+    "losses": 10,
+    "score": 95,
+    "seed": 0
+  }
+}

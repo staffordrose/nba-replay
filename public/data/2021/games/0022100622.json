@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100622",
+  "gameCode": "20220112/DALNYK",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-12T19:30:00Z",
+  "gameDateTimeUTC": "2022-01-13T00:30:00Z",
+  "homeTeamTime": "2022-01-12T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 1,
+  "weekNumber": 13,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Madison Square Garden",
+  "arenaState": "NY",
+  "arenaCity": "New York",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612752,
+    "teamName": "Knicks",
+    "teamCity": "New York",
+    "teamTricode": "NYK",
+    "teamSlug": "knicks",
+    "wins": 21,
+    "losses": 21,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 22,
+    "losses": 19,
+    "score": 85,
+    "seed": 0
+  }
+}

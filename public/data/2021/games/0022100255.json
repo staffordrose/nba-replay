@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100255",
+  "gameCode": "20211122/OKCATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-22T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-23T00:30:00Z",
+  "homeTeamTime": "2021-11-22T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 9,
+    "losses": 9,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 6,
+    "losses": 11,
+    "score": 101,
+    "seed": 0
+  }
+}

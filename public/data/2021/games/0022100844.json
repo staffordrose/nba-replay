@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100844",
+  "gameCode": "20220211/ORLUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-11T21:00:00Z",
+  "gameDateTimeUTC": "2022-02-12T02:00:00Z",
+  "homeTeamTime": "2022-02-11T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 2,
+  "weekNumber": 17,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 35,
+    "losses": 21,
+    "score": 114,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 13,
+    "losses": 44,
+    "score": 99,
+    "seed": 0
+  }
+}

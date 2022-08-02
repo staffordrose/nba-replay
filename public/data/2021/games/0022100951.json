@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100951",
+  "gameCode": "20220304/MINOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-04T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-05T01:00:00Z",
+  "homeTeamTime": "2022-03-04T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 20,
+    "losses": 43,
+    "score": 101,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 35,
+    "losses": 29,
+    "score": 138,
+    "seed": 0
+  }
+}

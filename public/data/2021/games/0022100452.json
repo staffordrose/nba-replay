@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100452",
+  "gameCode": "20220331/CLEATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-31T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-31T23:30:00Z",
+  "homeTeamTime": "2022-03-31T19:30:00Z",
+  "day": "Thu",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 40,
+    "losses": 37,
+    "score": 131,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 42,
+    "losses": 35,
+    "score": 107,
+    "seed": 0
+  }
+}

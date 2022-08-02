@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100919",
+  "gameCode": "20220227/NOPLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-27T22:00:00Z",
+  "gameDateTimeUTC": "2022-02-28T03:00:00Z",
+  "homeTeamTime": "2022-02-27T19:00:00Z",
+  "day": "Sun",
+  "monthNum": 2,
+  "weekNumber": 19,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Crypto.com Arena",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 27,
+    "losses": 33,
+    "score": 95,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 25,
+    "losses": 36,
+    "score": 123,
+    "seed": 0
+  }
+}

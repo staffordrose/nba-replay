@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101198",
+  "gameCode": "20220407/BOSMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-07T19:30:00Z",
+  "gameDateTimeUTC": "2022-04-07T23:30:00Z",
+  "homeTeamTime": "2022-04-07T18:30:00Z",
+  "day": "Thu",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 50,
+    "losses": 30,
+    "score": 127,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 50,
+    "losses": 31,
+    "score": 121,
+    "seed": 0
+  }
+}

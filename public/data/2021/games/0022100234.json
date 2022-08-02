@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100234",
+  "gameCode": "20211119/OKCMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-19T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-20T01:00:00Z",
+  "homeTeamTime": "2021-11-19T19:00:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 8,
+    "losses": 8,
+    "score": 96,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 6,
+    "losses": 9,
+    "score": 89,
+    "seed": 0
+  }
+}

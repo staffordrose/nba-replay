@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100962",
+  "gameCode": "20220306/TORCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-06T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-07T00:30:00Z",
+  "homeTeamTime": "2022-03-06T19:30:00Z",
+  "day": "Sun",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 37,
+    "losses": 27,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 34,
+    "losses": 30,
+    "score": 96,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101102",
+  "gameCode": "20220325/GSWATL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-25T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-25T23:30:00Z",
+  "homeTeamTime": "2022-03-25T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "State Farm Arena",
+  "arenaState": "GA",
+  "arenaCity": "Atlanta",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 37,
+    "losses": 37,
+    "score": 121,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 48,
+    "losses": 26,
+    "score": 110,
+    "seed": 0
+  }
+}

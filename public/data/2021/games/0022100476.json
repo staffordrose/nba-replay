@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100476",
+  "gameCode": "20211223/HOUIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-23T19:00:00Z",
+  "gameDateTimeUTC": "2021-12-24T00:00:00Z",
+  "homeTeamTime": "2021-12-23T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 14,
+    "losses": 19,
+    "score": 118,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 10,
+    "losses": 23,
+    "score": 106,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100297",
+  "gameCode": "20211127/CHAHOU",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2021-11-27T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-28T01:00:00Z",
+  "homeTeamTime": "2021-11-27T19:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Toyota Center",
+  "arenaState": "TX",
+  "arenaCity": "Houston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612745,
+    "teamName": "Rockets",
+    "teamCity": "Houston",
+    "teamTricode": "HOU",
+    "teamSlug": "rockets",
+    "wins": 3,
+    "losses": 16,
+    "score": 146,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612766,
+    "teamName": "Hornets",
+    "teamCity": "Charlotte",
+    "teamTricode": "CHA",
+    "teamSlug": "hornets",
+    "wins": 13,
+    "losses": 9,
+    "score": 143,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100349",
+  "gameCode": "20211205/UTACLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-05T15:30:00Z",
+  "gameDateTimeUTC": "2021-12-05T20:30:00Z",
+  "homeTeamTime": "2021-12-05T15:30:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 7,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 13,
+    "losses": 11,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 16,
+    "losses": 7,
+    "score": 109,
+    "seed": 0
+  }
+}

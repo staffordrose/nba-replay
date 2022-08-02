@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100927",
+  "gameCode": "20220301/ATLBOS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-01T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-02T00:30:00Z",
+  "homeTeamTime": "2022-03-01T19:30:00Z",
+  "day": "Tue",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "TD Garden",
+  "arenaState": "MA",
+  "arenaCity": "Boston",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 37,
+    "losses": 27,
+    "score": 107,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 29,
+    "losses": 32,
+    "score": 98,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100262",
+  "gameCode": "20211122/PHISAC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-22T22:00:00Z",
+  "gameDateTimeUTC": "2021-11-23T03:00:00Z",
+  "homeTeamTime": "2021-11-22T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Golden 1 Center",
+  "arenaState": "CA",
+  "arenaCity": "Sacramento",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 6,
+    "losses": 12,
+    "score": 94,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 10,
+    "losses": 8,
+    "score": 102,
+    "seed": 0
+  }
+}

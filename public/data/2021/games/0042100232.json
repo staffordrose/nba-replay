@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100232",
+  "gameCode": "20220503/GSWMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-03T21:30:00Z",
+  "gameDateTimeUTC": "2022-05-04T01:30:00Z",
+  "homeTeamTime": "2022-05-03T20:30:00Z",
+  "day": "Tue",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 2",
+  "seriesText": "Series tied 1-1",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 1,
+    "losses": 1,
+    "score": 106,
+    "seed": 2
+  },
+  "awayTeam": {
+    "teamId": 1610612744,
+    "teamName": "Warriors",
+    "teamCity": "Golden State",
+    "teamTricode": "GSW",
+    "teamSlug": "warriors",
+    "wins": 1,
+    "losses": 1,
+    "score": 101,
+    "seed": 3
+  }
+}

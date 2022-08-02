@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100295",
+  "gameCode": "20211127/ORLCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-27T20:00:00Z",
+  "gameDateTimeUTC": "2021-11-28T01:00:00Z",
+  "homeTeamTime": "2021-11-27T20:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 10,
+    "losses": 10,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612753,
+    "teamName": "Magic",
+    "teamCity": "Orlando",
+    "teamTricode": "ORL",
+    "teamSlug": "magic",
+    "wins": 4,
+    "losses": 17,
+    "score": 92,
+    "seed": 0
+  }
+}

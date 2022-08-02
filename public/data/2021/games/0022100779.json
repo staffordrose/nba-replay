@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100779",
+  "gameCode": "20220202/DENUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-02T22:00:00Z",
+  "gameDateTimeUTC": "2022-02-03T03:00:00Z",
+  "homeTeamTime": "2022-02-02T20:00:00Z",
+  "day": "Wed",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 31,
+    "losses": 21,
+    "score": 108,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612743,
+    "teamName": "Nuggets",
+    "teamCity": "Denver",
+    "teamTricode": "DEN",
+    "teamSlug": "nuggets",
+    "wins": 28,
+    "losses": 23,
+    "score": 104,
+    "seed": 0
+  }
+}

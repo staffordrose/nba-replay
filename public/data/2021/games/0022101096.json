@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101096",
+  "gameCode": "20220324/INDMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-24T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-25T00:00:00Z",
+  "homeTeamTime": "2022-03-24T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 3,
+  "weekNumber": 23,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 51,
+    "losses": 23,
+    "score": 133,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 25,
+    "losses": 49,
+    "score": 103,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100562",
+  "gameCode": "20220104/MEMCLE",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-04T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-05T00:00:00Z",
+  "homeTeamTime": "2022-01-04T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 1,
+  "weekNumber": 12,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Rocket Mortgage FieldHouse",
+  "arenaState": "OH",
+  "arenaCity": "Cleveland",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612739,
+    "teamName": "Cavaliers",
+    "teamCity": "Cleveland",
+    "teamTricode": "CLE",
+    "teamSlug": "cavaliers",
+    "wins": 21,
+    "losses": 17,
+    "score": 106,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 25,
+    "losses": 14,
+    "score": 110,
+    "seed": 0
+  }
+}

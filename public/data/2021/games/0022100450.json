@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100450",
+  "gameCode": "20211219/PORMEM",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-19T18:00:00Z",
+  "gameDateTimeUTC": "2021-12-19T23:00:00Z",
+  "homeTeamTime": "2021-12-19T17:00:00Z",
+  "day": "Sun",
+  "monthNum": 12,
+  "weekNumber": 9,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FedExForum",
+  "arenaState": "TN",
+  "arenaCity": "Memphis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612763,
+    "teamName": "Grizzlies",
+    "teamCity": "Memphis",
+    "teamTricode": "MEM",
+    "teamSlug": "grizzlies",
+    "wins": 19,
+    "losses": 12,
+    "score": 100,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 13,
+    "losses": 18,
+    "score": 105,
+    "seed": 0
+  }
+}

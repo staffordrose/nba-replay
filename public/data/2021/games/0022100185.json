@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100185",
+  "gameCode": "20211113/MIAUTA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-13T17:00:00Z",
+  "gameDateTimeUTC": "2021-11-13T22:00:00Z",
+  "homeTeamTime": "2021-11-13T15:00:00Z",
+  "day": "Sat",
+  "monthNum": 11,
+  "weekNumber": 4,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Vivint Arena",
+  "arenaState": "UT",
+  "arenaCity": "Salt Lake City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 8,
+    "losses": 5,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 8,
+    "losses": 5,
+    "score": 111,
+    "seed": 0
+  }
+}

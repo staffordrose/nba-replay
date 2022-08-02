@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101127",
+  "gameCode": "20220328/BOSTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-03-28T19:30:00Z",
+  "gameDateTimeUTC": "2022-03-28T23:30:00Z",
+  "homeTeamTime": "2022-03-28T19:30:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 24,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 43,
+    "losses": 32,
+    "score": 115,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612738,
+    "teamName": "Celtics",
+    "teamCity": "Boston",
+    "teamTricode": "BOS",
+    "teamSlug": "celtics",
+    "wins": 47,
+    "losses": 29,
+    "score": 112,
+    "seed": 0
+  }
+}

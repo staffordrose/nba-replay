@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100029",
+  "gameCode": "20211023/DALTOR",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-23T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-23T23:30:00Z",
+  "homeTeamTime": "2021-10-23T19:30:00Z",
+  "day": "Sat",
+  "monthNum": 10,
+  "weekNumber": 1,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Scotiabank Arena",
+  "arenaState": "ON",
+  "arenaCity": "Toronto",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 1,
+    "losses": 2,
+    "score": 95,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 1,
+    "losses": 1,
+    "score": 103,
+    "seed": 0
+  }
+}

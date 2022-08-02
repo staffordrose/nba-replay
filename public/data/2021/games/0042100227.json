@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100227",
+  "gameCode": "20220515/DALPHX",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-05-15T20:00:00Z",
+  "gameDateTimeUTC": "2022-05-16T00:00:00Z",
+  "homeTeamTime": "2022-05-15T17:00:00Z",
+  "day": "Sun",
+  "monthNum": 5,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 7",
+  "seriesText": "DAL wins series 4-3",
+  "arenaName": "Footprint Center",
+  "arenaState": "AZ",
+  "arenaCity": "Phoenix",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 3,
+    "losses": 4,
+    "score": 90,
+    "seed": 1
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 4,
+    "losses": 3,
+    "score": 123,
+    "seed": 4
+  }
+}

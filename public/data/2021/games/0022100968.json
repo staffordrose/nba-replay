@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100968",
+  "gameCode": "20220307/ATLDET",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT",
+  "gameDateTimeEst": "2022-03-07T19:00:00Z",
+  "gameDateTimeUTC": "2022-03-08T00:00:00Z",
+  "homeTeamTime": "2022-03-07T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Little Caesars Arena",
+  "arenaState": "MI",
+  "arenaCity": "Detroit",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612765,
+    "teamName": "Pistons",
+    "teamCity": "Detroit",
+    "teamTricode": "DET",
+    "teamSlug": "pistons",
+    "wins": 18,
+    "losses": 47,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612737,
+    "teamName": "Hawks",
+    "teamCity": "Atlanta",
+    "teamTricode": "ATL",
+    "teamSlug": "hawks",
+    "wins": 31,
+    "losses": 33,
+    "score": 110,
+    "seed": 0
+  }
+}

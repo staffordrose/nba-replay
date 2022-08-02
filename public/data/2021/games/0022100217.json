@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100217",
+  "gameCode": "20211117/NOPMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-17T19:30:00Z",
+  "gameDateTimeUTC": "2021-11-18T00:30:00Z",
+  "homeTeamTime": "2021-11-17T19:30:00Z",
+  "day": "Wed",
+  "monthNum": 11,
+  "weekNumber": 5,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 10,
+    "losses": 5,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612740,
+    "teamName": "Pelicans",
+    "teamCity": "New Orleans",
+    "teamTricode": "NOP",
+    "teamSlug": "pelicans",
+    "wins": 2,
+    "losses": 14,
+    "score": 98,
+    "seed": 0
+  }
+}

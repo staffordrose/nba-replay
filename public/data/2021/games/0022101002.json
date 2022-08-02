@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101002",
+  "gameCode": "20220311/UTASAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-11T20:30:00Z",
+  "gameDateTimeUTC": "2022-03-12T01:30:00Z",
+  "homeTeamTime": "2022-03-11T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 26,
+    "losses": 41,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612762,
+    "teamName": "Jazz",
+    "teamCity": "Utah",
+    "teamTricode": "UTA",
+    "teamSlug": "jazz",
+    "wins": 41,
+    "losses": 25,
+    "score": 102,
+    "seed": 0
+  }
+}

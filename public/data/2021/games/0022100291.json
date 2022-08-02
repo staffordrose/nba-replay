@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100291",
+  "gameCode": "20211126/SACLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final/OT3",
+  "gameDateTimeEst": "2021-11-26T22:30:00Z",
+  "gameDateTimeUTC": "2021-11-27T03:30:00Z",
+  "homeTeamTime": "2021-11-26T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 11,
+  "weekNumber": 6,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 10,
+    "losses": 11,
+    "score": 137,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612758,
+    "teamName": "Kings",
+    "teamCity": "Sacramento",
+    "teamTricode": "SAC",
+    "teamSlug": "kings",
+    "wins": 8,
+    "losses": 12,
+    "score": 141,
+    "seed": 0
+  }
+}

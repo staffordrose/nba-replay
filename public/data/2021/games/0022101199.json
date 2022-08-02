@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101199",
+  "gameCode": "20220407/SASMIN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-07T20:00:00Z",
+  "gameDateTimeUTC": "2022-04-08T00:00:00Z",
+  "homeTeamTime": "2022-04-07T19:00:00Z",
+  "day": "Thu",
+  "monthNum": 4,
+  "weekNumber": 25,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Target Center",
+  "arenaState": "MN",
+  "arenaCity": "Minneapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 46,
+    "losses": 35,
+    "score": 127,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 34,
+    "losses": 46,
+    "score": 121,
+    "seed": 0
+  }
+}

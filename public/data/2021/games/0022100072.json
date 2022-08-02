@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100072",
+  "gameCode": "20211029/INDBKN",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-10-29T19:30:00Z",
+  "gameDateTimeUTC": "2021-10-29T23:30:00Z",
+  "homeTeamTime": "2021-10-29T19:30:00Z",
+  "day": "Fri",
+  "monthNum": 10,
+  "weekNumber": 2,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Barclays Center",
+  "arenaState": "NY",
+  "arenaCity": "Brooklyn",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612751,
+    "teamName": "Nets",
+    "teamCity": "Brooklyn",
+    "teamTricode": "BKN",
+    "teamSlug": "nets",
+    "wins": 3,
+    "losses": 3,
+    "score": 105,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 1,
+    "losses": 5,
+    "score": 98,
+    "seed": 0
+  }
+}

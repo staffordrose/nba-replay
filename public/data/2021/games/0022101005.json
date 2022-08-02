@@ -1,0 +1,41 @@
+{
+  "gameId": "0022101005",
+  "gameCode": "20220312/MINMIA",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-12T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-13T01:00:00Z",
+  "homeTeamTime": "2022-03-12T20:00:00Z",
+  "day": "Sat",
+  "monthNum": 3,
+  "weekNumber": 21,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "FTX Arena",
+  "arenaState": "FL",
+  "arenaCity": "Miami",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 45,
+    "losses": 24,
+    "score": 104,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612750,
+    "teamName": "Timberwolves",
+    "teamCity": "Minnesota",
+    "teamTricode": "MIN",
+    "teamSlug": "timberwolves",
+    "wins": 39,
+    "losses": 30,
+    "score": 113,
+    "seed": 0
+  }
+}

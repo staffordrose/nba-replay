@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100936",
+  "gameCode": "20220302/MIAMIL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-03-02T20:00:00Z",
+  "gameDateTimeUTC": "2022-03-03T01:00:00Z",
+  "homeTeamTime": "2022-03-02T19:00:00Z",
+  "day": "Wed",
+  "monthNum": 3,
+  "weekNumber": 20,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Fiserv Forum",
+  "arenaState": "WI",
+  "arenaCity": "Milwaukee",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612749,
+    "teamName": "Bucks",
+    "teamCity": "Milwaukee",
+    "teamTricode": "MIL",
+    "teamSlug": "bucks",
+    "wins": 38,
+    "losses": 25,
+    "score": 120,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 41,
+    "losses": 22,
+    "score": 119,
+    "seed": 0
+  }
+}

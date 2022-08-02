@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100095",
+  "gameCode": "20211101/SASIND",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-01T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-01T23:00:00Z",
+  "homeTeamTime": "2021-11-01T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Gainbridge Fieldhouse",
+  "arenaState": "IN",
+  "arenaCity": "Indianapolis",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612754,
+    "teamName": "Pacers",
+    "teamCity": "Indiana",
+    "teamTricode": "IND",
+    "teamSlug": "pacers",
+    "wins": 2,
+    "losses": 6,
+    "score": 131,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 2,
+    "losses": 5,
+    "score": 118,
+    "seed": 0
+  }
+}

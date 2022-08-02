@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100096",
+  "gameCode": "20211101/PORPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-11-01T19:00:00Z",
+  "gameDateTimeUTC": "2021-11-01T23:00:00Z",
+  "homeTeamTime": "2021-11-01T19:00:00Z",
+  "day": "Mon",
+  "monthNum": 11,
+  "weekNumber": 3,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 5,
+    "losses": 2,
+    "score": 113,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612757,
+    "teamName": "Trail Blazers",
+    "teamCity": "Portland",
+    "teamTricode": "POR",
+    "teamSlug": "blazers",
+    "wins": 3,
+    "losses": 4,
+    "score": 103,
+    "seed": 0
+  }
+}

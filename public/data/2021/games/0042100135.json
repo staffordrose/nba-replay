@@ -1,0 +1,41 @@
+{
+  "gameId": "0042100135",
+  "gameCode": "20220425/TORPHI",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-04-25T20:00:00Z",
+  "gameDateTimeUTC": "2022-04-26T00:00:00Z",
+  "homeTeamTime": "2022-04-25T20:00:00Z",
+  "day": "Mon",
+  "monthNum": 4,
+  "weekNumber": 0,
+  "ifNecessary": false,
+  "seriesGameNumber": "Game 5",
+  "seriesText": "PHI leads series 3-2",
+  "arenaName": "Wells Fargo Center",
+  "arenaState": "PA",
+  "arenaCity": "Philadelphia",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612755,
+    "teamName": "76ers",
+    "teamCity": "Philadelphia",
+    "teamTricode": "PHI",
+    "teamSlug": "sixers",
+    "wins": 3,
+    "losses": 2,
+    "score": 88,
+    "seed": 4
+  },
+  "awayTeam": {
+    "teamId": 1610612761,
+    "teamName": "Raptors",
+    "teamCity": "Toronto",
+    "teamTricode": "TOR",
+    "teamSlug": "raptors",
+    "wins": 2,
+    "losses": 3,
+    "score": 103,
+    "seed": 5
+  }
+}

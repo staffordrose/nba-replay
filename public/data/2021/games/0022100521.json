@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100521",
+  "gameCode": "20220203/MIASAS",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-02-03T19:00:00Z",
+  "gameDateTimeUTC": "2022-02-04T00:00:00Z",
+  "homeTeamTime": "2022-02-03T18:00:00Z",
+  "day": "Thu",
+  "monthNum": 2,
+  "weekNumber": 16,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "AT&T Center",
+  "arenaState": "TX",
+  "arenaCity": "San Antonio",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612759,
+    "teamName": "Spurs",
+    "teamCity": "San Antonio",
+    "teamTricode": "SAS",
+    "teamSlug": "spurs",
+    "wins": 19,
+    "losses": 34,
+    "score": 95,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612748,
+    "teamName": "Heat",
+    "teamCity": "Miami",
+    "teamTricode": "MIA",
+    "teamSlug": "heat",
+    "wins": 33,
+    "losses": 20,
+    "score": 112,
+    "seed": 0
+  }
+}

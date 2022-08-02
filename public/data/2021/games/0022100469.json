@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100469",
+  "gameCode": "20211221/PHXLAL",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2021-12-21T22:00:00Z",
+  "gameDateTimeUTC": "2021-12-22T03:00:00Z",
+  "homeTeamTime": "2021-12-21T19:00:00Z",
+  "day": "Tue",
+  "monthNum": 12,
+  "weekNumber": 10,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "STAPLES Center",
+  "arenaState": "CA",
+  "arenaCity": "Los Angeles",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612747,
+    "teamName": "Lakers",
+    "teamCity": "Los Angeles",
+    "teamTricode": "LAL",
+    "teamSlug": "lakers",
+    "wins": 16,
+    "losses": 16,
+    "score": 90,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612756,
+    "teamName": "Suns",
+    "teamCity": "Phoenix",
+    "teamTricode": "PHX",
+    "teamSlug": "suns",
+    "wins": 25,
+    "losses": 5,
+    "score": 108,
+    "seed": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gameId": "0022100550",
+  "gameCode": "20220102/DALOKC",
+  "gameStatus": 3,
+  "gameStatusText": "Final",
+  "gameDateTimeEst": "2022-01-02T19:00:00Z",
+  "gameDateTimeUTC": "2022-01-03T00:00:00Z",
+  "homeTeamTime": "2022-01-02T18:00:00Z",
+  "day": "Sun",
+  "monthNum": 1,
+  "weekNumber": 11,
+  "ifNecessary": false,
+  "seriesGameNumber": "",
+  "seriesText": "",
+  "arenaName": "Paycom Center",
+  "arenaState": "OK",
+  "arenaCity": "Oklahoma City",
+  "postponedStatus": "A",
+  "homeTeam": {
+    "teamId": 1610612760,
+    "teamName": "Thunder",
+    "teamCity": "Oklahoma City",
+    "teamTricode": "OKC",
+    "teamSlug": "thunder",
+    "wins": 13,
+    "losses": 23,
+    "score": 86,
+    "seed": 0
+  },
+  "awayTeam": {
+    "teamId": 1610612742,
+    "teamName": "Mavericks",
+    "teamCity": "Dallas",
+    "teamTricode": "DAL",
+    "teamSlug": "mavericks",
+    "wins": 18,
+    "losses": 18,
+    "score": 95,
+    "seed": 0
+  }
+}

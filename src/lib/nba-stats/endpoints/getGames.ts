@@ -50,9 +50,11 @@ async function getGames(): Promise<Game[]> {
         ({ games }: { games: Game[] }) => games
       ) ?? [];
 
-    const filteredGames = games.filter((game: Game) =>
-      filterGameProperties(game)
-    );
+    let filteredGames = [];
+
+    for (let i = 0; i < games.length; i++) {
+      filteredGames[i] = filterGameProperties(games[i]);
+    }
 
     return filteredGames;
   } catch (error) {

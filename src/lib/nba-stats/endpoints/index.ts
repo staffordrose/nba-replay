@@ -1,3 +1,4 @@
+export { default as getGameIds } from './getGameIds';
 export { default as getGames } from './getGames';
 export { default as getPlayByPlay } from './getPlayByPlay';
 export { default as getAllPlayers } from './getPlayers';

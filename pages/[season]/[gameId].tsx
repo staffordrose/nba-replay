@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import type { GetServerSideProps, NextPage } from 'next';
+import type { GetStaticPaths, GetStaticProps, NextPage } from 'next';
 import Head from 'next/head';
 import { css } from '@emotion/react';
 import { MdPause, MdPlayArrow } from 'react-icons/md';
@@ -8,6 +8,7 @@ import { Game as IGame, GameAction } from '../../src/common/types';
 import { Button, IconButton, Slider, Switch } from '../../src/components';
 import { GameActions, GameBanner, ShotChart } from '../../src/features';
 import { useGame, useGameSlider } from '../../src/hooks';
+import { getGameIds } from '../../src/lib/nba-stats';
 
 interface GameProps {
   game: IGame;
@@ -414,7 +415,16 @@ const Game: NextPage<GameProps> = ({ game, playByPlay }) => {
   );
 };
 
-export const getServerSideProps: GetServerSideProps = async ({ params }) => {
+export const getStaticPaths: GetStaticPaths = async () => {
+  const gameIds = await getGameIds();
+
+  return {
+    paths: gameIds.map((gameId) => ({ params: { season: '2021', gameId } })),
+    fallback: false,
+  };
+};
+
+export const getStaticProps: GetStaticProps = async ({ params }) => {
   const fs = require('fs');
   const path = require('path');
 

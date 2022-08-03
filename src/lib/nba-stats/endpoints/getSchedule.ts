@@ -67,7 +67,7 @@ async function getSchedule(): Promise<Data> {
             gameDates: data.leagueSchedule.gameDates.map(
               ({ games, ...rest }: { games: Game[] }) => ({
                 ...rest,
-                games: games.filter((game: Game) => filterGameProperties(game)),
+                games: games.map((game: Game) => filterGameProperties(game)),
               })
             ),
           },

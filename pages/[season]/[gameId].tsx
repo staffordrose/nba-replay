@@ -4,11 +4,11 @@ import Head from 'next/head';
 import { css } from '@emotion/react';
 import { MdPause, MdPlayArrow } from 'react-icons/md';
 import dayjs from 'dayjs';
-import { Game as IGame, GameAction } from '../../src/common/types';
-import { Button, IconButton, Slider, Switch } from '../../src/components';
-import { GameActions, GameBanner, ShotChart } from '../../src/features';
-import { useGame, useGameSlider } from '../../src/hooks';
-import { getPlayByPlay } from '../../src/lib/nba-stats';
+import { Game as IGame, GameAction } from '@/common/types';
+import { Button, IconButton, Slider, Switch } from '@/components';
+import { GameActions, GameBanner, ShotChart } from '@/features';
+import { useGame, useGameSlider } from '@/hooks';
+import { getPlayByPlay } from '@/lib/nba-stats';
 
 interface GameProps {
   game: IGame;

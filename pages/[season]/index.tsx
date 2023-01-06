@@ -1,10 +1,10 @@
 import type { GetServerSideProps, NextPage } from 'next';
 import Head from 'next/head';
 import { css } from '@emotion/react';
-import { scheduleItems, seasons } from '../../src/common/data';
-import { GameDate } from '../../src/common/types';
-import { useScheduleContext } from '../../src/context';
-import { GamesGrid, Schedule } from '../../src/features';
+import { scheduleItems, seasons } from '@/common/data';
+import { GameDate } from '@/common/types';
+import { useScheduleContext } from '@/context';
+import { GamesGrid, Schedule } from '@/features';
 
 interface GameScheduleProps {
   season: number;

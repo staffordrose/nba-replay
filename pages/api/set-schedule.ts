@@ -1,7 +1,7 @@
 import fs from 'fs';
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { GameDate } from '../../src/common/types';
-import { getSchedule } from '../../src/lib/nba-stats';
+import { GameDate } from '@/common/types';
+import { getSchedule } from '@/lib/nba-stats';
 
 const BASE_PATH = 'public/data';
 const SEASON = '2021';

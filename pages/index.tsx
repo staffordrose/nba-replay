@@ -2,8 +2,8 @@ import type { NextPage } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import { css } from '@emotion/react';
-import { seasons } from '../src/common/data';
-import { Image } from '../src/components';
+import { seasons } from '@/common/data';
+import { Image } from '@/components';
 
 const Home: NextPage = () => {
   return (

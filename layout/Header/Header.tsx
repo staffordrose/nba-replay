@@ -7,11 +7,11 @@ import { Button } from '@/components';
 import { useViewportScroll } from '@/hooks';
 import { StyledHeader } from './Header.styles';
 
-interface HeaderProps {
+export type HeaderProps = {
   title: string;
-}
+};
 
-const Header: FC<HeaderProps> = ({ title }) => {
+export const Header: FC<HeaderProps> = ({ title }) => {
   const router = useRouter();
 
   const isHome = router.pathname === '/';
@@ -100,5 +100,3 @@ const Header: FC<HeaderProps> = ({ title }) => {
     </StyledHeader>
   );
 };
-
-export default Header;

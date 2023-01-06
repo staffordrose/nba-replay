@@ -1,4 +1,4 @@
-export function rgbToHsl(str: string) {
+export const rgbToHsl = (str: string) => {
   const arr = str
     .substring(str.indexOf('(') + 1, str.lastIndexOf(')'))
     .split(',')
@@ -39,4 +39,4 @@ export function rgbToHsl(str: string) {
   l *= 100;
 
   return 'hsl(' + h + ',' + s + '%,' + l + '%)';
-}
+};

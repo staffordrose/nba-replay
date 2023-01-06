@@ -1,6 +1,6 @@
 import { Game } from './Game';
 
-export interface GameDate {
+export type GameDate = {
   gameDate: string;
   games: Game[];
-}
+};

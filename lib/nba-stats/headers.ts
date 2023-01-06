@@ -1,6 +1,6 @@
 // Recommended headers to prevent request timeout.
 // https://github.com/rd11490/NBA_Tutorials/tree/master/finding_endpoints
-const headers = new Headers({
+export const headers = new Headers({
   Connection: 'keep-alive',
   Accept: 'application/json, text/plain, */*',
   'x-nba-stats-token': 'true',
@@ -13,5 +13,3 @@ const headers = new Headers({
   'Accept-Encoding': 'gzip, deflate, br',
   'Accept-Language': 'en-US,en;q=0.9',
 });
-
-export default headers;

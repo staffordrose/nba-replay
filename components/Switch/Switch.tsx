@@ -3,14 +3,14 @@ import type { FC, Ref } from 'react';
 import isFunction from 'lodash.isfunction';
 import { StyledSwitch, StyledSwitchProps } from './Switch.styles';
 
-interface SwitchProps extends StyledSwitchProps {
+export type SwitchProps = StyledSwitchProps & {
   innerRef?: Ref<HTMLButtonElement>;
   isChecked?: boolean;
   onChange?: (isChecked: boolean) => void;
   disabled?: boolean;
-}
+};
 
-const Switch: FC<SwitchProps> = ({
+export const Switch: FC<SwitchProps> = ({
   innerRef,
   isChecked: initialIsChecked = false,
   onChange,
@@ -36,5 +36,3 @@ const Switch: FC<SwitchProps> = ({
     </StyledSwitch>
   );
 };
-
-export default Switch;

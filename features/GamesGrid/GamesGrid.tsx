@@ -1,15 +1,15 @@
 import type { FC } from 'react';
 import dayjs from 'dayjs';
 import { Game as IGame, GameDate } from '@/common/types';
-import Game from './Game';
+import { Game } from './Game';
 import { StyledGamesGrid } from './GamesGrid.styles';
 
-interface GamesGridProps {
+export type GamesGridProps = {
   gameDate: GameDate['gameDate'];
   games: IGame[];
-}
+};
 
-const GamesGrid: FC<GamesGridProps> = ({ gameDate, games }) => {
+export const GamesGrid: FC<GamesGridProps> = ({ gameDate, games }) => {
   const date = dayjs(gameDate.split(' ')[0]);
 
   return (
@@ -31,5 +31,3 @@ const GamesGrid: FC<GamesGridProps> = ({ gameDate, games }) => {
     </StyledGamesGrid>
   );
 };
-
-export default GamesGrid;

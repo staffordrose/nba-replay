@@ -1,6 +1,6 @@
-export { default as getGameIds } from './getGameIds';
-export { default as getGames } from './getGames';
-export { default as getPlayByPlay } from './getPlayByPlay';
-export { default as getAllPlayers } from './getPlayers';
-export { default as getSchedule } from './getSchedule';
-export { default as getAllTeams } from './getTeams';
+export * from './getGameIds';
+export * from './getGames';
+export * from './getPlayByPlay';
+export * from './getPlayers';
+export * from './getSchedule';
+export * from './getTeams';

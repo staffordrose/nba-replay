@@ -3,7 +3,7 @@ import { Game, GameScore, GameClock } from '@/common/types';
 import { Image } from '@/components';
 import { GameColumn, StyledGameBanner, TeamColumn } from './GameBanner.styles';
 
-interface GameBannerProps {
+export type GameBannerProps = {
   awayTeam: Game['awayTeam'];
   homeTeam: Game['homeTeam'];
   gameStatusText: Game['gameStatusText'];
@@ -11,9 +11,9 @@ interface GameBannerProps {
   gameScore: GameScore;
   totalSeconds: number;
   elapsedSeconds: number;
-}
+};
 
-const GameBanner: FC<GameBannerProps> = ({
+export const GameBanner: FC<GameBannerProps> = ({
   awayTeam,
   homeTeam,
   gameStatusText,
@@ -72,5 +72,3 @@ const GameBanner: FC<GameBannerProps> = ({
     </StyledGameBanner>
   );
 };
-
-export default GameBanner;

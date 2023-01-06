@@ -1,6 +1,6 @@
 import { GameAction, GameClock } from '@/common/types';
 
-function getLastAction(clock: GameClock, playByPlay: GameAction[]) {
+export const getLastAction = (clock: GameClock, playByPlay: GameAction[]) => {
   const nextIndex = playByPlay.findIndex((s) => {
     const minutes = parseInt(s.clock.slice(2, 4));
     const seconds = parseInt(s.clock.slice(5, 9));
@@ -16,6 +16,4 @@ function getLastAction(clock: GameClock, playByPlay: GameAction[]) {
     : playByPlay[nextIndex - 1]
     ? playByPlay[nextIndex - 1]
     : playByPlay[playByPlay.length - 1];
-}
-
-export default getLastAction;
+};

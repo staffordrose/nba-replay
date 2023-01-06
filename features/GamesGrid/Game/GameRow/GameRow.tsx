@@ -4,12 +4,12 @@ import { MdArrowLeft } from 'react-icons/md';
 import { Game } from '@/common/types';
 import { Image } from '@/components';
 
-interface GameRowProps {
+export type GameRowProps = {
   team: Game['awayTeam'] | Game['homeTeam'];
   isWinner?: boolean;
-}
+};
 
-const GameRow: FC<GameRowProps> = ({ team, isWinner }) => {
+export const GameRow: FC<GameRowProps> = ({ team, isWinner }) => {
   return (
     <span
       css={(theme) => css`
@@ -60,5 +60,3 @@ const GameRow: FC<GameRowProps> = ({ team, isWinner }) => {
     </span>
   );
 };
-
-export default GameRow;

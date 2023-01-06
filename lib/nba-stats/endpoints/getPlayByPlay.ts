@@ -1,5 +1,5 @@
 import { GameAction } from '@/common/types';
-import headers from '@/lib/nba-stats/headers';
+import { headers } from '@/lib/nba-stats/headers';
 
 const keepProperties = [
   'actionNumber',
@@ -35,7 +35,7 @@ const keepProperties = [
   'y',
 ];
 
-function filterActionProperties(obj: GameAction): GameAction {
+const filterActionProperties = (obj: GameAction): GameAction => {
   for (const property in obj) {
     if (!keepProperties.includes(property)) {
       delete obj[property as keyof GameAction];
@@ -43,9 +43,9 @@ function filterActionProperties(obj: GameAction): GameAction {
   }
 
   return obj;
-}
+};
 
-async function getPlayByPlay(gameId: string): Promise<GameAction[]> {
+export const getPlayByPlay = async (gameId: string): Promise<GameAction[]> => {
   try {
     const request = new Request(
       `https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_${gameId}.json`,
@@ -71,6 +71,4 @@ async function getPlayByPlay(gameId: string): Promise<GameAction[]> {
   } catch (error) {
     throw error;
   }
-}
-
-export default getPlayByPlay;
+};

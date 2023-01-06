@@ -1,6 +1,10 @@
 import { GameClock } from '@/common/types';
 
-export function mapGameClockToSeconds({ period, minutes, seconds }: GameClock) {
+export const mapGameClockToSeconds = ({
+  period,
+  minutes,
+  seconds,
+}: GameClock) => {
   let totalSeconds = 0;
 
   // Previous regular periods
@@ -13,4 +17,4 @@ export function mapGameClockToSeconds({ period, minutes, seconds }: GameClock) {
   totalSeconds += ((period > 4 ? 5 : 12) - minutes) * 60 - seconds;
 
   return totalSeconds;
-}
+};

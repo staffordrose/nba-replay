@@ -1,13 +1,13 @@
 import type { FC } from 'react';
 import { GameAction as IGameAction } from '@/common/types';
-import GameAction from './GameAction';
+import { GameAction } from './GameAction';
 import { StyledGameActions } from './GameActions.styles';
 
-interface GameActionsProps {
+export type GameActionsProps = {
   playByPlay: IGameAction[];
-}
+};
 
-const GameActions: FC<GameActionsProps> = ({ playByPlay }) => {
+export const GameActions: FC<GameActionsProps> = ({ playByPlay }) => {
   return (
     <StyledGameActions>
       {playByPlay.map((action: IGameAction, i: number) => (
@@ -21,5 +21,3 @@ const GameActions: FC<GameActionsProps> = ({ playByPlay }) => {
     </StyledGameActions>
   );
 };
-
-export default GameActions;

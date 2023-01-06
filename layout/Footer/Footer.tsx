@@ -4,7 +4,7 @@ import { css } from '@emotion/react';
 import { MdOpenInNew } from 'react-icons/md';
 import { StyledFooter } from './Footer.styles';
 
-const Footer: FC = () => {
+export const Footer: FC = () => {
   return (
     <StyledFooter>
       <div>
@@ -34,5 +34,3 @@ const Footer: FC = () => {
     </StyledFooter>
   );
 };
-
-export default Footer;

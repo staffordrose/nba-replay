@@ -20,7 +20,7 @@ type ActionType =
   | 'turnover'
   | 'violation';
 
-export interface GameAction {
+export type GameAction = {
   actionNumber: number;
   actionType: ActionType;
   assistPersonId?: number;
@@ -69,4 +69,4 @@ export interface GameAction {
   xLegacy?: number | null;
   y: number | null;
   yLegacy?: number | null;
-}
+};

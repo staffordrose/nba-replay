@@ -1,11 +1,11 @@
 import styled from '@emotion/styled';
 
-export interface StyledFeedbackProps {
+export type StyledFeedbackProps = {
   type?: 'error' | 'success' | 'warning' | 'info';
   px?: number;
   py?: number;
   p?: number;
-}
+};
 
 export const StyledFeedback = styled.div<StyledFeedbackProps>`
   padding-left: ${({ theme, px, p }) =>

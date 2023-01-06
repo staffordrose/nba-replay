@@ -3,12 +3,12 @@ import { useRouter } from 'next/router';
 import { css } from '@emotion/react';
 import { Button, Feedback } from '@/components';
 
-interface PageErrorProps {
+export type PageErrorProps = {
   title: string;
   message: string;
-}
+};
 
-const PageError: FC<PageErrorProps> = ({ title, message }) => {
+export const PageError: FC<PageErrorProps> = ({ title, message }) => {
   const router = useRouter();
 
   return (
@@ -36,5 +36,3 @@ const PageError: FC<PageErrorProps> = ({ title, message }) => {
     </main>
   );
 };
-
-export default PageError;

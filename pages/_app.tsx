@@ -3,8 +3,7 @@ import type { AppProps } from 'next/app';
 import { ThemeProvider } from '@emotion/react';
 import 'modern-normalize/modern-normalize.css';
 import { seasons } from '@/common/data';
-import Global from '@/common/styles/Global';
-import theme from '@/common/styles/theme';
+import { Global, theme } from '@/common/styles';
 import { ScheduleContextProvider } from '@/context';
 import { Footer, Header, PageError } from '@/layout';
 

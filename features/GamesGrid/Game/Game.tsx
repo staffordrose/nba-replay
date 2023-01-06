@@ -2,15 +2,15 @@ import type { FC } from 'react';
 import Link from 'next/link';
 import { css } from '@emotion/react';
 import { Game as IGame } from '@/common/types';
-import GameRow from './GameRow';
+import { GameRow } from './GameRow';
 
-interface GamesGridProps {
+export type GamesGridProps = {
   gameId: IGame['gameId'];
   awayTeam: IGame['awayTeam'];
   homeTeam: IGame['homeTeam'];
-}
+};
 
-const Game: FC<GamesGridProps> = ({ gameId, awayTeam, homeTeam }) => {
+export const Game: FC<GamesGridProps> = ({ gameId, awayTeam, homeTeam }) => {
   return (
     <Link href={`/20${gameId.slice(3, 5)}/${gameId}`}>
       <a
@@ -85,5 +85,3 @@ const Game: FC<GamesGridProps> = ({ gameId, awayTeam, homeTeam }) => {
     </Link>
   );
 };
-
-export default Game;

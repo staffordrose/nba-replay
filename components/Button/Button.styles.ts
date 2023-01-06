@@ -98,7 +98,7 @@ const innerBorderRadiusSizes: { [key: string]: string } = {
   xl: 'lg',
 };
 
-export interface StyledButtonProps {
+export type StyledButtonProps = {
   variant?: 'solid' | 'light';
   colorScheme?: ColorScheme;
   size?: 'xl' | 'lg' | 'md' | 'sm' | 'xs';
@@ -134,7 +134,7 @@ export interface StyledButtonProps {
   active?: boolean;
   disabled?: boolean;
   children: ReactNode;
-}
+};
 
 export const StyledButton = styled.button<StyledButtonProps>`
   width: ${({ theme, width }) => theme.width[width || 'auto']};

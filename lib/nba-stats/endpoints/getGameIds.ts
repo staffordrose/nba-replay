@@ -1,7 +1,7 @@
 import { Game } from '@/common/types';
-import headers from '@/lib/nba-stats/headers';
+import { headers } from '@/lib/nba-stats/headers';
 
-async function getGameIds(): Promise<string[]> {
+export const getGameIds = async (): Promise<string[]> => {
   try {
     const request = new Request(
       `https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json`,
@@ -28,6 +28,4 @@ async function getGameIds(): Promise<string[]> {
   } catch (error) {
     throw error;
   }
-}
-
-export default getGameIds;
+};

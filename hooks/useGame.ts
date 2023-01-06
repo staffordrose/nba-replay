@@ -2,13 +2,13 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import { GameAction } from '@/common/types';
 import { getElapsedActions, mapGameClockToSeconds } from '@/common/utils';
 
-interface UseGameProps {
+export type UseGameProps = {
   isPlaying?: boolean;
   playSpeed?: number;
   playByPlay: GameAction[];
-}
+};
 
-const useGame = ({
+export const useGame = ({
   isPlaying: initialIsPlaying = false,
   playSpeed: initialPlaySpeed = 1,
   playByPlay,
@@ -81,5 +81,3 @@ const useGame = ({
     filteredPlayByPlay,
   };
 };
-
-export default useGame;

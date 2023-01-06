@@ -1,5 +1,5 @@
-export { default as GameActions } from './GameActions';
-export { default as GameBanner } from './GameBanner';
-export { default as GamesGrid } from './GamesGrid';
-export { default as Schedule } from './Schedule';
-export { default as ShotChart } from './ShotChart';
+export * from './GameActions';
+export * from './GameBanner';
+export * from './GamesGrid';
+export * from './Schedule';
+export * from './ShotChart';

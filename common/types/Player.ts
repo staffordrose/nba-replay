@@ -1,10 +1,10 @@
-interface PlayerTeam {
+type PlayerTeam = {
   teamId: string;
   seasonStart: string;
   seasonEnd: string;
-}
+};
 
-export interface Player {
+export type Player = {
   collegeName: string;
   country: string;
   dateOfBirthUTC: string;
@@ -37,4 +37,4 @@ export interface Player {
   weightKilograms: string;
   weightPounds: string;
   yearsPro: string;
-}
+};

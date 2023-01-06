@@ -1,7 +1,7 @@
 import { Player } from '@/common/types';
-import headers from '@/lib/nba-stats/headers';
+import { headers } from '@/lib/nba-stats/headers';
 
-async function getAllPlayers(year = 2021): Promise<Player[]> {
+export const getAllPlayers = async (year = 2021): Promise<Player[]> => {
   try {
     const request = new Request(
       `https://data.nba.net/10s/prod/v1/${year}/players.json`,
@@ -17,6 +17,4 @@ async function getAllPlayers(year = 2021): Promise<Player[]> {
   } catch (error) {
     throw error;
   }
-}
-
-export default getAllPlayers;
+};

@@ -1,5 +1,5 @@
 import { Game, GameDate, Week } from '@/common/types';
-import headers from '@/lib/nba-stats/headers';
+import { headers } from '@/lib/nba-stats/headers';
 
 const keepProperties = [
   'arenaCity',
@@ -23,7 +23,7 @@ const keepProperties = [
   'weekNumber',
 ];
 
-interface Data {
+type Data = {
   leagueSchedule: {
     leagueId: string;
     seasonYear: string;
@@ -35,9 +35,9 @@ interface Data {
     time: string;
     version: number;
   };
-}
+};
 
-function filterGameProperties(obj: Game): Game {
+const filterGameProperties = (obj: Game): Game => {
   for (const property in obj) {
     if (!keepProperties.includes(property)) {
       delete obj[property as keyof Game];
@@ -45,9 +45,9 @@ function filterGameProperties(obj: Game): Game {
   }
 
   return obj;
-}
+};
 
-async function getSchedule(): Promise<Data> {
+export const getSchedule = async (): Promise<Data> => {
   try {
     const request = new Request(
       `https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json`,
@@ -76,6 +76,4 @@ async function getSchedule(): Promise<Data> {
   } catch (error) {
     throw error;
   }
-}
-
-export default getSchedule;
+};

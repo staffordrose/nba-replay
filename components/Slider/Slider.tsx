@@ -1,12 +1,12 @@
 import type { FC, MutableRefObject } from 'react';
 import { StyledSlider, StyledSliderProps } from './Slider.styles';
 
-interface SliderProps extends StyledSliderProps {
+export type SliderProps = StyledSliderProps & {
   innerRef: MutableRefObject<HTMLDivElement>;
   api: { [key: string]: any };
-}
+};
 
-const Slider: FC<SliderProps> = ({ innerRef, api, ...props }) => {
+export const Slider: FC<SliderProps> = ({ innerRef, api, ...props }) => {
   return (
     <StyledSlider {...props} isDragging={api.isDragging}>
       <div ref={innerRef} {...api.rootProps}>
@@ -22,5 +22,3 @@ const Slider: FC<SliderProps> = ({ innerRef, api, ...props }) => {
     </StyledSlider>
   );
 };
-
-export default Slider;

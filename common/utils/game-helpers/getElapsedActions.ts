@@ -1,6 +1,9 @@
 import { GameAction, GameClock } from '@/common/types';
 
-function getElapsedActions(clock: GameClock, playByPlay: GameAction[]) {
+export const getElapsedActions = (
+  clock: GameClock,
+  playByPlay: GameAction[]
+) => {
   let filtered = [];
 
   for (let i = 0; i < playByPlay.length; i++) {
@@ -19,6 +22,4 @@ function getElapsedActions(clock: GameClock, playByPlay: GameAction[]) {
   }
 
   return filtered;
-}
-
-export default getElapsedActions;
+};

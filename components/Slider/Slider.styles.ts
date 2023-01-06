@@ -31,7 +31,7 @@ const variants: {
   }),
 };
 
-export interface StyledSliderProps {
+export type StyledSliderProps = {
   variant?: 'solid';
   colorScheme?: ColorScheme;
   isDragging?: boolean;
@@ -44,7 +44,7 @@ export interface StyledSliderProps {
   _active?: {
     thumbBg?: string;
   };
-}
+};
 
 export const StyledSlider = styled.div<StyledSliderProps>`
   [data-part='root'] {

@@ -1,1 +1,1 @@
-export { default as default } from './ScrollArea';
+export * from './ScrollArea';

@@ -2,10 +2,10 @@ import styled from '@emotion/styled';
 import { teamColors } from '@/common/data';
 import { GameAction, TeamTricode } from '@/common/types';
 
-interface StyledActionContentProps {
+export type StyledActionContentProps = {
   shotResult: GameAction['shotResult'];
   teamTricode?: TeamTricode;
-}
+};
 
 export const StyledActionContent = styled.div<StyledActionContentProps>`
   position: relative;

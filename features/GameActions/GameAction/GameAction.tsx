@@ -5,15 +5,15 @@ import { teamNames } from '@/common/data';
 import { areEqual } from '@/common/utils';
 import { GameAction as IGameAction } from '@/common/types';
 import { addOrdinalSuffix, toTitleCase } from '@/common/utils';
-import ActionContent from './ActionContent';
+import { ActionContent } from './ActionContent';
 
-interface GameActionProps {
+export type GameActionProps = {
   action: IGameAction;
   previousAction?: IGameAction;
   nextAction?: IGameAction;
-}
+};
 
-const GameAction: FC<GameActionProps> = ({
+const GameActionBase: FC<GameActionProps> = ({
   action,
   previousAction: previous,
   nextAction: next,
@@ -295,4 +295,4 @@ const GameAction: FC<GameActionProps> = ({
   }
 };
 
-export default memo(GameAction, areEqual);
+export const GameAction = memo(GameActionBase, areEqual);

@@ -1,10 +1,10 @@
 import { createContext, useContext, useRef } from 'react';
 import type { ReactNode, RefObject } from 'react';
 
-interface ScheduleContextProps {
+export type ScheduleContextProps = {
   scrollToRef: RefObject<HTMLDivElement>;
   scrollAreaRef: RefObject<HTMLDivElement>;
-}
+};
 
 const ScheduleContext = createContext<ScheduleContextProps>({
   scrollToRef: null as any,

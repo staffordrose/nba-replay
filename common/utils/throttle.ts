@@ -1,6 +1,6 @@
 let throttlePause: boolean;
 
-const throttle = (callback: Function, time: number) => {
+export const throttle = (callback: Function, time: number) => {
   if (throttlePause) return;
 
   throttlePause = true;
@@ -11,5 +11,3 @@ const throttle = (callback: Function, time: number) => {
     throttlePause = false;
   }, time);
 };
-
-export default throttle;

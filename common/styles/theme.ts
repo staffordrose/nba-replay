@@ -45,7 +45,7 @@ const spacing = {
   144: '36rem',
 };
 
-const theme = {
+export const theme = {
   borderRadius: {
     none: '0px',
     '2xs': '0.5px',
@@ -307,5 +307,3 @@ const theme = {
     fit: 'fit-content',
   },
 };
-
-export default theme;

@@ -2,7 +2,7 @@ import { shallowDiffers } from './shallowDiffers';
 
 // Pulled from react-window
 // https://github.com/bvaughn/react-window/blob/master/src/areEqual.js
-export function areEqual(prevProps: Object, nextProps: Object): boolean {
+export const areEqual = (prevProps: Object, nextProps: Object): boolean => {
   // @ts-ignore
   const { style: prevStyle, ...prevRest } = prevProps;
   // @ts-ignore
@@ -11,4 +11,4 @@ export function areEqual(prevProps: Object, nextProps: Object): boolean {
   return (
     !shallowDiffers(prevStyle, nextStyle) && !shallowDiffers(prevRest, nextRest)
   );
-}
+};

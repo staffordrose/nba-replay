@@ -5,7 +5,7 @@ import { formatGameTimestamp } from '@/common/utils';
 import { Image } from '@/components';
 import { StyledActionContent } from './ActionContent.styles';
 
-interface ActionContentProps {
+export type ActionContentProps = {
   clock: GameAction['clock'];
   personId: GameAction['personId'];
   playerNameI: GameAction['playerNameI'];
@@ -14,9 +14,9 @@ interface ActionContentProps {
   shotResult: GameAction['shotResult'];
   teamTricode: GameAction['teamTricode'];
   children: ReactNode;
-}
+};
 
-const ActionContent: FC<ActionContentProps> = ({
+export const ActionContent: FC<ActionContentProps> = ({
   clock,
   personId,
   playerNameI,
@@ -60,5 +60,3 @@ const ActionContent: FC<ActionContentProps> = ({
     </StyledActionContent>
   );
 };
-
-export default ActionContent;

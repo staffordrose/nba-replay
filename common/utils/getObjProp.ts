@@ -5,7 +5,7 @@ type Obj = {
   [key: string]: any;
 };
 
-export function getObjProp(obj: Obj, path: string) {
+export const getObjProp = (obj: Obj, path: string) => {
   if (!isString(path)) return null;
 
   const pathArr: string[] = path.split('.');
@@ -18,4 +18,4 @@ export function getObjProp(obj: Obj, path: string) {
   }
 
   return current;
-}
+};

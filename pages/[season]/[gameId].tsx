@@ -10,10 +10,10 @@ import { GameActions, GameBanner, ShotChart } from '@/features';
 import { useGame, useGameSlider } from '@/hooks';
 import { getPlayByPlay } from '@/lib/nba-stats';
 
-interface GameProps {
+type GameProps = {
   game: IGame;
   playByPlay: GameAction[];
-}
+};
 
 const Game: NextPage<GameProps> = ({ game, playByPlay }) => {
   const {

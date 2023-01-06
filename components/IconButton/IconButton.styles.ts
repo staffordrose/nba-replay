@@ -106,7 +106,7 @@ const innerBorderRadiusSizes: { [key: string]: string } = {
   xl: 'lg',
 };
 
-export interface StyledIconButtonProps {
+export type StyledIconButtonProps = {
   variant?: 'solid' | 'light';
   colorScheme?: ColorScheme;
   size?: 'xl' | 'lg' | 'md' | 'sm' | 'xs';
@@ -143,7 +143,7 @@ export interface StyledIconButtonProps {
   active?: boolean;
   disabled?: boolean;
   children: ReactNode;
-}
+};
 
 export const StyledIconButton = styled.button<StyledIconButtonProps>`
   width: ${({ theme, size, width }) =>

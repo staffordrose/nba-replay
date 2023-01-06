@@ -3,11 +3,11 @@ import type { FC } from 'react';
 import NextImage from 'next/image';
 import type { ImageProps as NextImageProps } from 'next/image';
 
-interface ImageProps extends NextImageProps {
+export type ImageProps = NextImageProps & {
   fallbackSrc?: NextImageProps['src'];
-}
+};
 
-const Image: FC<ImageProps> = ({ src, fallbackSrc = '', ...props }) => {
+export const Image: FC<ImageProps> = ({ src, fallbackSrc = '', ...props }) => {
   const [imgSrc, setImgSrc] = useState(src);
 
   return (
@@ -20,5 +20,3 @@ const Image: FC<ImageProps> = ({ src, fallbackSrc = '', ...props }) => {
     />
   );
 };
-
-export default Image;

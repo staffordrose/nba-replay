@@ -1,3 +1,3 @@
-export { default as useGame } from './useGame';
-export { default as useGameSlider } from './useGameSlider';
-export { default as useViewportScroll } from './useViewportScroll';
+export * from './useGame';
+export * from './useGameSlider';
+export * from './useViewportScroll';

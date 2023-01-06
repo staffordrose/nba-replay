@@ -2,10 +2,10 @@ import styled from '@emotion/styled';
 import { teamColors } from '@/common/data';
 import { rgbToHsl } from '@/common/utils';
 
-interface StyledGameBannerProps {
+export type StyledGameBannerProps = {
   awayTeamTricode: string;
   homeTeamTricode: string;
-}
+};
 
 export const StyledGameBanner = styled.div<StyledGameBannerProps>`
   position: relative;

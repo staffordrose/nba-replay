@@ -2,12 +2,12 @@ import { TeamName } from './TeamName';
 import { TeamSlug } from './TeamSlug';
 import { TeamTricode } from './TeamTricode';
 
-interface TeamStat {
+type TeamStat = {
   avg: string;
   rank: string;
-}
+};
 
-export interface TeamStats {
+export type TeamStats = {
   abbreviation: TeamTricode;
   apg: TeamStat;
   bpg: TeamStat;
@@ -28,4 +28,4 @@ export interface TeamStats {
   tpg: TeamStat;
   tpp: TeamStat;
   trpg: TeamStat;
-}
+};

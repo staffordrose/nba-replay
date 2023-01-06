@@ -1,4 +1,4 @@
-export function addOrdinalSuffix(num: number): string {
+export const addOrdinalSuffix = (num: number): string => {
   let a = num % 10,
     b = num % 100;
 
@@ -9,4 +9,4 @@ export function addOrdinalSuffix(num: number): string {
   if (a == 3 && b != 13) return num + 'rd';
 
   return num + 'th';
-}
+};

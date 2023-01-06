@@ -1,4 +1,4 @@
-export interface ScheduleItem {
+export type ScheduleItem = {
   id: string;
   category:
     | 'pre-season'
@@ -9,4 +9,4 @@ export interface ScheduleItem {
   beforeText?: string;
   text: string;
   afterText?: string;
-}
+};

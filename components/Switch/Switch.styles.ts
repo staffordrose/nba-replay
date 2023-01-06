@@ -70,7 +70,7 @@ const variants: {
   }),
 };
 
-export interface StyledSwitchProps {
+export type StyledSwitchProps = {
   variant?: 'solid' | 'light';
   colorScheme?: ColorScheme;
   orientation?: 'horizontal' | 'vertical';
@@ -93,7 +93,7 @@ export interface StyledSwitchProps {
     bg?: string;
     opacity?: number;
   };
-}
+};
 
 export const StyledSwitch = styled.button<StyledSwitchProps>`
   width: ${({ theme, orientation }) =>

@@ -1,4 +1,4 @@
-export interface GameScore {
+export type GameScore = {
   away: number;
   home: number;
-}
+};

@@ -2,7 +2,7 @@ import { TeamName } from './TeamName';
 import { TeamSlug } from './TeamSlug';
 import { TeamTricode } from './TeamTricode';
 
-export interface Team {
+export type Team = {
   teamId: string;
   altCityName: string;
   city: string;
@@ -21,4 +21,4 @@ export interface Team {
   teamShortName: string;
   tricode: TeamTricode;
   urlName: TeamSlug;
-}
+};

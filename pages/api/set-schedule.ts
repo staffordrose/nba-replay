@@ -1,5 +1,5 @@
 import fs from 'fs';
-import type { NextApiRequest, NextApiResponse } from 'next';
+import type { NextApiHandler, NextApiResponse } from 'next';
 import { GameDate } from '@/common/types';
 import { getSchedule } from '@/lib/nba-stats';
 
@@ -8,10 +8,14 @@ const SEASON = '2021';
 const RESOURCE = 'schedule';
 const PATH = `${BASE_PATH}/${SEASON}/${RESOURCE}`;
 
-export default async function handler(
-  req: NextApiRequest,
-  res: NextApiResponse<GameDate[]>
-) {
+const handler: NextApiHandler = async (
+  req,
+  res
+): Promise<NextApiResponse<GameDate[]> | void> => {
+  if (req.method !== 'GET') {
+    return res.status(405).json({ message: 'Only GET requests are allowed.' });
+  }
+
   try {
     const data = await getSchedule();
 
@@ -159,9 +163,16 @@ export default async function handler(
         }
       );
     }
-  } catch (error) {
-    console.log('error :>>', error);
-  }
 
-  res.status(200);
-}
+    return res.status(200).json(data);
+  } catch (error) {
+    return res.status(400).json({
+      message:
+        error instanceof Error
+          ? error?.message
+          : `Something went wrong setting the season schedule`,
+    });
+  }
+};
+
+export default handler;

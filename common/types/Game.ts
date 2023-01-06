@@ -3,7 +3,7 @@ import { TeamName } from './TeamName';
 import { TeamSlug } from './TeamSlug';
 import { TeamTricode } from './TeamTricode';
 
-interface GameTeam {
+type GameTeam = {
   teamId: number;
   teamCity: string;
   teamName: TeamName;
@@ -13,9 +13,9 @@ interface GameTeam {
   losses: number;
   seed: number;
   score?: number;
-}
+};
 
-export interface Game {
+export type Game = {
   arenaCity: string;
   arenaName: string;
   arenaState: string;
@@ -43,4 +43,4 @@ export interface Game {
   seriesText: string;
   weekName?: string;
   weekNumber: number;
-}
+};

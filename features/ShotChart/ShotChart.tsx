@@ -10,15 +10,15 @@ import { Game, GameAction, GameClock } from '@/common/types';
 
 type CamPosition = 'top' | 'side';
 
-interface ShotChartProps {
+export type ShotChartProps = {
   camPosition: CamPosition;
   awayTeam: Game['awayTeam'];
   homeTeam: Game['homeTeam'];
   shots: GameAction[];
   gameClock: GameClock;
-}
+};
 
-const ShotChart: FC<ShotChartProps> = ({
+export const ShotChart: FC<ShotChartProps> = ({
   camPosition,
   awayTeam,
   homeTeam,
@@ -543,5 +543,3 @@ const ShotChart: FC<ShotChartProps> = ({
     </div>
   );
 };
-
-export default ShotChart;

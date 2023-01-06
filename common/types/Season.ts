@@ -1,4 +1,4 @@
-export interface Season {
+export type Season = {
   id: string;
   year: number;
   image: {
@@ -10,4 +10,4 @@ export interface Season {
       companyUrl?: string;
     };
   };
-}
+};

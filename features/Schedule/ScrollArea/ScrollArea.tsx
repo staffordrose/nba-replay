@@ -3,11 +3,11 @@ import type { FC, ReactNode, UIEvent } from 'react';
 import { css } from '@emotion/react';
 import { useScheduleContext } from '@/context';
 
-interface ScrollAreaProps {
+export type ScrollAreaProps = {
   children: ReactNode;
-}
+};
 
-const ScrollArea: FC<ScrollAreaProps> = ({ children }) => {
+export const ScrollArea: FC<ScrollAreaProps> = ({ children }) => {
   const { scrollAreaRef } = useScheduleContext();
 
   const [leftOpacity, setLeftOpacity] = useState(1);
@@ -136,5 +136,3 @@ const ScrollArea: FC<ScrollAreaProps> = ({ children }) => {
     </div>
   );
 };
-
-export default ScrollArea;

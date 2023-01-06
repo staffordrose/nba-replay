@@ -1,14 +1,14 @@
 import type { FC, ReactNode } from 'react';
 import { StyledFeedback, StyledFeedbackProps } from './Feedback.styles';
 
-interface FeedbackProps extends StyledFeedbackProps {
+export type FeedbackProps = StyledFeedbackProps & {
   title?: string;
   titleHeading?: 'h1' | 'h2' | 'h3';
   message?: string;
   children?: ReactNode;
-}
+};
 
-const Feedback: FC<FeedbackProps> = ({
+export const Feedback: FC<FeedbackProps> = ({
   type = 'info',
   title = 'Oops, there was an error!',
   titleHeading = 'h1',
@@ -31,5 +31,3 @@ const Feedback: FC<FeedbackProps> = ({
     </StyledFeedback>
   );
 };
-
-export default Feedback;

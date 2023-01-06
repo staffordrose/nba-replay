@@ -6,10 +6,10 @@ import { GameDate } from '@/common/types';
 import { useScheduleContext } from '@/context';
 import { GamesGrid, Schedule } from '@/features';
 
-interface GameScheduleProps {
+type GameScheduleProps = {
   season: number;
   schedule: GameDate[];
-}
+};
 
 const GameSchedule: NextPage<GameScheduleProps> = ({ season, schedule }) => {
   const { scrollToRef } = useScheduleContext();

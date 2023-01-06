@@ -2,7 +2,7 @@ import { useId } from 'react';
 import { normalizeProps, useMachine, useSetup } from '@zag-js/react';
 import * as slider from '@zag-js/slider';
 
-interface UseSliderProps {
+export type UseSliderProps = {
   name: string;
   origin?: 'start' | 'center';
   min?: number;
@@ -13,9 +13,9 @@ interface UseSliderProps {
   onChangeEnd?: (details: { value: number }) => void;
   disabled?: boolean;
   readonly?: boolean;
-}
+};
 
-const useSlider = ({
+export const useSlider = ({
   name,
   origin = 'start',
   min = 0,
@@ -46,5 +46,3 @@ const useSlider = ({
 
   return { ref, api };
 };
-
-export default useSlider;

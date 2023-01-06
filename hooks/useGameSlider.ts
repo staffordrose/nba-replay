@@ -4,7 +4,7 @@ import { GameAction, GameScore, GameClock } from '@/common/types';
 import { getLastAction } from '@/common/utils';
 import { useSlider } from '@/components';
 
-interface UseGameSliderProps {
+export type UseGameSliderProps = {
   playByPlay: GameAction[];
   totalMinutes: number;
   elapsedSeconds: number;
@@ -12,9 +12,9 @@ interface UseGameSliderProps {
   setGameScore: (gameScore: GameScore) => void;
   isPlaying: boolean;
   playSpeed: number;
-}
+};
 
-const useGameSlider = ({
+export const useGameSlider = ({
   playByPlay,
   totalMinutes,
   elapsedSeconds,
@@ -135,5 +135,3 @@ const useGameSlider = ({
     sliderApi,
   };
 };
-
-export default useGameSlider;

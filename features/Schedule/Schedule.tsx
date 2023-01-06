@@ -5,10 +5,10 @@ import { css } from '@emotion/react';
 import { MdKeyboardArrowLeft, MdKeyboardArrowRight } from 'react-icons/md';
 import { scheduleItems } from '@/common/data';
 import { Button, IconButton } from '@/components';
-import ScrollArea from './ScrollArea';
 import { useScheduleContext } from '@/context';
+import { ScrollArea } from './ScrollArea';
 
-const Schedule: FC = () => {
+export const Schedule: FC = () => {
   const router = useRouter();
   const { query } = router;
 
@@ -182,5 +182,3 @@ const Schedule: FC = () => {
     </div>
   );
 };
-
-export default Schedule;

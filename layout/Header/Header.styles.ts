@@ -1,8 +1,8 @@
 import styled from '@emotion/styled';
 
-interface StyledHeaderProps {
+export type StyledHeaderProps = {
   showTitle: boolean;
-}
+};
 
 export const StyledHeader = styled.header<StyledHeaderProps>`
   overflow: hidden;

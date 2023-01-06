@@ -54,11 +54,11 @@ const handler: NextApiHandler = async (
       const POST_SEASON = `004${SEASON.slice(2)}`;
       const PLAY_IN = `005${SEASON.slice(2)}`;
 
-      let preSeason = [];
-      let regSeason: GameDate[][] = [...Array(25)].map(() => []);
-      let allStar = [];
-      let postSeason: GameDate[][] = [...Array(4)].map(() => []);
-      let playIn = [];
+      const preSeason = [];
+      const regSeason: GameDate[][] = [...Array(25)].map(() => []);
+      const allStar = [];
+      const postSeason: GameDate[][] = [...Array(4)].map(() => []);
+      const playIn = [];
 
       for (let i = 0; i < allGameDates.length; i++) {
         const gameDate = allGameDates[i];
@@ -118,8 +118,8 @@ const handler: NextApiHandler = async (
       fs.writeFile(
         `${PATH}/pre-season/pre-season.json`,
         JSON.stringify(preSeason, null, 2),
-        (err: any) => {
-          if (err) throw err;
+        (err) => {
+          if (err instanceof Error) throw err;
         }
       );
 
@@ -128,8 +128,8 @@ const handler: NextApiHandler = async (
         fs.writeFile(
           `${PATH}/reg-season/week-${i + 1}.json`,
           JSON.stringify(regSeason[i], null, 2),
-          (err: any) => {
-            if (err) throw err;
+          (err) => {
+            if (err instanceof Error) throw err;
           }
         );
       }
@@ -138,8 +138,8 @@ const handler: NextApiHandler = async (
       fs.writeFile(
         `${PATH}/all-star/all-star.json`,
         JSON.stringify(allStar, null, 2),
-        (err: any) => {
-          if (err) throw err;
+        (err) => {
+          if (err instanceof Error) throw err;
         }
       );
 
@@ -148,8 +148,8 @@ const handler: NextApiHandler = async (
         fs.writeFile(
           `${PATH}/post-season/round-${i + 1}.json`,
           JSON.stringify(postSeason[i], null, 2),
-          (err: any) => {
-            if (err) throw err;
+          (err) => {
+            if (err instanceof Error) throw err;
           }
         );
       }
@@ -158,8 +158,8 @@ const handler: NextApiHandler = async (
       fs.writeFile(
         `${PATH}/play-in/play-in.json`,
         JSON.stringify(playIn, null, 2),
-        (err: any) => {
-          if (err) throw err;
+        (err) => {
+          if (err instanceof Error) throw err;
         }
       );
     }

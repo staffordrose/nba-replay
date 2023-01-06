@@ -2,6 +2,7 @@ import isObject from 'lodash.isobject';
 import isString from 'lodash.isstring';
 
 type Obj = {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   [key: string]: any;
 };
 

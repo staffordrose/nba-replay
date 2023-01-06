@@ -3,6 +3,7 @@ import { StyledSlider, StyledSliderProps } from './Slider.styles';
 
 export type SliderProps = StyledSliderProps & {
   innerRef: MutableRefObject<HTMLDivElement>;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   api: { [key: string]: any };
 };
 

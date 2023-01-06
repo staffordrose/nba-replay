@@ -36,8 +36,8 @@ const handler: NextApiHandler = async (
         fs.writeFile(
           `${PATH}/${game.gameId}.json`,
           JSON.stringify(game, null, 2),
-          (err: any) => {
-            if (err) throw err;
+          (err) => {
+            if (err instanceof Error) throw err;
           }
         );
       }

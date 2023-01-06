@@ -58,7 +58,7 @@ export const getPlayByPlay = async (gameId: string): Promise<GameAction[]> => {
     const data = await response.json();
 
     if (data?.game?.actions) {
-      let filteredPlayByPlay = [];
+      const filteredPlayByPlay = [];
 
       for (let i = 0; i < data.game.actions.length; i++) {
         filteredPlayByPlay[i] = filterActionProperties(data.game.actions[i]);

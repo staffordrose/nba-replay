@@ -7,7 +7,9 @@ export type ScheduleContextProps = {
 };
 
 const ScheduleContext = createContext<ScheduleContextProps>({
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   scrollToRef: null as any,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   scrollAreaRef: null as any,
 });
 

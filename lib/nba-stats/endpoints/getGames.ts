@@ -50,7 +50,7 @@ export const getGames = async (): Promise<Game[]> => {
         ({ games }: { games: Game[] }) => games
       ) ?? [];
 
-    let filteredGames = [];
+    const filteredGames = [];
 
     for (let i = 0; i < games.length; i++) {
       filteredGames[i] = filterGameProperties(games[i]);

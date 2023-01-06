@@ -416,7 +416,9 @@ const Game: NextPage<GameProps> = ({ game, playByPlay }) => {
 };
 
 export const getServerSideProps: GetServerSideProps = async ({ params }) => {
+  // eslint-disable-next-line @typescript-eslint/no-var-requires
   const fs = require('fs');
+  // eslint-disable-next-line @typescript-eslint/no-var-requires
   const path = require('path');
 
   let game: IGame = {} as IGame;
@@ -440,22 +442,24 @@ export const getServerSideProps: GetServerSideProps = async ({ params }) => {
     );
     game = JSON.parse(gameRes);
     playByPlay = await getPlayByPlay(gameId);
-  } catch (err: any) {
-    const msg = err.message;
+  } catch (err) {
+    if (err instanceof Error) {
+      const msg = err.message;
 
-    console.log('Error requesting game :>> ', msg);
+      console.log('Error requesting game :>> ', msg);
 
-    error = {
-      title: `Couldn't Retrieve Game`,
-      message:
-        msg === 'season is missing' || msg === 'gameId is missing'
-          ? `The ${msg}.`
-          : `The ${season}-${(Number(season) + 1)
-              .toString()
-              .slice(
-                2
-              )} season is unavailable, or game "${gameId}" does not exist for that season.`,
-    };
+      error = {
+        title: `Couldn't Retrieve Game`,
+        message:
+          msg === 'season is missing' || msg === 'gameId is missing'
+            ? `The ${msg}.`
+            : `The ${season}-${(Number(season) + 1)
+                .toString()
+                .slice(
+                  2
+                )} season is unavailable, or game "${gameId}" does not exist for that season.`,
+      };
+    }
   }
 
   return {

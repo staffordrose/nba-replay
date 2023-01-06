@@ -18,7 +18,7 @@ export const getGameIds = async (): Promise<string[]> => {
         ({ games }: { games: Game[] }) => games
       ) ?? [];
 
-    let gameIds = [];
+    const gameIds = [];
 
     for (let i = 0; i < games.length; i++) {
       gameIds[i] = games[i].gameId;

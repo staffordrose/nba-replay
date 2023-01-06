@@ -83,10 +83,12 @@ export const getServerSideProps: GetServerSideProps = async ({
   query,
   params,
 }) => {
+  // eslint-disable-next-line @typescript-eslint/no-var-requires
   const fs = require('fs');
+  // eslint-disable-next-line @typescript-eslint/no-var-requires
   const path = require('path');
 
-  let season: string = Array.isArray(params?.season)
+  const season: string = Array.isArray(params?.season)
     ? params?.season[0] ?? ''
     : params?.season ?? '';
   let schedule: GameDate[] = [];
@@ -114,20 +116,22 @@ export const getServerSideProps: GetServerSideProps = async ({
       'utf8'
     );
     schedule = JSON.parse(res);
-  } catch (err: any) {
-    const msg = err.message;
+  } catch (err) {
+    if (err instanceof Error) {
+      const msg = err.message;
 
-    console.log('Error requesting season :>> ', msg);
+      console.log('Error requesting season :>> ', msg);
 
-    error = {
-      title: `Couldn't Retrieve Season`,
-      message:
-        msg === 'season is missing'
-          ? `The ${msg}.`
-          : `The ${season}-${(Number(season) + 1)
-              .toString()
-              .slice(2)} season is unavailable.`,
-    };
+      error = {
+        title: `Couldn't Retrieve Season`,
+        message:
+          msg === 'season is missing'
+            ? `The ${msg}.`
+            : `The ${season}-${(Number(season) + 1)
+                .toString()
+                .slice(2)} season is unavailable.`,
+      };
+    }
   }
 
   return {
